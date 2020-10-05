@@ -1,8 +1,8 @@
 //Function
-var shortLink = "https://www.besttips3s.com/";
+var shortLink = "https://www.greattips3s.com/";
 function checkLocal(objURL){
 	for (var i = 0; i < objURL.length; i++) {
-		 if (objURL[i] == "US" || objURL[i] == "CA" || objURL[i] == "UK") {
+		 if (objURL[i] == "US" || objURL[i] == "CA" || objURL[i] == "UK" || objURL[i] == "P") {
 			return true;
 		}
 	}
@@ -17,6 +17,8 @@ function getLocal(objURL){
 			return "CA";
 		}else if(objURL[1] == "UK"){
 			return "UK";
+		}else if(objURL[1] == "P"){
+			return "P";
 		}else{
 			return false;
 		}
