@@ -18,7 +18,7 @@ function getLocal(objURL){
 		}else if(objURL[1] == "UK"){
 			return "UK";
 		}else if(objURL[1] == "P"){
-			return "P";
+			return "US";
 		}else{
 			return false;
 		}
