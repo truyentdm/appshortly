@@ -68,7 +68,7 @@ function myCheckAsin(fn,dataAMZCK){
       asin = asin.trim();
   document.getElementById("lblResult").innerHTML = ""
   if(checkASIN(asin,dataAMZCK)){
-  	document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>US: " + dataAMZCK[asin]["US"] + "<br/>CA: " + dataAMZCK[asin]["CA"] + "<br/>UK: " + dataAMZCK[asin]["UK"]+"<br/>----------------------------<br/>"+"Current Price & More Info (US) ► "+createLink(asin,"p")+"<br/>----------------------------<br/>"+"<br/><br/><br/>Current Price & More Info (US) ► "+createLink(asin,"us")+"<br/>Current Price & More Info (CA) ► "+createLink(asin,"ca")+"<br/>Current Price & More Info (UK) ► "+createLink(asin,"uk");
+  	document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>US: " + dataAMZCK[asin]["US"] + "<br/>CA: " + dataAMZCK[asin]["CA"] + "<br/>UK: " + dataAMZCK[asin]["UK"]+"<br/>----------------------------<br/>"+"Current Price & More Info (US) ► "+createLink(asin,"p")+"<br/>----------------------------<br/>"+"<br/>Current Price & More Info (US) ► "+createLink(asin,"us")+"<br/>Current Price & More Info (CA) ► "+createLink(asin,"ca")+"<br/>Current Price & More Info (UK) ► "+createLink(asin,"uk");
   }else{
   	document.getElementById("lblResult").innerHTML = "Current Price & More Info (US) ►" + shortLink +"p/"+asin.toLowerCase();
   }
