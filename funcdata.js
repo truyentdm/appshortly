@@ -1,6 +1,6 @@
 //Function
 var shortLink = "https://www.greattips3s.com/";
-Var lockLocal = [];
+var lockLocal = [];
 function checkLocal(objURL){
 	for (var i = 0; i < objURL.length; i++) {
 		 if (objURL[i] == "US" || objURL[i] == "CA" || objURL[i] == "UK" || objURL[i] == "P") {
