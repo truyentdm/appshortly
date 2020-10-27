@@ -1,5 +1,6 @@
 //Function
 var shortLink = "https://www.greattips3s.com/";
+Var lockLocal = [];
 function checkLocal(objURL){
 	for (var i = 0; i < objURL.length; i++) {
 		 if (objURL[i] == "US" || objURL[i] == "CA" || objURL[i] == "UK" || objURL[i] == "P") {
@@ -11,14 +12,12 @@ function checkLocal(objURL){
 
 function getLocal(objURL){
 	if(checkLocal(objURL)){
-		if (objURL[1] == "US") { 
+		if (objURL[1] == "US" || objURL[1] == "P") { 
 			return "US";
 		}else if(objURL[1] == "CA"){
 			return "CA";
 		}else if(objURL[1] == "UK"){
 			return "UK";
-		}else if(objURL[1] == "P"){
-			return "US";
 		}else{
 			return false;
 		}
@@ -37,10 +36,19 @@ function checkDataAMZ(dataAMZ,objURL){
 	var gLocal = getLocal(objURL);
 	var gAsin = getASIN(objURL);
 	var existAS = typeof dataAMZ[gAsin] != "undefined" ? true : false;
+	var isLock = false;
 	var existLocal =false;
-	if(existAS){
+	if(typeof lockLocal=="object"){
+		lockLocal.forEach((item, index)=>{
+			if(item.toLowerCase() == gLocal.toLowerCase()){
+				isLock = true;
+			}
+		});
+	}
+	if(existAS && !isLock){
 		existLocal= typeof dataAMZ[gAsin][gLocal] != "undefined" ? true : false;
 	}
+	
 	return existLocal;
 }
 function getLinkDataAMZ(dataAMZ,objURL){
