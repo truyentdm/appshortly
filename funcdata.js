@@ -58,9 +58,26 @@ function checkASIN(asin,data){
   return existAS;
 }
 function createLink(asin,local){
- var asinShort = asin.toLowerCase();
- var localShort = local.toLowerCase();
- return shortLink+localShort+"/"+asinShort;
+ 	var asinShort = asin.toLowerCase();
+ 	var localShort = local.toLowerCase();
+	var sLink = "";
+	if(typeof shortLink == "object"){
+		if(localShort == "us" || localShort == "p"){
+			sLink = shortLink[0];
+		}else if(localShort == "ca"){
+			sLink = shortLink[1];
+		}else if(localShort == "uk"){
+			sLink = shortLink[2];
+		}else{
+			sLink = "";
+		}
+	}
+	if(sLink==""){
+		return shortLink+localShort+"/"+asinShort;
+	}else{
+		return sLink+localShort+"/"+asinShort;
+	}
+ 	
 }
 function myCheckAsin(fn,dataAMZCK){
   var asin = fn.txtAsin.value;
@@ -70,7 +87,7 @@ function myCheckAsin(fn,dataAMZCK){
   if(checkASIN(asin,dataAMZCK)){
   	document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>US: " + dataAMZCK[asin]["US"] + "<br/>CA: " + dataAMZCK[asin]["CA"] + "<br/>UK: " + dataAMZCK[asin]["UK"]+"<br/>----------------------------<br/>"+"Current Price & More Info (US) ► "+createLink(asin,"p")+"<br/>----------------------------<br/>"+"<br/>Current Price & More Info (US) ► "+createLink(asin,"us")+"<br/>Current Price & More Info (CA) ► "+createLink(asin,"ca")+"<br/>Current Price & More Info (UK) ► "+createLink(asin,"uk");
   }else{
-  	document.getElementById("lblResult").innerHTML = "Current Price & More Info (US) ►" + shortLink +"p/"+asin.toLowerCase();
+  	document.getElementById("lblResult").innerHTML = "Current Price & More Info (US) ►"  + createLink(asin,"p");
   }
 
   return true;
@@ -81,7 +98,7 @@ function myCheckAsin(fn,dataAMZCK){
      if(upWord){
        document.getElementById("lblResult").innerHTML = lblText.toUpperCase();
      }else{
-       document.getElementById("lblResult").innerHTML = lblText.toLowerCase() + "<hr/>" + shortLink +"us/"+lblText.toLowerCase();
+       document.getElementById("lblResult").innerHTML = lblText.toLowerCase() + "<hr/>" + createLink(lblText,"us");
      }
   }
  function myConvertTo(fn,direction){
@@ -107,7 +124,7 @@ function myCheckAsin(fn,dataAMZCK){
             }
         }
     }
-    document.getElementById("lblResult").innerHTML = isTrue ? "OK : "+ txtAsin + " - " + shortLink +"us/"+ txtAsin.toLowerCase() : "NOT"
+    document.getElementById("lblResult").innerHTML = isTrue ? "OK : "+ txtAsin + " - " + createLink(txtAsin,"us") : "NOT"
         
   }
 function compareReferrer(objRef){
