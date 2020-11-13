@@ -146,17 +146,17 @@ function compareReferrer(objRef){
 	}
 	return false;
 }
-function htmlRedirect404(url){
+function htmlRedirect404(url,tag="Amazon"){
 	var htmlJS = ""
 	htmlJS += "<div class=\"widget Blog\">";
 	htmlJS += "<div class=\"wp_errorWrap\">";
 	htmlJS += "<div class=\"errorWrap2\">";
-	htmlJS += "<h4>You will be redirected to the purchase page of Amazon.</h4>";
+	htmlJS += "<h4>You will be redirected to the purchase page of "+tag+".</h4>";
 	htmlJS += "<a href='/'> "+location.hostname+" </a>";
-	htmlJS += "is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to"
-	htmlJS += "<a href='https://amazon.com'> Amazon.com</a> ";
-	htmlJS += ". Amazon, the Amazon logo, AmazonSupply, and the AmazonSupply logo are trademarks of"
-	htmlJS += "<a href='https://amazon.com'> Amazon.com </a>";
+	htmlJS += "is a participant in the "+tag+" Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to"
+	htmlJS += "<a href='https://"+tag+".com'> "+tag+".com</a> ";
+	htmlJS += ". "+tag+", the "+tag+" logo, "+tag+"Supply, and the "+tag+"Supply logo are trademarks of"
+	htmlJS += "<a href='https://"+tag+".com'> "+tag+".com </a>";
 	htmlJS += ", Inc. or its affiliates.";
 	htmlJS += "</div>";
 	htmlJS += "<div class=\"errorWrap\">";
