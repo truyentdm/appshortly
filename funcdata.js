@@ -175,8 +175,8 @@ function htmlLoading(text){
 	htmlJS += "</div>";
 	return htmlJS;
 }
-function actHTML(isSource,glink,idWeb="Blog1"){
-	document.getElementById(idWeb).innerHTML = htmlRedirect404(glink);
+function actHTML(isSource,glink,tag="Amazon",idWeb="Blog1"){
+	document.getElementById(idWeb).innerHTML = htmlRedirect404(glink,tag);
 	if(isSource){
 		//Transfer
 		window.location.href = glink;
