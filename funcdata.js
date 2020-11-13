@@ -192,6 +192,16 @@ function getLinkShortAMZ(objURL){
 	}
 	return amzLink;
 }
+function getLinkShortGlobal(objURL){
+	var mLeng = objURL.length-1;
+	var globalLink = {"to":"https://amzn.to/","gb":"http://gbe.st/"};
+	var itemLink = "https://amzn.to/";
+	if(objURL[mLeng] != ""){
+		itemLink = globalLink[getSupply(objURL)];
+		itemLink += objURL[mLeng];
+	}
+	return itemLink;
+}
 
 function checkTo(objURL){
 	for (var i = 0; i < objURL.length; i++) {
