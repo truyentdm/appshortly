@@ -195,9 +195,22 @@ function getLinkShortAMZ(objURL){
 
 function checkTo(objURL){
 	for (var i = 0; i < objURL.length; i++) {
-		 if (objURL[i] == "to") {
+		 if (objURL[i] == "to" || objURL[i] == "gb") {
 			return true;
 		}
+	}
+	return false;
+}
+function getSupply(objURL){
+	if(checkTo(objURL)){
+		if (objURL[1] == "to") { 
+			return "to";
+		}else if(objURL[1] == "gb"){
+			return "gb";
+		}else{
+			return false;
+		}
+		
 	}
 	return false;
 }
