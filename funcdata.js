@@ -167,7 +167,22 @@ function htmlRedirect404(url,tag="Amazon"){
 	htmlJS += "</div>";
 	return htmlJS;
 }
-
+function textRedirect404(url,dataText){
+	var htmlJS = "";
+	htmlJS += "<div class=\"widget Blog\">";
+	htmlJS += "<div class=\"wp_errorWrap\">";
+	htmlJS += "<div class=\"errorWrap2\">";
+	htmlJS += "<h4>"+dataText.title+"</h4>";
+	htmlJS += "<p>"+dataText.contentText+"</p>";
+	htmlJS += "</div>";
+	htmlJS += "<div class=\"errorWrap\">";
+	htmlJS += "<a class=\"homepage\" href='" + url + "'> Continue </a> &nbsp;";
+	htmlJS += "<a class=\"homepage\" href=\"/\"> Home </a>";
+	htmlJS += "</div>";
+	htmlJS += "</div>";
+	htmlJS += "</div>";
+	return htmlJS;
+}
 function htmlLoading(text){
 	var htmlJS = "";
 	htmlJS += "<div class=\"wp_errorWrap\">";
@@ -181,6 +196,13 @@ function actHTML(isSource,glink,tag="Amazon",idWeb="Blog1"){
 		//Transfer
 		window.location.href = glink;
 	}
+}
+function joinHTML(isSource,glink,dataText={title: "You will be redirected to the purchase page",contentText: "Services LLC Associates Program"},idWeb="Blog1"){
+	document.getElementById(idWeb).innerHTML = textRedirect404(glink,dataText);
+	if(isSource){
+		//Transfer
+		window.location.href = glink;
+	}		
 }
 //VS 2 Short link
 function getLinkShortAMZ(objURL){
