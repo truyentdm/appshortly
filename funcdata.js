@@ -81,9 +81,11 @@ function createLink(asin,local){
 		}
 	}
 	if(sLink==""){
-		return shortLink+localShort+"/"+asinShort;
+		//return shortLink+localShort+"/"+asinShort;
+		return shortLink+asinShort;
 	}else{
-		return sLink+localShort+"/"+asinShort;
+		//return sLink+localShort+"/"+asinShort;
+		return sLink+asinShort;
 	}
  	
 }
