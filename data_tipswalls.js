@@ -101,7 +101,17 @@ function getData(){
 		B01BMCWJ7G: {href: "https://amzn.to/39rpgcq",slug: ""},
 		B07GYZS4RJ: {href: "https://amzn.to/38ukUBU",slug: ""},
 		B07S864GPW: {href: "https://amzn.to/2XwQXe1",slug: ""},
-		B007HIKQCK: {href: "https://amzn.to/3brhkdw",slug: ""}
+		B007HIKQCK: {href: "https://amzn.to/3brhkdw",slug: ""},
+		B008EYOPPU: {href: "https://amzn.to/3nx3RDl",slug: ""},
+		B0799Q45TT: {href: "https://amzn.to/3bA4slm",slug: ""},
+		B06XNQ8QDW: {href: "https://amzn.to/2KgpMRS",slug: ""},
+		B07GJR5M6L: {href: "https://amzn.to/2LmS65H",slug: ""},
+		B07MMMYTV7: {href: "https://amzn.to/2LmSaSZ",slug: ""},
+		B07JCZKJYB: {href: "https://amzn.to/3oKjSr1",slug: ""},
+		B00HHO0IEU: {href: "https://amzn.to/3srq4GA",slug: ""},
+		B08B8YQB99: {href: "https://amzn.to/3bC1tcn",slug: ""},
+		B00NB3P98G: {href: "https://amzn.to/3sj07ct",slug: ""},
+		B015W8E3J8: {href: "https://amzn.to/2Kdyz6Z",slug: ""}
 	}
 	return dataAMZ;
 }
