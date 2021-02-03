@@ -131,7 +131,7 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
     var txtAsin = "";
     var isTrue = false;
     if(lblText!=""){
-	if(typeof dataAMZCK[asin]["href"] != "undefined"){
+	if(typeof dataAMZ[0]["href"] != "undefined"){
 		for (var i in dataAMZ){
 		    if(dataAMZ[i]["href"]==lblText){
 		      txtAsin = i;
