@@ -95,7 +95,11 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
       asin = asin.trim();
   document.getElementById("lblResult").innerHTML = ""
   if(checkASIN(asin,dataAMZCK)){
-  	document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>US: " + dataAMZCK[asin]["US"] + "<br/>CA: " + dataAMZCK[asin]["CA"] + "<br/>UK: " + dataAMZCK[asin]["UK"]+"<br/>----------------------------<br/>"+"<br/>Current Price & More Info (US) ► "+createLink(asin,"us")+"<br/>Current Price & More Info (CA) ► "+createLink(asin,"ca")+"<br/>Current Price & More Info (UK) ► "+createLink(asin,"uk")+"<br/>----------------------------<br/>"+"Current Price & More Info (US) ► "+createLink(asin,"p");
+  	if(typeof dataAMZCK[asin]["href"] != "undefined"){
+	  document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>href: " + dataAMZCK[asin]["href"] + "<br/>Current Price & More Info (US) ► " + createLink(asin,"p")+"<br/>Current Price & More Info (CA) ► " + createLink(asin,"p")+"<br/>Current Price & More Info (UK) ► " + createLink(asin,"p");
+	}eles{
+	  document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>US: " + dataAMZCK[asin]["US"] + "<br/>CA: " + dataAMZCK[asin]["CA"] + "<br/>UK: " + dataAMZCK[asin]["UK"]+"<br/>----------------------------<br/>"+"<br/>Current Price & More Info (US) ► "+createLink(asin,"us")+"<br/>Current Price & More Info (CA) ► "+createLink(asin,"ca")+"<br/>Current Price & More Info (UK) ► "+createLink(asin,"uk")+"<br/>----------------------------<br/>"+"Current Price & More Info (US) ► "+createLink(asin,"p");
+	}		
   }else{
   	document.getElementById("lblResult").innerHTML = "Current Price & More Info ("+local.toUpperCase()+") ►"  + createLink(asin,local);
   }
