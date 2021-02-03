@@ -89,7 +89,7 @@ function createLink(asin,local){
 	}
  	
 }
-function myCheckAsin(fn,dataAMZCK){
+function myCheckAsin(fn,dataAMZCK,local="us"){
   var asin = fn.txtAsin.value;
       asin = asin.toUpperCase();
       asin = asin.trim();
@@ -97,7 +97,7 @@ function myCheckAsin(fn,dataAMZCK){
   if(checkASIN(asin,dataAMZCK)){
   	document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>US: " + dataAMZCK[asin]["US"] + "<br/>CA: " + dataAMZCK[asin]["CA"] + "<br/>UK: " + dataAMZCK[asin]["UK"]+"<br/>----------------------------<br/>"+"<br/>Current Price & More Info (US) ► "+createLink(asin,"us")+"<br/>Current Price & More Info (CA) ► "+createLink(asin,"ca")+"<br/>Current Price & More Info (UK) ► "+createLink(asin,"uk")+"<br/>----------------------------<br/>"+"Current Price & More Info (US) ► "+createLink(asin,"p");
   }else{
-  	document.getElementById("lblResult").innerHTML = "Current Price & More Info (US) ►"  + createLink(asin,"p");
+  	document.getElementById("lblResult").innerHTML = "Current Price & More Info ("+local.toUpperCase()+") ►"  + createLink(asin,local);
   }
 
   return true;
