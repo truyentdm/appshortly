@@ -124,7 +124,7 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
     }
  }
   
-  function myLinkShort(fn){
+  function myLinkShort(fn,local="us"){
     document.getElementById("lblResult").innerHTML = ""
     var lblText = fn.txtAsin.value;
         lblText = lblText.trim();
@@ -146,7 +146,7 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
 	}
 	
     }
-    document.getElementById("lblResult").innerHTML = isTrue ? "OK : "+ txtAsin + " - " + createLink(txtAsin,"us") : "NOT"
+    document.getElementById("lblResult").innerHTML = isTrue ? "OK : "+ txtAsin + " - " + createLink(txtAsin,local) : "NOT"
         
   }
 function compareReferrer(objRef){
