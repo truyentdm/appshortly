@@ -131,21 +131,20 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
     var txtAsin = "";
     var isTrue = false;
     if(lblText!=""){
-	if(typeof dataAMZ[0]["href"] != "undefined"){
-		for (var i in dataAMZ){
+	for (var i in dataAMZ){
+		if(typeof dataAMZ[i]["href"] != "undefined"){
 		    if(dataAMZ[i]["href"]==lblText){
 		      txtAsin = i;
 		      isTrue = true;
-		    }
-		}
-	}else{
-		for (var i in dataAMZ){
+		    }	
+		}else{
 		    if(dataAMZ[i]["US"]==lblText||dataAMZ[i]["CA"]==lblText||dataAMZ[i]["UK"]==lblText){
 		      txtAsin = i;
 		      isTrue = true;
 		    }
 		}
 	}
+	
     }
     document.getElementById("lblResult").innerHTML = isTrue ? "OK : "+ txtAsin + " - " + createLink(txtAsin,"us") : "NOT"
         
