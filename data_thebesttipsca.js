@@ -1,5 +1,5 @@
 function getData(){
-	const keysw = "thebesttipsca.com";
+	const keysw = "www.thebesttipsca.com";
 	var keyAPI = (typeof keyhost != 'undefined') ? keyhost : document.location.host;
 	var dataAMZ = {};
 	if(keysw == keyAPI){
