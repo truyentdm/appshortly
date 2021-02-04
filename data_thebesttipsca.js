@@ -22,7 +22,25 @@ function getData(){
 		B01DLPUWL2: {href: "https://amzn.to/39HNIHC",slug: ""},
 		B07F3FTJCM: {href: "https://amzn.to/2O4Ucbh",slug: ""},
 		B07GXZ49DY: {href: "https://amzn.to/3tp0fHF",slug: ""},
-		B01DE8PN10: {href: "https://amzn.to/36Dpa0K",slug: ""}
+		B01DE8PN10: {href: "https://amzn.to/36Dpa0K",slug: ""},
+		B077HW9XM7: {href: "https://amzn.to/3topmuw",slug: ""},
+		B07GNSHPBQ: {href: "https://amzn.to/3rdGSiU",slug: ""},
+		B019ZTXT0Y: {href: "https://amzn.to/3pMhErN",slug: ""},
+		B0734CXX69: {href: "https://amzn.to/3tnfW2d",slug: ""},
+		B00WNNYSJG: {href: "https://amzn.to/36HemOV",slug: ""},
+		B00CTTMDSC: {href: "https://amzn.to/2MuWIHe",slug: ""},
+		B07DWZK22R: {href: "https://amzn.to/39LuX6n",slug: ""},
+		B07L7GGMH8: {href: "https://amzn.to/36GIutJ",slug: ""},
+		B01EAG9X84: {href: "https://amzn.to/3roaiLg",slug: ""},
+		B010E9ILY8: {href: "https://amzn.to/3avzysl",slug: ""},
+		B07T2G5Q6B: {href: "https://amzn.to/36FgVkO",slug: ""},
+		B016WJWC0S: {href: "https://amzn.to/3jhse7J",slug: ""},
+		B00H2RSA88: {href: "https://amzn.to/3ay82dD",slug: ""},
+		B00JH98GR4: {href: "https://amzn.to/2Lg0yDx",slug: ""},
+		B01KZHOW3I: {href: "https://amzn.to/3pZvGXj",slug: ""},
+		B00Z4TSRFW: {href: "https://amzn.to/3awLl9R",slug: ""},
+		B07B42DWWC: {href: "https://amzn.to/39Q7OzL",slug: ""},
+		B01FWIEIRU: {href: "https://amzn.to/2YHvtMf",slug: ""}
 	}
 	return dataAMZ;
 }
