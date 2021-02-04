@@ -1,6 +1,11 @@
 //Function
 var shortLink = "https://www.greattips3s.com/";
 var lockLocal = [];
+
+function getDataValue(data,key,value){
+	var _va = (typeof data[key] != 'undefined') ? data[key][value] : "";
+	return _va;
+}
 function checkLocal(objURL){
 	for (var i = 0; i < objURL.length; i++) {
 		 if (objURL[i] == "US" || objURL[i] == "CA" || objURL[i] == "UK" || objURL[i] == "P") {
