@@ -165,11 +165,14 @@ function compareReferrer(objRef){
 	}
 	return false;
 }
-function htmlRedirect404(url,tag="Amazon"){
+function htmlRedirect404(url,nameProduct="",tag="Amazon"){
 	var htmlJS = ""
 	htmlJS += "<div class=\"widget Blog\">";
 	htmlJS += "<div class=\"wp_errorWrap\">";
 	htmlJS += "<div class=\"errorWrap2\">";
+	if(nameProduct != ""){
+		htmlJS += "<p><b>Product name:</b> "+nameProduct+"</p>";
+	}
 	htmlJS += "<h4>You will be redirected to the purchase page of "+tag+".</h4>";
 	htmlJS += "<a href='/'> "+location.hostname+" </a>";
 	htmlJS += "is a participant in the "+tag+" Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to"
@@ -209,8 +212,8 @@ function htmlLoading(text){
 	htmlJS += "</div>";
 	return htmlJS;
 }
-function actHTML(isSource,glink,tag="Amazon",idWeb="Blog1"){
-	document.getElementById(idWeb).innerHTML = htmlRedirect404(glink,tag);
+function actHTML(isSource,glink,nameProduct="",tag="Amazon",idWeb="Blog1"){
+	document.getElementById(idWeb).innerHTML = htmlRedirect404(glink,nameProduct,tag);
 	if(isSource){
 		//Transfer
 		window.location.href = glink;
