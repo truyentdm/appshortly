@@ -55,7 +55,27 @@ function getData(){
 			B0752VPHVK: {href: "https://amzn.to/2LjDvHZ",nameProduct: `August Home August Smart Lock Pro + Connect with Wi-Fi Bridge, Dark Gray. Zwave, HomeKit & Alexa Compatible`,slug: ""},
 			B00C03D01Q: {href: "https://amzn.to/39NyEIp",nameProduct: `Moen 900-001 Flo by Moen 3/4-Inch Smart Water Shutoff`,slug: ""},
 			B075G61CVW: {href: "https://amzn.to/2N0iwKH",nameProduct: `Cangshan TS Series 1020885 Swedish Sandvik 14C28N Steel Forged 17-Piece Knife Block Set, Walnut`,slug: ""},
-			B07L1P4SPB: {href: "https://amzn.to/2MBD24v",nameProduct: `Queen Mattress, Inofia 10 Inch Responsive Memory Foam Mattress, Hybrid Innerspring Mattress in a Box, Sleep Cooler with More Pressure Relief & Support, CertiPUR-US Certified, Double Size`,slug: ""}
+			B07L1P4SPB: {href: "https://amzn.to/2MBD24v",nameProduct: `Queen Mattress, Inofia 10 Inch Responsive Memory Foam Mattress, Hybrid Innerspring Mattress in a Box, Sleep Cooler with More Pressure Relief & Support, CertiPUR-US Certified, Double Size`,slug: ""},
+			B01M3R711N: {href: "https://amzn.to/2MUhAb0",nameProduct: `Champion 4000-Watt RV Ready DH Series Open Frame Inverter with Quiet Technology`,slug: ""},
+			B001AMRCDU: {href: "https://amzn.to/2ME4UVR",nameProduct: `Davis Instruments 6152 Vantage Pro2 Wireless Weather Station with Standard Radiation Shield and LCD Display Console`,slug: ""},
+			B01MXIMVXG: {href: "https://amzn.to/3joG8F1",nameProduct: `ASICS Men's Gel-Venture 6 Running Shoe`,slug: ""},
+			B074FKGR7F: {href: "https://amzn.to/39PD55G",nameProduct: `Epson Home Cinema 2100 1080p 3LCD projector`,slug: ""},
+			B003PCSR82: {href: "https://amzn.to/2LkA8R5",nameProduct: `EdgeStar AP14001HS Portable Air Conditioner and Heater with Dehumidifier and Fan for Rooms up to 400 Sq. Ft. with Remote Control`,slug: ""},
+			B00R9HVPBK: {href: "https://amzn.to/2MSxnaa",nameProduct: `DHP Emily Futon Couch Bed, Modern Sofa Design Includes Sturdy Chrome Legs and Rich Linen Upholstery, Grey`,slug: ""},
+			B002EKUK2C: {href: "https://amzn.to/2YJbj4q",nameProduct: `EdgeStar AP12000HS Portable Air Conditioner and Heater with Dehumidifier and Fan for Rooms up to 250 Sq. Ft. with Remote Control`,slug: ""},
+			B00YEYKK8U: {href: "https://amzn.to/3pSdfUi",nameProduct: `OXO BREW 9 Cup Coffee Maker`,slug: ""},
+			B00JXS3BXI: {href: "https://amzn.to/3pRNG5I",nameProduct: `Smittybilt 9500 lb 97495 XRC GEN2 Winch-9500 Pound Load Capacity`,slug: ""},
+			B075ZZND8B: {href: "https://amzn.to/2YOEuDo",nameProduct: `Hathaspace Smart True HEPA Air Purifier, 5-in-1 Large Room Air Cleaner & Deodorizer for Allergies, Pets, Asthma, Smokers, Odors – Eliminates Pet Hair, Allergens, Dust, Pollen, Mold, Smoke - HSP001`,slug: ""},
+			B01LXM1HEK: {href: "https://amzn.to/2YMtJRP",nameProduct: `Zinus Joseph Modern Studio 10 Inch Platforma Low Profile Bed Frame / Mattress Foundation / Boxspring Optional / Wood slat support, Queen`,slug: ""},
+			B00G4JCKNG: {href: "https://amzn.to/39Mm6RH",nameProduct: `Safavieh Milan Shag Collection SG180-6060 Aqua Blue Area Rug (5'1" x 8')`,slug: ""},
+			B003XELTTG: {href: "https://amzn.to/3pRdpel",nameProduct: `iSpring RCC7 High Capacity Under Sink 5-Stage Reverse Osmosis Drinking Water Filtration System and Ultimate Water Softener`,slug: ""},
+			B005Q3VXDY: {href: "https://amzn.to/3cHCS6o",nameProduct: `simplehuman Kitchen Steel Frame Dish Rack With Swivel Spout, Fingerprint-Proof Stainless Steel Frame, Grey Plastic`,slug: ""},
+			B07GGF5RFF: {href: "https://amzn.to/2MXGGFW",nameProduct: `Zinus Josh Traditional Upholstered 77.5 Inch Sofa/Living Room Couch, Beige Weave`,slug: ""},
+			B00EUKHACW: {href: "https://amzn.to/39ReXj7",nameProduct: `Shark Rocket Ultra-Light Corded Bagless Vacuum for Carpet and Hard Floor Cleaning with Swivel Steering and Car Detail Set (HV302), Gray/Orange`,slug: ""},
+			B07GYZS4RJ: {href: "https://amzn.to/39QNvCg",nameProduct: `Stiebel Eltron Tankless Water Heater – Tempra 24 Plus – Electric, On Demand Hot Water, Eco, White`,slug: ""},
+			B00IWJOOU8: {href: "https://amzn.to/3jhHAcq",nameProduct: `Briggs & Stratton P3000 PowerSmart Series Inverter Generator with LCD Display and Quiet Power Technology, 3000 Starting Watts 2600 Running Watts, RV Ready`,slug: ""},
+			B0777K9RGX: {href: "https://amzn.to/2MXH47m",nameProduct: `Ashley Furniture Signature Design - 12 Inch Chime Express Memory Foam Mattress - Bed in a Box - Queen - Firm Comfort Level - White`,slug: ""},
+			B07M8455YG: {href: "https://amzn.to/39QaD3x",nameProduct: `Massage Chair, Zero Gravity Massage Chair, Full Body Massage Chair with Lower-Back Heating and Foot Roller Black`,slug: ""}
 		}
 	}
 	return dataAMZ;
