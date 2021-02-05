@@ -44,7 +44,18 @@ function getData(){
 			B01KZHOW3I: {href: "https://amzn.to/3pZvGXj",nameProduct: `Bose Lifestyle 650 Black Home Entertainment System`,slug: ""},
 			B00Z4TSRFW: {href: "https://amzn.to/3awLl9R",nameProduct: `Jura 15068 IMPRESSA C65 Automatic Coffee Machine, Platinum`,slug: ""},
 			B07B42DWWC: {href: "https://amzn.to/39Q7OzL",nameProduct: `Nectar Queen Mattress + 2 Pillows Included - Gel Memory Foam Mattress - CertiPUR-US Certified Foams - 180 Night Home Trial - Forever Warranty`,slug: ""},
-			B01FWIEIRU: {href: "https://amzn.to/2YHvtMf",nameProduct: `Sony Home Theater Projector VPL-HW45ES: 1080P Full HD Video Projector for TV, Movies and Gaming - Home Cinema Projector with 3 SXRD Imagers and 1,800 Lumens for Brightness - 3D Compatible`,slug: ""}
+			B01FWIEIRU: {href: "https://amzn.to/2YHvtMf",nameProduct: `Sony Home Theater Projector VPL-HW45ES: 1080P Full HD Video Projector for TV, Movies and Gaming - Home Cinema Projector with 3 SXRD Imagers and 1,800 Lumens for Brightness - 3D Compatible`,slug: ""},
+			B01LA3VHHU: {href: "https://amzn.to/3tuoEvK",nameProduct: `PuraFlame 33 Inches Western Electric Fireplace Insert with Remote Control, 750/1500W, Black`,slug: ""},
+			B01ALBMIEI: {href: "https://amzn.to/2YN0Gxu",nameProduct: `Giantex Portable Mini Compact Twin Tub Washing Machine 17.6lbs Washer Spain Spinner Portable Washing Machine, Blue+ White`,slug: ""},
+			B078MGY2CS: {href: "https://amzn.to/3ayzHvg",nameProduct: `Giantex Full-Automatic Washing Machine Portable Compact 1.6 Cu.ft Laundry Washer Spin with Drain Pump, 10 programs 8 Water Level Selections with LED Display 12 Lbs Capacity`,slug: ""},
+			B071983575: {href: "https://amzn.to/3oPpm35",nameProduct: `Bush Furniture Cabot L Shaped Computer Desk in Harvest Cherry`,slug: ""},
+			B07SG4KNT4: {href: "https://amzn.to/3twcpyS",nameProduct: `Cordless Vacuum, Deik Stick Vacuum Cleaner, 11 Kpa Powerful Suction 4 in 1 Lightweight Handheld Vacuum with Upgraded Motor and LED Brush for Pet Hair Home Hard Floor Carpet Car Cleaning`,slug: ""},
+			B07MDZC6KG: {href: "https://amzn.to/39LpjRv",nameProduct: `ECOTOUCH Electric Tankless Water Heater Point-of-Use Hot Water Heater Digital Display for Energy Efficiency 5.5kW at 240V, White`,slug: ""},
+			B07P7XDKMB: {href: "https://amzn.to/2O7UXAp",nameProduct: `Dreamfoam Bedding Chill 14" Gel Memory Foam Mattress, Full, Made in The USA`,slug: ""},
+			B0752VPHVK: {href: "https://amzn.to/2LjDvHZ",nameProduct: `August Home August Smart Lock Pro + Connect with Wi-Fi Bridge, Dark Gray. Zwave, HomeKit & Alexa Compatible`,slug: ""},
+			B00C03D01Q: {href: "https://amzn.to/39NyEIp",nameProduct: `Moen 900-001 Flo by Moen 3/4-Inch Smart Water Shutoff`,slug: ""},
+			B075G61CVW: {href: "https://amzn.to/2N0iwKH",nameProduct: `Cangshan TS Series 1020885 Swedish Sandvik 14C28N Steel Forged 17-Piece Knife Block Set, Walnut`,slug: ""},
+			B07L1P4SPB: {href: "https://amzn.to/2MBD24v",nameProduct: `Queen Mattress, Inofia 10 Inch Responsive Memory Foam Mattress, Hybrid Innerspring Mattress in a Box, Sleep Cooler with More Pressure Relief & Support, CertiPUR-US Certified, Double Size`,slug: ""}
 		}
 	}
 	return dataAMZ;
