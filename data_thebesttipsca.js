@@ -75,7 +75,14 @@ function getData(){
 			B07GYZS4RJ: {href: "https://amzn.to/39QNvCg",nameProduct: `Stiebel Eltron Tankless Water Heater – Tempra 24 Plus – Electric, On Demand Hot Water, Eco, White`,slug: ""},
 			B00IWJOOU8: {href: "https://amzn.to/3jhHAcq",nameProduct: `Briggs & Stratton P3000 PowerSmart Series Inverter Generator with LCD Display and Quiet Power Technology, 3000 Starting Watts 2600 Running Watts, RV Ready`,slug: ""},
 			B0777K9RGX: {href: "https://amzn.to/2MXH47m",nameProduct: `Ashley Furniture Signature Design - 12 Inch Chime Express Memory Foam Mattress - Bed in a Box - Queen - Firm Comfort Level - White`,slug: ""},
-			B07M8455YG: {href: "https://amzn.to/39QaD3x",nameProduct: `Massage Chair, Zero Gravity Massage Chair, Full Body Massage Chair with Lower-Back Heating and Foot Roller Black`,slug: ""}
+			B07M8455YG: {href: "https://amzn.to/39QaD3x",nameProduct: `Massage Chair, Zero Gravity Massage Chair, Full Body Massage Chair with Lower-Back Heating and Foot Roller Black`,slug: ""},
+			B00FAW4O0A: {href: "https://amzn.to/3oLE4rS",nameProduct: `SoundAsleep Dream Series Air Mattress with ComfortCoil Technology & Internal High Capacity Pump - Queen Size`,slug: ""},
+			B00FLYWNYQ: {href: "https://amzn.to/3axMjTg",nameProduct: `Instant Pot Duo 7-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Saute, Yogurt Maker, and Warmer`,slug: ""},
+			B004MXKUCY: {href: "https://amzn.to/36LgJ3g",nameProduct: `Simpson Cleaning MSH3125 MegaShot Gas Pressure Washer Powered by Honda GC190, 3200 PSI at 2.5 GPM`,slug: ""},
+			B079W93GGX: {href: "https://amzn.to/3aFnNiZ",nameProduct: `Nespresso by De'Longhi EN500W Lattissima One Original Espresso Machine with Milk Frotherby De'Longhi, Silky White`,slug: ""},
+			B00D4NPMJE: {href: "https://amzn.to/3pT7ENm",nameProduct: `Fuji 2202 Semi-PRO 2 HVLP Spray System, Blue`,slug: ""},
+			B07F3DP48S: {href: "https://amzn.to/2YRXDEc",nameProduct: `Intex 26333EH Ultra XTR Set Above Ground Pool, 20ft X 48in, Gray`,slug: ""},
+			B00BWYO53G: {href: "https://amzn.to/3cKQrSA",nameProduct: `Honeywell HPA300 True HEPA Air Purifier, Extra-Large Room, Black`,slug: ""}
 		}
 	}
 	return dataAMZ;
