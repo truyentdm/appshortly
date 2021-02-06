@@ -82,7 +82,29 @@ function getData(){
 			B079W93GGX: {href: "https://amzn.to/3aFnNiZ",nameProduct: `Nespresso by De'Longhi EN500W Lattissima One Original Espresso Machine with Milk Frotherby De'Longhi, Silky White`,slug: ""},
 			B00D4NPMJE: {href: "https://amzn.to/3pT7ENm",nameProduct: `Fuji 2202 Semi-PRO 2 HVLP Spray System, Blue`,slug: ""},
 			B07F3DP48S: {href: "https://amzn.to/2YRXDEc",nameProduct: `Intex 26333EH Ultra XTR Set Above Ground Pool, 20ft X 48in, Gray`,slug: ""},
-			B00BWYO53G: {href: "https://amzn.to/3cKQrSA",nameProduct: `Honeywell HPA300 True HEPA Air Purifier, Extra-Large Room, Black`,slug: ""}
+			B00BWYO53G: {href: "https://amzn.to/3cKQrSA",nameProduct: `Honeywell HPA300 True HEPA Air Purifier, Extra-Large Room, Black`,slug: ""},
+			B07C758PD2: {href: "https://amzn.to/2LvJERG",nameProduct: `Shure SE846-CL+BT1 Wireless Sound Isolating Earphones with Bluetooth Enabled Communication Cable, Clear`,slug: ""},
+			B009QYC60S: {href: "https://amzn.to/2MWqSmK",nameProduct: `Zojirushi Induction Heating Pressure Rice Cooker & Warmer 1.0 Liter, Stainless Brown NP-NVC10`,slug: ""},
+			B07N8VXLW6: {href: "https://amzn.to/3tw039R",nameProduct: `Lounge Chair and Ottoman, Mid Century Modern Classic Design, Natural Leather, High-Density Wood (Black with Red Palisander,Normal 1)`,slug: ""},
+			B01DEWZUG4: {href: "https://amzn.to/3tAe46a",nameProduct: `Panasonic Microwave Oven NN-SN686S Stainless Steel Countertop/Built-In with Inverter Technology and Genius Sensor, 1.2 Cu. Ft, 1200W`,slug: ""},
+			B01DVQF6EY: {href: "https://amzn.to/36PPk09",nameProduct: `Alesis Strike Pro Kit | Eleven-Piece Professional Electronic Drum Kit with Adjustable Mesh Heads, 110 kits and over 1600 multi-sampled instruments`,slug: ""},
+			B002GTCZBA: {href: "https://amzn.to/3cNd9JW",nameProduct: `Sta-Rite SR400NA Max-E-Therm Pool And Spa Heater, Natural Gas, 400,000 BTU`,slug: ""},
+			B075JCS7JS: {href: "https://amzn.to/36PFtr9",nameProduct: `Need Computer Desk Office Desk 55 inches Folding Table Computer Table Workstation No Install Needed,Teak Black AC5BB-140X`,slug: ""},
+			B07VDH418P: {href: "https://amzn.to/3pWVWBh",nameProduct: `Steelcase Leap Fabric Chair, Black,46216179FBL (Renewed)`,slug: ""},
+			B00G7VNO86: {href: "https://amzn.to/36Lr2Eo",nameProduct: `Germ Guardian HEPA Filter Air Purifier with UV Light Sanitizer, Eliminates Germs, Filters Allergies, Pollen, Smoke, Dust, Pet Dander, Mold, Odors, Quiet 4-in-1 Air Purifier for Desk and Office AC4100`,slug: ""},
+			B07BNVST4P: {href: "https://amzn.to/3tFB1VZ",nameProduct: `SwagCycle EB-5 Pro Lightweight and Aluminum Folding EBike`,slug: ""},
+			B07HK8J2WJ: {href: "https://amzn.to/3jp5VwL",nameProduct: `nakto 26" City Electric Bicycle and Assisted Bicycle for Men with Removable 36V 10A Large Capacity Lithium Battery and Charger`,slug: ""},
+			B01D8DAYII: {href: "https://amzn.to/2MGeNCf",nameProduct: `Winix 5500-2 Air Purifier with True HEPA, PlasmaWave and Odor Reducing Washable AOC Carbon Filter`,slug: ""},
+			B071D58ZY5: {href: "https://amzn.to/36LS66y",nameProduct: `LEVOIT Air Purifier for Home Smokers Allergies and Pets Hair, True HEPA Filter, Quiet in Bedroom, Filtration System Cleaner Eliminators, Odor Smoke Dust Mold, Night Light, White, LV-H132, 1Pack`,slug: ""},
+			B01JKDAN2M: {href: "https://amzn.to/36Lrm64",nameProduct: `Pure Enrichment PureZone Air Purifier 3-in-1 True HEPA Filter with UV-C Sanitizer - Helps Relieve Allergies, Eliminate Germs, Pet Dander, Smoke, Dust & More - Whisper Quiet Operation & Auto Off Timer`,slug: ""},
+			B00GPGKN4G: {href: "https://amzn.to/3cQtUUr",nameProduct: `Drive Medical Scout Spitfire 4 Wheel Travel Power Scooter`,slug: ""},
+			B01L1TFG66: {href: "https://amzn.to/3aGlKLO",nameProduct: `Z Grills Wood Pellet Grill Smoker with 2019 Newest Digital Controls ,700 Cooking Area 8- in-1 Grill, Smoke, Bake, Roast, Braise ,Sear,Char-grill and BBQ for Outdoor`,slug: ""},
+			B0744CTXW8: {href: "https://amzn.to/3aA4Jmm",nameProduct: `Swiss Madison Well Made Forever SM-1T254 St. Tropez One Piece Toilet, 26.6 x 15 x 31 inches, Glossy White`,slug: ""},
+			B077416M4M: {href: "https://amzn.to/3tFByqX",nameProduct: `Top Performance Kahuna Superior Massage Chair with SL-Track 6 Rollers - SM-7300 (Black)`,slug: ""},
+			B07NMQY3XV: {href: "https://amzn.to/3oRWEhX",nameProduct: `Frigidaire FFRE083ZA1 19" Energy Star Window Mounted Air Conditioner with 8000 BTU Cooling Capacity 115 Volts in White`,slug: ""},
+			B004VGIGVY: {href: "https://amzn.to/3ty7gX2",nameProduct: `Germ Guardian True HEPA Filter Air Purifier for Home, Office, Bedrooms, Filters Allergies, Pollen, Smoke, Dust, Pet Dander, UV-C Sanitizer Eliminates Germs, Mold, Odors, Quiet 22 inch 3-in-1 AC4825`,slug: ""},
+			B00MYWQL96: {href: "https://amzn.to/2ObQXPo",nameProduct: `Hessaire MC37M portable Evaporative Air Cooler for 950 sq. ft`,slug: ""},
+			B00CSGGUUS: {href: "https://amzn.to/36Nbmkm",nameProduct: `Global Air 10,000 BTU Portable Air Conditioner Cooling /Fan with Remote Control in White`,slug: ""}
 		}
 	}
 	return dataAMZ;
