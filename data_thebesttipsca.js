@@ -104,7 +104,25 @@ function getData(){
 			B07NMQY3XV: {href: "https://amzn.to/3oRWEhX",nameProduct: `Frigidaire FFRE083ZA1 19" Energy Star Window Mounted Air Conditioner with 8000 BTU Cooling Capacity 115 Volts in White`,slug: ""},
 			B004VGIGVY: {href: "https://amzn.to/3ty7gX2",nameProduct: `Germ Guardian True HEPA Filter Air Purifier for Home, Office, Bedrooms, Filters Allergies, Pollen, Smoke, Dust, Pet Dander, UV-C Sanitizer Eliminates Germs, Mold, Odors, Quiet 22 inch 3-in-1 AC4825`,slug: ""},
 			B00MYWQL96: {href: "https://amzn.to/2ObQXPo",nameProduct: `Hessaire MC37M portable Evaporative Air Cooler for 950 sq. ft`,slug: ""},
-			B00CSGGUUS: {href: "https://amzn.to/36Nbmkm",nameProduct: `Global Air 10,000 BTU Portable Air Conditioner Cooling /Fan with Remote Control in White`,slug: ""}
+			B00CSGGUUS: {href: "https://amzn.to/36Nbmkm",nameProduct: `Global Air 10,000 BTU Portable Air Conditioner Cooling /Fan with Remote Control in White`,slug: ""},
+			B003R3JFJO: {href: "https://amzn.to/3cM2CP2",nameProduct: `BISSELL Garage Pro Wall-Mounted Wet Dry Car Vacuum/Blower with Auto Tool Kit, 18P03-Gray, Gray`,slug: ""},
+			B07GB3FNNV: {href: "https://amzn.to/3pY9Y5L",nameProduct: `Instant Pot Aura Multi-Use Programmable Slow Cooker, 6 Quart, No Pressure Cooking Functionality`,slug: ""},
+			B0792BWMV4: {href: "https://amzn.to/3btoFrH",nameProduct: `Roborock S5 Robotic Vacuum and Mop Cleaner, 2000Pa Super Power Suction &Wi-Fi Connectivity and Smart Navigating Robot Vacuum with 5200mAh Battery Capacity for Pet Hair, Carpet & Hard Floor (White)`,slug: ""},
+			B01D8DAYBA: {href: "https://amzn.to/2NpJkET",nameProduct: `Winix 5300-2 Air Purifier with True HEPA, PlasmaWave and Odor Reducing Carbon Filter`,slug: ""},
+			B01923E15A: {href: "https://amzn.to/2M8Iwnb",nameProduct: `Avallon ABR241SGRH 140 Can 24" Built-in Beverage Cooler - Right Hinge`,slug: ""},
+			B072PZ4LVN: {href: "https://amzn.to/3dCSF7b",nameProduct: `Rivet Revolve Modern Upholstered Sofa Couch, 80"W, Grey Weave`,slug: ""},
+			B00HQONFY6: {href: "https://amzn.to/3bobk3M",nameProduct: `WEN 4214 12-Inch Variable Speed Drill Press`,slug: ""},
+			B01C9RIACG: {href: "https://amzn.to/3bmgbCB",nameProduct: `Coway Airmega 400 Smart Air Purifier with 1,560 sq. ft. Coverage`,slug: ""},
+			B0026SR0FW: {href: "https://amzn.to/3qIbI3E",nameProduct: `Graco Magnum 262800 X5 Stand Airless Paint Sprayer`,slug: ""},
+			B06XFVQFP9: {href: "https://amzn.to/3keY19W",nameProduct: `LG LW6017R 6,000 BTU 115V Window Air Conditioner, 6000, White (Not an Energy Star)`,slug: ""},
+			B0792PD6TY: {href: "https://amzn.to/3uksWpE",nameProduct: `Woodbridge b-0030/bts1606 67" x 32" Whirlpool Water Jetted and Air Bubble Freestanding Bathtub, B-0030 / BTS1606`,slug: ""},
+			B01MPX171W: {href: "https://amzn.to/3az74zc",nameProduct: `Braun Electric Razor for Men, Series 7 7865cc Electric Shaver with Precision Trimmer, Rechargeable, Wet & Dry Foil Shaver, Clean & Charge Station and Travel Case`,slug: ""},
+			B073VBWKJZ: {href: "https://amzn.to/3qDUlRp",nameProduct: `hOmeLabs 4,500 Sq. Ft Energy Star Dehumidifier for Extra Large Rooms and Basements - Efficiently Removes Moisture to Prevent Mold, Mildew and Allergens`,slug: ""},
+			B07F2H3NL8: {href: "https://amzn.to/2ZzcgNd",nameProduct: `WOODBRIDGE 59" Acrylic Freestanding Bathtub Contemporary Soaking Tub with Chrome Overflow and Drain, B-0018 / BTA1518, Oval`,slug: ""},
+			B07KQ6S5N1: {href: "https://amzn.to/2M9NMaj",nameProduct: `Cordless Vacuum, ONSON Stick Vacuum Cleaner, 12KPa Powerful Cleaning Lightweight Handheld Vacuum with Rechargeable Lithium Ion Battery`,slug: ""},
+			B00F2CGXGG: {href: "https://amzn.to/2ZFSyzb",nameProduct: `DEWALT (DWE7491RS) 10-Inch Table Saw, 32-1/2-Inch Rip Capacity`,slug: ""},
+			B00SMNLF4M: {href: "https://amzn.to/2Nozlja",nameProduct: `WEN 56200i Super Quiet 2000-Watt Portable Inverter Generator, CARB Compliant`,slug: ""},
+			B07CZ1CF79: {href: "https://amzn.to/2M7wB9a",nameProduct: `Arctic Dreams 10" Hybrid Cooling Gel Mattress with Quick Response Gel Infused Memory Foam, Made in The USA, Twin XL`,slug: ""}
 		}
 	}
 	return dataAMZ;
