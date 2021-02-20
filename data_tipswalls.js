@@ -152,7 +152,23 @@ function getData(){
 			B08D3HW1MQ: {href: "https://amzn.to/2MJtDrB",nameProduct: `ECOTRIC Electric Powerful Bicycle 26“ Fat Tire Bike 500W 36V/12AH Battery EBike Moped Snow Beach Mountain Ebike Throttle & Pedal Assist`,slug: ""},
 			B07J31T4NC: {href: "https://amzn.to/3j7GvDK",nameProduct: `Nod by Tuft & Needle, Adaptive Foam 8-Inch Mattress, Queen`,slug: ""},
 			B06W54K29J: {href: "https://amzn.to/2Mij4vP",nameProduct: `LEVOIT Air Purifier for Home Large Room,Smoke and Odor Eliminator, H13 True HEPA Filter for Bedroom, Auto Mode & 12h Timer, Cleaners for Allergies and Pets, Mold Pollen Dust, LV-PUR131, White`,slug: ""},
-			B076MK5MHY: {href: "https://amzn.to/3pHxVhx",nameProduct: `Seatcraft Anthem Home Theater Seating Leather Multimedia Power Recline Sofa with Fold-Down Table, Adjustable Powered Headrests, Storage, AC/USB and Wireless Charging and Cup Holders (Black)`,slug: ""}
+			B076MK5MHY: {href: "https://amzn.to/3pHxVhx",nameProduct: `Seatcraft Anthem Home Theater Seating Leather Multimedia Power Recline Sofa with Fold-Down Table, Adjustable Powered Headrests, Storage, AC/USB and Wireless Charging and Cup Holders (Black)`,slug: ""},
+			B07GNSHPBQ: {href: "https://amzn.to/2YFIQwc",nameProduct: `Dash DFAF455GBAQ01 Deluxe Electric Air Fryer + Oven Cooker with Temperature Control, Non-stick Fry Basket, Recipe Guide + Auto Shut Off Feature, 1700-Watt, 6 Quart, 6 qt, Aqua`,slug: ""},
+			B00FLYWNYQ: {href: "https://amzn.to/3rei3n5",nameProduct: `Instant Pot Duo 7-in-1 Electric Pressure Cooker, Sterilizer, Slow Cooker, Rice Cooker, Steamer, Saute, Yogurt Maker, and Warmer, 6 Quart, 14 One-Touch Programs`,slug: ""},
+			B077VRX8TV: {href: "https://amzn.to/3tsUxVj",nameProduct: `Dash DMW001CU Machine for Individual, Paninis, Hash Browns, & other Mini waffle maker, 4 inch, Copper`,slug: ""},
+			B077HW9XM7: {href: "https://amzn.to/39Y2JVX",nameProduct: `Ecovacs n79s robot vacuum, Dark Brown`,slug: ""},
+			B07GB3FNNV: {href: "https://amzn.to/3aVRj46",nameProduct: `Instant Pot Aura Multi-Use Programmable Slow Cooker, 6 Quart, No Pressure Cooking Functionality`,slug: ""},
+			B07F2D81JN: {href: "https://amzn.to/2ZaoA69",nameProduct: `Amarey A800 Robot Vacuum - Super Suction Robotic Vacuum Cleaner, Long Lasting, Timer Function, Self-Charging, Multiple Cleaning Modes, Amarey Robot Vacuum Cleaner for Pet Hair, Hard Floor, Carpet`,slug: ""},
+			B01CS3J570: {href: "https://amzn.to/37zKapA",nameProduct: `Honeywell HL10CESWK, 10, 000 BTU, Black/White Portable Air Conditioner, 10,000`,slug: ""},
+			B00JJ5I7GQ: {href: "https://amzn.to/3ufw5ao",nameProduct: `Polaris F9550 Sport Robotic In-Ground Pool Cleaner`,slug: ""},
+			B08NT4YBQ3: {href: "https://amzn.to/2NmbIrm",nameProduct: `Essential Hot Tubs 67-Jets 2021 Syracuse Hot Tub, Seats 5-6, Espresso`,slug: ""},
+			B003IBGL7O: {href: "https://amzn.to/3aAPBGw",nameProduct: `Hayward HP21404T HeatPro In Ground 140,000 BTU Heat Pump`,slug: ""},
+			B071VLNVMD: {href: "https://amzn.to/3pwk3WE",nameProduct: `Tempur-PedicTEMPUR-CloudLuxe Breeze 13.5-Inch Extra-Soft Cooling Foam Mattress, Queen, Made in USA, 10 Year Warranty`,slug: ""},
+			B003145K3E: {href: "https://amzn.to/3dtfmKH",nameProduct: `Silverback 60" In-Ground Basketball Hoop, Adjustable Height Tempered Glass Backboard and Pro-style flex Rim`,slug: ""},
+			B01D3FOIR4: {href: "https://amzn.to/2NgcFlj",nameProduct: `LG LW1216ER Window-Mounted Remote Control, 12,000 BTU 115V Air Conditioner, White`,slug: ""},
+			B00QXIJSQU: {href: "https://amzn.to/3azWgAK",nameProduct: `Koldfront WAC8001W 8,000 BTU Window Air Conditioner with 3,500 BTU Heater and Remote`,slug: ""},
+			B003CT55YW: {href: "https://amzn.to/3k9Px3U",nameProduct: `RabbitAir MinusA2 Ultra Quiet HEPA Air Purifier - Stylish, Efficient and Energy Star (SPA-700A, White, Odor Remover)`,slug: ""},
+			B07D826M1Y: {href: "https://amzn.to/3k9Psx8",nameProduct: `LG LW1817IVSM 18,000 BTU Dual Inverter Window Air Conditioner, 230V, Remote Control, White`,slug: ""}
 		}
 	}
 	return dataAMZ;
