@@ -122,7 +122,29 @@ function getData(){
 			B07KQ6S5N1: {href: "https://amzn.to/2M9NMaj",nameProduct: `Cordless Vacuum, ONSON Stick Vacuum Cleaner, 12KPa Powerful Cleaning Lightweight Handheld Vacuum with Rechargeable Lithium Ion Battery`,slug: ""},
 			B00F2CGXGG: {href: "https://amzn.to/2ZFSyzb",nameProduct: `DEWALT (DWE7491RS) 10-Inch Table Saw, 32-1/2-Inch Rip Capacity`,slug: ""},
 			B00SMNLF4M: {href: "https://amzn.to/2Nozlja",nameProduct: `WEN 56200i Super Quiet 2000-Watt Portable Inverter Generator, CARB Compliant`,slug: ""},
-			B07CZ1CF79: {href: "https://amzn.to/2M7wB9a",nameProduct: `Arctic Dreams 10" Hybrid Cooling Gel Mattress with Quick Response Gel Infused Memory Foam, Made in The USA, Twin XL`,slug: ""}
+			B07CZ1CF79: {href: "https://amzn.to/2M7wB9a",nameProduct: `Arctic Dreams 10" Hybrid Cooling Gel Mattress with Quick Response Gel Infused Memory Foam, Made in The USA, Twin XL`,slug: ""},
+			B07BWN72TW: {href: "https://amzn.to/3kbjMal",nameProduct: `Camp Chef SmokePro DLX PG24 Pellet Grill with Patio Cover - Bundle (Full Cover)`,slug: ""},
+			B07BN3MB6Z: {href: "https://amzn.to/37wyrI3",nameProduct: `FRIGIDAIRE 10,000 BTU 115V Window-Mounted Compact Temperature Sensing Remote Control, White Air Conditioner`,slug: ""},
+			B07NBNCNLM: {href: "https://amzn.to/3pGHoFc",nameProduct: `VANKYO Performance V600 Native 1080P LED Projector, 6000 Lux HDMI Projector with 300" Display Compatible with TV Stick, HDMI, VGA, USB, Laptop, iPhone Android for PowerPoint Presentation`,slug: ""},
+			B07NC8ZDVL: {href: "https://amzn.to/3s9u9hG",nameProduct: `Samsung UN75RU7100FXZA Flat 75-Inch 4K UHD 7 Series Ultra HD Smart TV with HDR and Alexa Compatibility (2019 Model)`,slug: ""},
+			B00CMREO0Q: {href: "https://amzn.to/37AakIA",nameProduct: `Touchstone 80001 - Onyx Electric Fireplace - (Black) - 50 Inch Wide - On-Wall Hanging - Log & Crystal Included - 5 Flame Settings - Realistic Flame - 1500/750W Timer & Remote`,slug: ""},
+			B00198CW7G: {href: "https://amzn.to/3scnun2",nameProduct: `Hayward SP2610X15 Super Pump 1.5 HP Pool Pump`,slug: ""},
+			B01LWA8J37: {href: "https://amzn.to/3bqaOSX",nameProduct: `AlorAir Basement/Crawl space Dehumidifiers Removal 120 PPD (Saturation) 55 PPD (AHAM)`,slug: ""},
+			B07V48X7HG: {href: "https://amzn.to/3sfHsx8",nameProduct: `LG, LW1019IVSM Energy Star 9,500 BTU 115V Dual Inverter Window Air Conditioner with Wi-Fi Control`,slug: ""},
+			B00G0PF4FU: {href: "https://amzn.to/2ZAazzd",nameProduct: `Whynter 8,000 BTU Eco-Friendly Portable Air Conditioner, White (ARC-08WB)`,slug: ""},
+			B01AA8WOAK: {href: "https://amzn.to/3dvp3Zj",nameProduct: `Whynter Elite ARC-122DS 12,000 BTU Dual Hose Portable Air Conditioner`,slug: ""},
+			B07KKFDM1M: {href: "https://amzn.to/3aD9sor",nameProduct: `CRAFTSMAN V60 Cordless Leaf Blower (CMCBL760E1)`,slug: ""},
+			B07P1XFYJP: {href: "https://amzn.to/3qSW4Cg",nameProduct: `Waterdrop RO Reverse Osmosis Water Filtration System, TDS Reduction, 400 GPD Fast Flow, Tankless, Smart Faucet, UL Listed Power Cord, 1: 1 Drain Ratio, USA Tech Support`,slug: ""},
+			B072BZBPXP: {href: "https://amzn.to/2ZDTWme",nameProduct: `Innova ITM5900 Advanced Heat and Massage Inversion Therapy Table`,slug: ""},
+			B07KKC6JP8: {href: "https://amzn.to/2ZBGcbr",nameProduct: `CRAFTSMAN V60 3-in-1 Cordless Lawn Mower, 21-Inch (CMCMW260P1)`,slug: ""},
+			B06X415RY6: {href: "https://amzn.to/2ZzDsv5",nameProduct: `Craftman V60 Cordless 15-in. Brushlessa Weedwacker String Trimmer with Quickwing Kit(2.5AH)`,slug: ""},
+			B0009RF7DY: {href: "https://amzn.to/2Mffmmy",nameProduct: `Shoprider Sunrunner 4 Wheel Scooter`,slug: ""},
+			B075CQ86ZV: {href: "https://amzn.to/2ZzuwpN",nameProduct: `Chamberlain Group Chamberlain B970 Smartphone-Controlled Ultra-Quiet & Strong Belt Drive Garage Door Opener with Battery Backup and MAX Lifting Power, Blue`,slug: ""},
+			B0713TGHVM: {href: "https://amzn.to/3qCrT2e",nameProduct: `Essential Hot Tubs 11-Jet Integrity Hot Tub, Seats 4-5, Cobblestone`,slug: ""},
+			B00H2VOSP8: {href: "https://amzn.to/3sfkWoh",nameProduct: `Corentium Home Radon Detector by Airthings 223 Portable, Lightweight, Easy-to-Use, (3) AAA Battery Operated, USA Version, pCi/L`,slug: ""},
+			B00I0ZGOZM: {href: "https://amzn.to/3brKCan",nameProduct: `APEC Top Tier 5-Stage Ultra Safe Reverse Osmosis Drinking Water Filter System (ESSENCE ROES-50)`,slug: ""},
+			B005NASZG8: {href: "https://amzn.to/3dzrj1G",nameProduct: `Hoover Commercial Lightweight Backpack Vacuum, C2401`,slug: ""},
+			B0116W5B5O: {href: "https://amzn.to/3scaJcc",nameProduct: `La-Z-Boy Delano Big & Tall Executive Bonded Leather Office Chair - Chestnut (Brown)`,slug: ""}
 		}
 	}
 	return dataAMZ;
