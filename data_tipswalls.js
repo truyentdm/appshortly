@@ -168,7 +168,18 @@ function getData(){
 			B01D3FOIR4: {href: "https://amzn.to/2NgcFlj",nameProduct: `LG LW1216ER Window-Mounted Remote Control, 12,000 BTU 115V Air Conditioner, White`,slug: ""},
 			B00QXIJSQU: {href: "https://amzn.to/3azWgAK",nameProduct: `Koldfront WAC8001W 8,000 BTU Window Air Conditioner with 3,500 BTU Heater and Remote`,slug: ""},
 			B003CT55YW: {href: "https://amzn.to/3k9Px3U",nameProduct: `RabbitAir MinusA2 Ultra Quiet HEPA Air Purifier - Stylish, Efficient and Energy Star (SPA-700A, White, Odor Remover)`,slug: ""},
-			B07D826M1Y: {href: "https://amzn.to/3k9Psx8",nameProduct: `LG LW1817IVSM 18,000 BTU Dual Inverter Window Air Conditioner, 230V, Remote Control, White`,slug: ""}
+			B07D826M1Y: {href: "https://amzn.to/3k9Psx8",nameProduct: `LG LW1817IVSM 18,000 BTU Dual Inverter Window Air Conditioner, 230V, Remote Control, White`,slug: ""},
+			B008UHXUSO: {href: "https://amzn.to/3qG579V",nameProduct: `Honeywell CO60PM Evaporative Air Cooler For Indoor & Outdoor Use, 1540 CFM - 15.9 Gallon Tank, White/Gray`,slug: ""},
+			B074QWYM22: {href: "https://amzn.to/3qFfWsA",nameProduct: `LUCID L300 Bed Base-5 Minute Assembly-Dual USB Charging Stations-Head and Foot Incline-Wireless Remote Adjustable, Twin XL, Charcoal`,slug: ""},
+			B002WKJ5ES: {href: "https://amzn.to/3bmE5xI",nameProduct: `Hayward Goldline AQR15 AquaRite Electronic Salt Chlorination System for In-Ground Pools , 40,000-Gallon Cell`,slug: ""},
+			B00UCIOWRM: {href: "https://amzn.to/3sbikrx",nameProduct: `TOTO SW2034#01 C100 Electronic Bidet Toilet Cleansing Water, Heated Seat, Deodorizer, Warm Air Dryer, and PREMIST, Elongated, Cotton White`,slug: ""},
+			B00UB9R4KO: {href: "https://amzn.to/3qKobna",nameProduct: `JuiceBox 32 Next Generation Smart Electric Vehicle (EV) Charging Station with WiFi - 32 amp Level 2 EVSE, 25-Foot Cable, UL and Energy Star Certified, Indoor/Outdoor Use (NEMA 14-50 Plug, Gray)`,slug: ""},
+			B003OBUE5I: {href: "https://amzn.to/2ZyPPb3",nameProduct: `Weber Summit S-670 LP Gas Grill, 7370001`,slug: ""},
+			B01KWSXEJI: {href: "https://amzn.to/2ZDeQ4U",nameProduct: `Hudson Bay 6 Person 19 Jet Spa with Stainless Jets and 110V GFCI Cord Included`,slug: ""},
+			B08NSPS9NH: {href: "https://amzn.to/2NpmkFW",nameProduct: `Essential Hot Tubs 67-Jets 2021 Syracuse Hot Tub, Seats 5-6, Gray`,slug: ""},
+			B08NT5NHP5: {href: "https://amzn.to/3pEZo2J",nameProduct: `Essential Hot Tubs 30-Jets 2021 Adelaide Hot Tub, Seats 5-6, Espresso`,slug: ""},
+			B00BTKAPUU: {href: "https://amzn.to/2ZAcqEb",nameProduct: `Coway AP-1512HH Mighty Air Purifier with True HEPA and Eco Mode`,slug: ""},
+			B01KGR2EUU: {href: "https://amzn.to/2NHB42S",nameProduct: `Coway AP-1216L Tower Mighty Air Purifier with True Hepa & Auto Mode(Up To 330 Sq.Ft.),,White`,slug: ""}
 		}
 	}
 	return dataAMZ;
