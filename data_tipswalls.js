@@ -179,7 +179,22 @@ function getData(){
 			B08NSPS9NH: {href: "https://amzn.to/2NpmkFW",nameProduct: `Essential Hot Tubs 67-Jets 2021 Syracuse Hot Tub, Seats 5-6, Gray`,slug: ""},
 			B08NT5NHP5: {href: "https://amzn.to/3pEZo2J",nameProduct: `Essential Hot Tubs 30-Jets 2021 Adelaide Hot Tub, Seats 5-6, Espresso`,slug: ""},
 			B00BTKAPUU: {href: "https://amzn.to/2ZAcqEb",nameProduct: `Coway AP-1512HH Mighty Air Purifier with True HEPA and Eco Mode`,slug: ""},
-			B01KGR2EUU: {href: "https://amzn.to/2NHB42S",nameProduct: `Coway AP-1216L Tower Mighty Air Purifier with True Hepa & Auto Mode(Up To 330 Sq.Ft.),,White`,slug: ""}
+			B01KGR2EUU: {href: "https://amzn.to/2NHB42S",nameProduct: `Coway AP-1216L Tower Mighty Air Purifier with True Hepa & Auto Mode(Up To 330 Sq.Ft.),,White`,slug: ""},
+			B0861HFYW1: {href: "https://amzn.to/3dErtEV",nameProduct: `LUCID 10 Inch 2020 Gel Memory Foam Mattress - Medium Plush Feel - CertiPUR-US Certified - Hypoallergenic Bamboo Charcoal, Queen`,slug: ""},
+			B00CSGGUUS: {href: "https://amzn.to/2NTPMnC",nameProduct: `Global Air 10,000 BTU Portable Air Conditioner Cooling /Fan with Remote Control in White`,slug: ""},
+			B00MYWQL96: {href: "https://amzn.to/3uqx5sw",nameProduct: `Hessaire MC37M Portable Evaporative Cooler, 3100 Cubic Feet per Minute, Cools 950 Square Feet`,slug: ""},
+			B004VGIGVY: {href: "https://amzn.to/2ZFBh9u",nameProduct: `Germ Guardian True HEPA Filter Air Purifier with UV Light Sanitizer, Eliminates Germs, Filters Allergies, Pollen, Smoke, Dust Pet Dander, Mold Odors, Quiet 22 inch 4-in-1 Air Purifier for Home AC4825E`,slug: ""},
+			B07RHQ61T4: {href: "https://amzn.to/3aJMZGm",nameProduct: `Frigidaire, White Energy Star 8,000 BTU 115V Cool Connect Smart Window Air Conditioner with Wi-Fi Control`,slug: ""},
+			B01L1TFG66: {href: "https://amzn.to/3pLKqIh",nameProduct: `Z Grills Wood Pellet Grill Smoker with 2020 Newest Digital Controls ,700 Cooking Area 8- in-1 Grill, Smoke, Bake, Roast, Braise ,Sear,Char-grill and BBQ for Outdoor`,slug: ""},
+			B0744CTXW8: {href: "https://amzn.to/3brOdW0",nameProduct: `Swiss Madison Well Made Forever SM-1T254 St. Tropez One Piece Toilet, 26.6 x 15 x 31 inches, Glossy White`,slug: ""},
+			B003G45CKK: {href: "https://amzn.to/3buJxyJ",nameProduct: `LIFE SMART 4 Person Plug & Play Square Hot Tub Spa with 13 Jets and Cover, Beige`,slug: ""},
+			B00GPGKN4G: {href: "https://amzn.to/3uktmN3",nameProduct: `Drive Medical SFSCOUT4 Spitfire Scout 4 Compact Travel Scooter, 4-Wheel, Red/Blue`,slug: ""},
+			B005UKGLAS: {href: "https://amzn.to/3qNww9D",nameProduct: `WEN 4210 Drill Press with Laser, 10-Inch`,slug: ""},
+			B079JYSPJQ: {href: "https://amzn.to/3bq9Upe",nameProduct: `Ikea Original Ektorp Cover for Sofa with Chaise, 3-Seat Sectional (Cover Only (Nordvalla Dark Gray)`,slug: ""},
+			B0789H2XBQ: {href: "https://amzn.to/2NQQCBp",nameProduct: `ROVSUN 10 LBS Portable Washing Machine with Twin Tub Electric Compact Mini Washer, Energy/Save Space, Laundry Spin Cycle w/Hose, Perfect for Home RV Camping Dorms College Room`,slug: ""},
+			B08BPDTL1H: {href: "https://amzn.to/3dFJliL",nameProduct: `Garatic Portable Compact Mini Twin Tub Washing Machine w/Wash and Spin Cycle, Built-in Gravity Drain, 13lbs Capacity For Camping, Apartments, Dorms, College Rooms, RV’s, Delicates`,slug: ""},
+			B07HKXVQYC: {href: "https://amzn.to/3usUuJw",nameProduct: `Giantex Portable Compact Full-Automatic Laundry 8 lbs Load Capacity Washing Machine Washer/Spinner W/Drain Pump`,slug: ""},
+			B08V5341CD: {href: "https://amzn.to/3umRE94",nameProduct: `Magic Chef - MCSTCW16W4 Stainless Steel 1.6 Cu. Ft. Compact Top-Load Washer, White`,slug: ""}
 		}
 	}
 	return dataAMZ;
