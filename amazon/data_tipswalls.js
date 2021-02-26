@@ -194,7 +194,22 @@ function getData(){
 			B0789H2XBQ: {href: "https://amzn.to/2NQQCBp",nameProduct: `ROVSUN 10 LBS Portable Washing Machine with Twin Tub Electric Compact Mini Washer, Energy/Save Space, Laundry Spin Cycle w/Hose, Perfect for Home RV Camping Dorms College Room`,slug: ""},
 			B08BPDTL1H: {href: "https://amzn.to/3dFJliL",nameProduct: `Garatic Portable Compact Mini Twin Tub Washing Machine w/Wash and Spin Cycle, Built-in Gravity Drain, 13lbs Capacity For Camping, Apartments, Dorms, College Rooms, RV’s, Delicates`,slug: ""},
 			B07HKXVQYC: {href: "https://amzn.to/3usUuJw",nameProduct: `Giantex Portable Compact Full-Automatic Laundry 8 lbs Load Capacity Washing Machine Washer/Spinner W/Drain Pump`,slug: ""},
-			B08V5341CD: {href: "https://amzn.to/3umRE94",nameProduct: `Magic Chef - MCSTCW16W4 Stainless Steel 1.6 Cu. Ft. Compact Top-Load Washer, White`,slug: ""}
+			B08V5341CD: {href: "https://amzn.to/3umRE94",nameProduct: `Magic Chef - MCSTCW16W4 Stainless Steel 1.6 Cu. Ft. Compact Top-Load Washer, White`,slug: ""},
+			B01JKDAN2M: {href: "https://amzn.to/3dK9Cwq",nameProduct: `Pure Enrichment PureZone Air Purifier - 3 Stage Filtration Cleans 99.97% of Air Particles with True HEPA Filter + UV-C Sanitizer, Relieves Smoke, Dust, and Helps Alleviate Allergies Up to 200 sq ft:`,slug: ""},
+			B071D58ZY5: {href: "https://amzn.to/2ZX6hBO",nameProduct: `LEVOIT Air Purifier for Home with True HEPA Filter, Air Cleaner for Allergies and Pets, Smokers, Dust, Pollen, Quiet Odor Eliminators for Bedroom with Optional Night Light, 2-Year Warranty, LV-H132`,slug: ""},
+			B01D8DAYII: {href: "https://amzn.to/3bNVi3w",nameProduct: `Winix 5500-2 Air Purifier with True HEPA, PlasmaWave and Odor Reducing Washable AOC Carbon Filter:`,slug: ""},
+			B07HK8J2WJ: {href: "https://amzn.to/3bFm91z",nameProduct: `NAKTO 26" City Electric Bicycle and Assisted Bicycle for Men with Removable 36V 10A Large Capacity Lithium Battery and Charger`,slug: ""},
+			B00G7VNO86: {href: "https://amzn.to/3uDHbpN",nameProduct: `Germ Guardian HEPA Filter Air Purifier with UV Light Sanitizer, Eliminates Germs, Filters Allergies, Pollen, Smoke, Dust, Pet Dander, Mold, Odors, Quiet 4-in-1 Air Purifier for Desk and Office AC4100`,slug: ""},
+			B00HZ12BWM: {href: "https://amzn.to/2PgQf3S",nameProduct: `NewAir Beverage Cooler 22 Bottle and 70 Can Capacity Dual Zone Built in Refrigerator for Soda Beer or Wine, AWB-400DB Stainless Steel`,slug: ""},
+			B0875XQD7L: {href: "https://amzn.to/3uBcQZe",nameProduct: `NewAir NBC160SS00 Freestanding Beverage Fridge, 160 Can, Stainless Steel, 160 Can`,slug: ""},
+			B0083H1JA2: {href: "https://amzn.to/3bEN91e",nameProduct: `NewAir Beverage Refrigerator Cooler with 90 Can Capacity - Mini Bar Beer Fridge with Right Hinge Glass Door - Cools to 34F - AB-850 - Stainless Steel`,slug: ""},
+			B07T2FWL8Q: {href: "https://amzn.to/3pTyPHf",nameProduct: `Traeger TFB57GZEO Pro Series 575 Grill, Smoker, Square inches, Bronze`,slug: ""},
+			B082N6BV3X: {href: "https://amzn.to/3uDGqNq",nameProduct: `Traeger Pellet Grills TFB30KLF Tailgater 20 Grill, Black`,slug: ""},
+			B07GLK1NC2: {href: "https://amzn.to/2ZSaBTd",nameProduct: `Traeger Grills Pro Series 22 Pellet Grill & Smoker | Bronze, Gen I, 572 Sq. In. Capacity | TFB57PZBO model`,slug: ""},
+			B06XTNWVVV: {href: "https://amzn.to/2NLXiB0",nameProduct: `Traeger Grills TFB65LZBC Texas Elite 34 Wood Pellet Grill & Smoker, 646 Sq. In. Cooking Capacity, Bronze,Black and Bronze`,slug: ""},
+			B0822BKLR4: {href: "https://amzn.to/2O8zaZ9",nameProduct: `Traeger Grills Ironwood 650 Wood Pellet Grill and Smoker with Alexa and WiFIRE Smart Home Technology - Black`,slug: ""},
+			B07T2FWL8Q: {href: "https://amzn.to/3ktx0zK",nameProduct: `Traeger TFB57GZEO Pro Series 575 Grill, Smoker, Square inches, Bronze`,slug: ""},
+			B01HJATY32: {href: "https://amzn.to/3sBWEVP",nameProduct: `Keter Unity XL Portable Outdoor Table and Storage Cabinet with Hooks for Grill Accessories-Stainless Steel Top for Patio Kitchen Island or Bar Cart, Espresso Brown`,slug: ""}
 		}
 	}
 	return dataAMZ;
