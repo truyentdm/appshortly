@@ -118,7 +118,7 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
 		href: ${dataAMZCK[asin]["href"]}<br/>
 		${inputTextOpen} value="${radioDecriptionUS} ${createLink(asin,local)}" style="width:85%" id="myInputUS" ${inputTextEnd} ${copyTextUS}<br/>
 		${inputTextOpen} value="${radioDecriptionCA} ${createLink(asin,local)}" style="width:85%" id="myInputCA" ${inputTextEnd} ${copyTextCA}<br/>
-		${inputTextOpen} value="${radioDecriptionUK} (UK)► ${createLink(asin,local)}" style="width:85%" id="myInputUK" ${inputTextEnd} ${copyTextUK}<br/>
+		${inputTextOpen} value="${radioDecriptionUK} ${createLink(asin,local)}" style="width:85%" id="myInputUK" ${inputTextEnd} ${copyTextUK}<br/>
 		-----------------------<br/>
 		Product Name: ${dataAMZCK[asin]["nameProduct"]}
 	`
