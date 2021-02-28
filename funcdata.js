@@ -100,24 +100,29 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
       asin = asin.trim();
   let inputTextOpen = "<input type='text'";
   let inputTextEnd = "/>";
-  let  copyText = `<div class="tooltip"><button onclick="myCopyTexFunction('myInputUS','myTooltipUS')" onmouseout="outFunc('myTooltipUS')"><span class="tooltiptext" id="myTooltipUS">Copy to clipboard</span>Copy text</button></div>`;
+  let  copyTextUS =`<div class="tooltip"><button onclick="myCopyTexFunction('myInputUS','myTooltipUS')" onmouseout="outFunc('myTooltipUS')"><span class="tooltiptext" id="myTooltipUS">Copy to clipboard</span>Copy text</button></div>`
+  let  copyTextCA =`<div class="tooltip"><button onclick="myCopyTexFunction('myInputCA','myTooltipCA')" onmouseout="outFunc('myTooltipCA')"><span class="tooltiptext" id="myTooltipCA">Copy to clipboard</span>Copy text</button></div>`
+  let  copyTextUK =`<div class="tooltip"><button onclick="myCopyTexFunction('myInputUK','myTooltipUK')" onmouseout="outFunc('myTooltipUK')"><span class="tooltiptext" id="myTooltipUK">Copy to clipboard</span>Copy text</button></div>`
+  let  copyTextCP =`<div class="tooltip"><button onclick="myCopyTexFunction('myInputCP','myTooltipCP')" onmouseout="outFunc('myTooltipCP')"><span class="tooltiptext" id="myTooltipCP">Copy to clipboard</span>Copy text</button></div>`
   document.getElementById("lblResult").innerHTML = ""
   if(checkASIN(asin,dataAMZCK)){
   	if(typeof dataAMZCK[asin]["href"] != "undefined"){
 	  document.getElementById("lblResult").innerHTML = `
-		ASIN: ${asin}\n 
-		href: ${dataAMZCK[asin]["href"]}\n
-		${inputTextOpen} value="Current Price & More Info (US)► ${createLink(asin,local)}" style="width:60%" id="myInputUS" ${inputTextEnd} ${copyText}\n
-		${inputTextOpen} value="Current Price & More Info (CA)► ${createLink(asin,local)}" style="width:60%" ${inputTextEnd}\n
-		${inputTextOpen} value="Current Price & More Info (UK)► ${createLink(asin,local)}" style="width:60%" ${inputTextEnd}\n
-		-----------------------\n
+		ASIN: ${asin}<br/>
+		href: ${dataAMZCK[asin]["href"]}<br/>
+		${inputTextOpen} value="Current Price & More Info (US)► ${createLink(asin,local)}" style="width:85%" id="myInputUS" ${inputTextEnd} ${copyTextUS}<br/>
+		${inputTextOpen} value="Current Price & More Info (CA)► ${createLink(asin,local)}" style="width:85%" id="myInputCA" ${inputTextEnd} ${copyTextCA}<br/>
+		${inputTextOpen} value="Current Price & More Info (UK)► ${createLink(asin,local)}" style="width:85%" id="myInputUK" ${inputTextEnd} ${copyTextUK}<br/>
+		-----------------------<br/>
 		Product Name: "+dataAMZCK[asin]["nameProduct"];
-	 `
+	`
 	}else{
 	  document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>US: " + dataAMZCK[asin]["US"] + "<br/>CA: " + dataAMZCK[asin]["CA"] + "<br/>UK: " + dataAMZCK[asin]["UK"]+"<br/>----------------------------<br/>"+"<br/>Current Price & More Info (US)► "+createLink(asin,"us")+"<br/>Current Price & More Info (CA)► "+createLink(asin,"ca")+"<br/>Current Price & More Info (UK)► "+createLink(asin,"uk")+"<br/>----------------------------<br/>"+"Current Price & More Info (US)► "+createLink(asin,"p");
 	}		
   }else{
-  	document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>"+ inputTextOpen +"Current Price & More Info ("+local.toUpperCase()+")► "  + createLink(asin,local) +inputTextEnd;
+  	document.getElementById("lblResult").innerHTML = `ASIN: ${asin}<br/>
+		${inputTextOpen} value="Current Price & More Info (${local.toUpperCase()})► ${createLink(asin,local)} style="width:85%" id="myInputCP" ${inputTextEnd} ${copyTextCP}
+	`
   }
 
   return true;
