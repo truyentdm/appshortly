@@ -98,8 +98,8 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
   var asin = fn.txtAsin.value;
       asin = asin.toUpperCase();
       asin = asin.trim();
-  let inputTextOpen = "<input type='text'>";
-  let inputTextEnd = "</input>";
+  let inputTextOpen = "<input type='text' value='";
+  let inputTextEnd = "'/>";
   document.getElementById("lblResult").innerHTML = ""
   if(checkASIN(asin,dataAMZCK)){
   	if(typeof dataAMZCK[asin]["href"] != "undefined"){
