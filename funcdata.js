@@ -101,12 +101,12 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
   document.getElementById("lblResult").innerHTML = ""
   if(checkASIN(asin,dataAMZCK)){
   	if(typeof dataAMZCK[asin]["href"] != "undefined"){
-	  document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>href: " + dataAMZCK[asin]["href"] + "<br/>Current Price & More Info (US) ► " + createLink(asin,local)+"<br/>Current Price & More Info (CA) ► " + createLink(asin,local)+"<br/>Current Price & More Info (UK) ► " + createLink(asin,local) +"<br/>-----------------------<br/>Product Name: "+dataAMZCK[asin]["nameProduct"];
+	  document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>href: " + dataAMZCK[asin]["href"] + "<br/>Current Price & More Info (US)► " + createLink(asin,local)+"<br/>Current Price & More Info (CA)► " + createLink(asin,local)+"<br/>Current Price & More Info (UK)► " + createLink(asin,local) +"<br/>-----------------------<br/>Product Name: "+dataAMZCK[asin]["nameProduct"];
 	}else{
-	  document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>US: " + dataAMZCK[asin]["US"] + "<br/>CA: " + dataAMZCK[asin]["CA"] + "<br/>UK: " + dataAMZCK[asin]["UK"]+"<br/>----------------------------<br/>"+"<br/>Current Price & More Info (US) ► "+createLink(asin,"us")+"<br/>Current Price & More Info (CA) ► "+createLink(asin,"ca")+"<br/>Current Price & More Info (UK) ► "+createLink(asin,"uk")+"<br/>----------------------------<br/>"+"Current Price & More Info (US) ► "+createLink(asin,"p");
+	  document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>US: " + dataAMZCK[asin]["US"] + "<br/>CA: " + dataAMZCK[asin]["CA"] + "<br/>UK: " + dataAMZCK[asin]["UK"]+"<br/>----------------------------<br/>"+"<br/>Current Price & More Info (US)► "+createLink(asin,"us")+"<br/>Current Price & More Info (CA)► "+createLink(asin,"ca")+"<br/>Current Price & More Info (UK)► "+createLink(asin,"uk")+"<br/>----------------------------<br/>"+"Current Price & More Info (US)► "+createLink(asin,"p");
 	}		
   }else{
-  	document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>"+"Current Price & More Info ("+local.toUpperCase()+") ► "  + createLink(asin,local);
+  	document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>"+"Current Price & More Info ("+local.toUpperCase()+")► "  + createLink(asin,local);
   }
 
   return true;
