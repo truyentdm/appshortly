@@ -144,7 +144,18 @@ function getData(){
 			B00H2VOSP8: {href: "https://amzn.to/3sfkWoh",nameProduct: `Corentium Home Radon Detector by Airthings 223 Portable, Lightweight, Easy-to-Use, (3) AAA Battery Operated, USA Version, pCi/L`,slug: ""},
 			B00I0ZGOZM: {href: "https://amzn.to/3brKCan",nameProduct: `APEC Top Tier 5-Stage Ultra Safe Reverse Osmosis Drinking Water Filter System (ESSENCE ROES-50)`,slug: ""},
 			B005NASZG8: {href: "https://amzn.to/3dzrj1G",nameProduct: `Hoover Commercial Lightweight Backpack Vacuum, C2401`,slug: ""},
-			B0116W5B5O: {href: "https://amzn.to/3scaJcc",nameProduct: `La-Z-Boy Delano Big & Tall Executive Bonded Leather Office Chair - Chestnut (Brown)`,slug: ""}
+			B0116W5B5O: {href: "https://amzn.to/3scaJcc",nameProduct: `La-Z-Boy Delano Big & Tall Executive Bonded Leather Office Chair - Chestnut (Brown)`,slug: ""},
+			B01N5SMNJ4: {href: "https://amzn.to/3kwlSC2",nameProduct: `Hoover Power Scrub Elite Pet Carpet Cleaner, FH50251`,slug: ""},
+			B071RP2PVY: {href: "https://amzn.to/3aZsNjP",nameProduct: `Portable Washing Machine, Spin Dryer-Compact Twin Tub Durable Design 9.9lbs Mini Washer to Wash All your Laundry for Apartments, Dorms, RV Camping Swim Suit Spinner Dryer, Blue`,slug: ""},
+			B00UWP07LK: {href: "https://amzn.to/3bO4xjR",nameProduct: `Frigidaire 70-Pint Dehumidifier with Effortless Humidity Control, White`,slug: ""},
+			B016PXH9R2: {href: "https://amzn.to/3r1nNAR",nameProduct: `PetSafe ScoopFree Ultra Self-Cleaning Cat Litter Box, Covered, Automatic with Disposable Tray, 2 Color Options`,slug: ""},
+			B01CA4PRBA: {href: "https://amzn.to/2NJF5UI",nameProduct: `Greenworks 1600 PSI 13 Amp 1.2 GPM Pressure Washer GPW1602`,slug: ""},
+			B075XQRXCF: {href: "https://amzn.to/37WHpih",nameProduct: `Portable Washing Machine TG23 - Twin Tub Washer Machine with Wash and Spin Cycle Compartments by ThinkGizmos (Trademark Protected)`,slug: ""},
+			B07B4YXMK9: {href: "https://amzn.to/3reWhjL",nameProduct: `Essential Hot Tubs 67 Jets Syracuse Lounger, Rotationally Molded Hot Tub, Espresso`,slug: ""},
+			B009SCPYN4: {href: "https://amzn.to/3st1Hrk",nameProduct: `Hudson Bay Spas 4 Person 14 Jet Spa with Stainless Jets and 110V GFCI Cord Included`,slug: ""},
+			B07DJ2Y4PJ: {href: "https://amzn.to/3st1Hrk",nameProduct: `Phiestina 24 Inch Built In Dual Zone Wine and Beverage Cooler with French Door`,slug: ""},
+			B0787BVSTH: {href: "https://amzn.to/3sBOmgG",nameProduct: `LUNA Weighted Blanket (15 lbs - 60x80 - Queen Size) – Organic Cooling Cotton & Premium Glass Beads – Designed in USA – Heavy Cool Weighted Blanket for Hot & Cold Sleepers – Kids or Adult – Grey`,slug: ""},
+			B00BRUNPXQ: {href: "https://amzn.to/3uBZWtL",nameProduct: `Sauder August Hill L-Shaped Desk, L: 59.06" x W: 58.74" x H: 29.25", Dover Oak finish`,slug: ""}
 		}
 	}
 	return dataAMZ;
