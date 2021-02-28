@@ -100,16 +100,16 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
       asin = asin.trim();
   let inputTextOpen = "<input type='text'";
   let inputTextEnd = "/>";
-  let  copyText = `<div class="tooltip"><button onclick="myCopyTexFunction(myInputUS,myTooltipUS)" onmouseout="outFunc(myTooltipUS)"><span class="tooltiptext" id="myTooltipUS">Copy to clipboard</span>Copy text</button></div>`;
+  let  copyText = `<div class="tooltip"><button onclick="myCopyTexFunction('myInputUS','myTooltipUS')" onmouseout="outFunc('myTooltipUS')"><span class="tooltiptext" id="myTooltipUS">Copy to clipboard</span>Copy text</button></div>`;
   document.getElementById("lblResult").innerHTML = ""
   if(checkASIN(asin,dataAMZCK)){
   	if(typeof dataAMZCK[asin]["href"] != "undefined"){
 	  document.getElementById("lblResult").innerHTML = `
 		ASIN: ${asin}\n 
 		href: ${dataAMZCK[asin]["href"]}\n
-		${inputTextOpen} value="Current Price & More Info (US)► ${createLink(asin,local)}" style="width:90%" id="myInputUS" ${inputTextEnd} ${copyText}\n
-		${inputTextOpen} value="Current Price & More Info (CA)► ${createLink(asin,local)}" style="width:90%" ${inputTextEnd}\n
-		${inputTextOpen} value="Current Price & More Info (UK)► ${createLink(asin,local)}" style="width:90%" ${inputTextEnd}\n
+		${inputTextOpen} value="Current Price & More Info (US)► ${createLink(asin,local)}" style="width:60%" id="myInputUS" ${inputTextEnd} ${copyText}\n
+		${inputTextOpen} value="Current Price & More Info (CA)► ${createLink(asin,local)}" style="width:60%" ${inputTextEnd}\n
+		${inputTextOpen} value="Current Price & More Info (UK)► ${createLink(asin,local)}" style="width:60%" ${inputTextEnd}\n
 		-----------------------\n
 		Product Name: "+dataAMZCK[asin]["nameProduct"];
 	 `
