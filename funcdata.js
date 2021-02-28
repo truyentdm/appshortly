@@ -121,7 +121,7 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
 	}		
   }else{
   	document.getElementById("lblResult").innerHTML = `ASIN: ${asin}<br/>
-		${inputTextOpen} value="Current Price & More Info (${local.toUpperCase()})► ${createLink(asin,local)} style="width:85%" id="myInputCP" ${inputTextEnd} ${copyTextCP}
+		${inputTextOpen} value="Current Price & More Info (${local.toUpperCase()})► ${createLink(asin,local)}" style="width:85%" id="myInputCP" ${inputTextEnd} ${copyTextCP}
 	`
   }
 
@@ -249,7 +249,7 @@ function myCopyTexFunction(idHtml,idTooltip) {
   document.execCommand("copy");
   
   var tooltip = document.getElementById(idTooltip);
-  tooltip.innerHTML = "Copied: " + copyText.value;
+  tooltip.innerHTML = "Copied";
 }
 function outFunc(idTooltip) {
   var tooltip = document.getElementById(idTooltip);
