@@ -98,6 +98,12 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
   var asin = fn.txtAsin.value;
       asin = asin.toUpperCase();
       asin = asin.trim();
+  let radioDecription = fn.radioDescription.value;	
+  let radioDecriptionLocal = radioDecription.replace("[local]",local.toUpperCase());
+  let radioDecriptionUS = radioDecription.replace("[local]","US");
+  let radioDecriptionCA = radioDecription.replace("[local]","CA");
+  let radioDecriptionUK = radioDecription.replace("[local]","UK");
+	
   let inputTextOpen = "<input type='text'";
   let inputTextEnd = "/>";
   let  copyTextUS =`<div class="tooltip"><button onclick="myCopyTexFunction('myInputUS','myTooltipUS')" onmouseout="outFunc('myTooltipUS')"><span class="tooltiptext" id="myTooltipUS">Copy to clipboard</span>Copy text</button></div>`
@@ -110,9 +116,9 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
 	  document.getElementById("lblResult").innerHTML = `
 		ASIN: ${asin}<br/>
 		href: ${dataAMZCK[asin]["href"]}<br/>
-		${inputTextOpen} value="Current Price & More Info (US)► ${createLink(asin,local)}" style="width:85%" id="myInputUS" ${inputTextEnd} ${copyTextUS}<br/>
-		${inputTextOpen} value="Current Price & More Info (CA)► ${createLink(asin,local)}" style="width:85%" id="myInputCA" ${inputTextEnd} ${copyTextCA}<br/>
-		${inputTextOpen} value="Current Price & More Info (UK)► ${createLink(asin,local)}" style="width:85%" id="myInputUK" ${inputTextEnd} ${copyTextUK}<br/>
+		${inputTextOpen} value="${radioDecriptionUS} ${createLink(asin,local)}" style="width:85%" id="myInputUS" ${inputTextEnd} ${copyTextUS}<br/>
+		${inputTextOpen} value="${radioDecriptionCA} ${createLink(asin,local)}" style="width:85%" id="myInputCA" ${inputTextEnd} ${copyTextCA}<br/>
+		${inputTextOpen} value="${radioDecriptionUK} (UK)► ${createLink(asin,local)}" style="width:85%" id="myInputUK" ${inputTextEnd} ${copyTextUK}<br/>
 		-----------------------<br/>
 		Product Name: ${dataAMZCK[asin]["nameProduct"]}
 	`
@@ -121,7 +127,7 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
 	}		
   }else{
   	document.getElementById("lblResult").innerHTML = `ASIN: ${asin}<br/>
-		${inputTextOpen} value="Current Price & More Info (${local.toUpperCase()})► ${createLink(asin,local)}" style="width:85%" id="myInputCP" ${inputTextEnd} ${copyTextCP}
+		${inputTextOpen} value="${radioDecriptionLocal} ${createLink(asin,local)}" style="width:85%" id="myInputCP" ${inputTextEnd} ${copyTextCP}
 	`
   }
 
