@@ -155,7 +155,22 @@ function getData(){
 			B009SCPYN4: {href: "https://amzn.to/3st1Hrk",nameProduct: `Hudson Bay Spas 4 Person 14 Jet Spa with Stainless Jets and 110V GFCI Cord Included`,slug: ""},
 			B07DJ2Y4PJ: {href: "https://amzn.to/3st1Hrk",nameProduct: `Phiestina 24 Inch Built In Dual Zone Wine and Beverage Cooler with French Door`,slug: ""},
 			B0787BVSTH: {href: "https://amzn.to/3sBOmgG",nameProduct: `LUNA Weighted Blanket (15 lbs - 60x80 - Queen Size) – Organic Cooling Cotton & Premium Glass Beads – Designed in USA – Heavy Cool Weighted Blanket for Hot & Cold Sleepers – Kids or Adult – Grey`,slug: ""},
-			B00BRUNPXQ: {href: "https://amzn.to/3uBZWtL",nameProduct: `Sauder August Hill L-Shaped Desk, L: 59.06" x W: 58.74" x H: 29.25", Dover Oak finish`,slug: ""}
+			B00BRUNPXQ: {href: "https://amzn.to/3uBZWtL",nameProduct: `Sauder August Hill L-Shaped Desk, L: 59.06" x W: 58.74" x H: 29.25", Dover Oak finish`,slug: ""},
+			B0100RBPTC: {href: "https://amzn.to/3bMeaj9",nameProduct: `Casio Privia PX-160BK 88-Key Full Size Digital Piano with Power Supply, Black`,slug: ""},
+			B002G51BZU: {href: "https://amzn.to/3bQeJst",nameProduct: `Mr. Heater F232000 MH9BX Buddy 4,000-9,000-BTU Indoor-Safe Portable Propane Radiant Heater`,slug: ""},
+			B01EAG9XLG: {href: "https://amzn.to/3uEEzrT",nameProduct: `Sleep Innovations Shea 10-inch Memory Foam Mattress, Bed in a Box, Made in the USA, 10-Year Warranty - Queen Size`,slug: ""},
+			B01ET84Y46: {href: "https://amzn.to/3b1ij3J",nameProduct: `Modway Aveline 8" Gel Infused Memory Foam Full Mattress With CertiPUR-US Certified Foam - 10-Year Warranty - Available In Multiple Sizes`,slug: ""},
+			B06W2GYD8Y: {href: "https://amzn.to/3uEIzsj",nameProduct: `Real Relax Massage Chair, Full Body Zero Gravity Shiatsu Recliner with Heat and Foot Rollers, Black`,slug: ""},
+			B00QRJALYI: {href: "https://amzn.to/37TfVKr",nameProduct: `Delta Faucet Leland Single-Handle Touch Kitchen Sink Faucet with Pull Down Sprayer, Touch2O and ShieldSpray Technology, Magnetic Docking Spray Head, Arctic Stainless 9178T-AR-DST`,slug: ""},
+			B07QQW19BP: {href: "https://amzn.to/3uCgi5H",nameProduct: `Massage Chair by OOTORI,3D SL-Track Thai Yoga Stretching Zero Gravity Massage Chair,Full Body Shiatsu Massage Chairs Recliner with Tapping, Heating and Foot Roller Massager (Black)`,slug: ""},
+			B00005RHPD: {href: "https://amzn.to/3ku0Hk5",nameProduct: `Bosch 1617EVSPK Wood Router Tool Combo Kit - 2.25 Horsepower Plunge Router & FIXED Base Router Kit with A Variable Speed 12 Amp Motor`,slug: ""},
+			B00AB25016: {href: "https://amzn.to/3stXUtK",nameProduct: `Dri-Eaz F284 DefendAir HEPA 500 Air Purifier Negative Air Machine Air Scrubber`,slug: ""},
+			B073WJL99W: {href: "https://amzn.to/3stiBWO",nameProduct: `Blue Pure 211+ Air Purifier 3 Stage with Two Washable Pre-Filters, Particle, Carbon Filter, Captures Allergens, Odors, Smoke, Mold, Dust, Germs, Pets, Smokers, Large Room`,slug: ""},
+			B007HIKQCK: {href: "https://amzn.to/3dUavT9",nameProduct: `Bio Bidet Ultimate BB-600 Advanced Bidet Toilet Seat, Elongated White. Easy DIY Installation, Luxury Features From Side Panel, Adjustable Heated Seat and Water. Dual Nozzle Has Posterior and Feminine Wash`,slug: ""},
+			B001BMDFPS: {href: "https://amzn.to/300woYR",nameProduct: `DuroMax XP4400E 4,400 Watt 7.0 HP OHV 4-Cycle Gas Powered Portable Generator With Wheel Kit And Electric Start`,slug: ""},
+			B06VSJ9D1H: {href: "https://amzn.to/3bKToQT",nameProduct: `BISSELLProHeat 2X Revolution Max Clean Pet Pro Full-Size Carpet Cleaner, 1986`,slug: ""},
+			B016XMU2OC: {href: "https://amzn.to/2ZVghvF",nameProduct: `Backyard Discovery Woodland All Cedar Wood Playset Swing Set`,slug: ""},
+			B07FPY2GL8: {href: "https://amzn.to/3swTna8",nameProduct: `Medical Breakthrough 6 v4 Recliner 3D Massage Chair | Zero Gravity with Heating | Deep Tissue Shiatsu Full Body Massager | Yoga Stretch | Pain Relief | Full Foot Massager | Perfect Luxury Gift (Black)`,slug: ""}
 		}
 	}
 	return dataAMZ;
