@@ -114,7 +114,7 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
 		${inputTextOpen} value="Current Price & More Info (CA)► ${createLink(asin,local)}" style="width:85%" id="myInputCA" ${inputTextEnd} ${copyTextCA}<br/>
 		${inputTextOpen} value="Current Price & More Info (UK)► ${createLink(asin,local)}" style="width:85%" id="myInputUK" ${inputTextEnd} ${copyTextUK}<br/>
 		-----------------------<br/>
-		Product Name: "+dataAMZCK[asin]["nameProduct"];
+		Product Name: ${dataAMZCK[asin]["nameProduct"]}
 	`
 	}else{
 	  document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>US: " + dataAMZCK[asin]["US"] + "<br/>CA: " + dataAMZCK[asin]["CA"] + "<br/>UK: " + dataAMZCK[asin]["UK"]+"<br/>----------------------------<br/>"+"<br/>Current Price & More Info (US)► "+createLink(asin,"us")+"<br/>Current Price & More Info (CA)► "+createLink(asin,"ca")+"<br/>Current Price & More Info (UK)► "+createLink(asin,"uk")+"<br/>----------------------------<br/>"+"Current Price & More Info (US)► "+createLink(asin,"p");
