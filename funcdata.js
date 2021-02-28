@@ -98,12 +98,21 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
   var asin = fn.txtAsin.value;
       asin = asin.toUpperCase();
       asin = asin.trim();
-  let inputTextOpen = "<input type='text' value='";
-  let inputTextEnd = "'/>";
+  let inputTextOpen = "<input type='text'";
+  let inputTextEnd = "/>";
+  let  copyText = `<div class="tooltip"><button onclick="myCopyTexFunction(myInputUS,myTooltipUS)" onmouseout="outFunc(myTooltipUS)"><span class="tooltiptext" id="myTooltipUS">Copy to clipboard</span>Copy text</button></div>`;
   document.getElementById("lblResult").innerHTML = ""
   if(checkASIN(asin,dataAMZCK)){
   	if(typeof dataAMZCK[asin]["href"] != "undefined"){
-	  document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>href: " + dataAMZCK[asin]["href"] + "<br/>"+inputTextOpen+"Current Price & More Info (US)► " + createLink(asin,local)+inputTextEnd+"<br/>"+inputTextOpen+"Current Price & More Info (CA)► " + createLink(asin,local)+inputTextEnd+"<br/>"+inputTextOpen+"Current Price & More Info (UK)► " + createLink(asin,local) +inputTextEnd+"<br/>-----------------------<br/>Product Name: "+dataAMZCK[asin]["nameProduct"];
+	  document.getElementById("lblResult").innerHTML = `
+		ASIN: ${asin}\n 
+		href: ${dataAMZCK[asin]["href"]}\n
+		${inputTextOpen} value="Current Price & More Info (US)► ${createLink(asin,local)}" style="width:90%" id="myInputUS" ${inputTextEnd} ${copyText}\n
+		${inputTextOpen} value="Current Price & More Info (CA)► ${createLink(asin,local)}" style="width:90%" ${inputTextEnd}\n
+		${inputTextOpen} value="Current Price & More Info (UK)► ${createLink(asin,local)}" style="width:90%" ${inputTextEnd}\n
+		-----------------------\n
+		Product Name: "+dataAMZCK[asin]["nameProduct"];
+	 `
 	}else{
 	  document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>US: " + dataAMZCK[asin]["US"] + "<br/>CA: " + dataAMZCK[asin]["CA"] + "<br/>UK: " + dataAMZCK[asin]["UK"]+"<br/>----------------------------<br/>"+"<br/>Current Price & More Info (US)► "+createLink(asin,"us")+"<br/>Current Price & More Info (CA)► "+createLink(asin,"ca")+"<br/>Current Price & More Info (UK)► "+createLink(asin,"uk")+"<br/>----------------------------<br/>"+"Current Price & More Info (US)► "+createLink(asin,"p");
 	}		
@@ -227,6 +236,19 @@ function joinHTML(isSource,glink,dataText={title: "You will be redirected to the
 		//Transfer
 		window.location.href = glink;
 	}		
+}
+function myCopyTexFunction(idHtml,idTooltip) {
+  var copyText = document.getElementById(idHtml);
+  copyText.select();
+  copyText.setSelectionRange(0, 99999);
+  document.execCommand("copy");
+  
+  var tooltip = document.getElementById(idTooltip);
+  tooltip.innerHTML = "Copied: " + copyText.value;
+}
+function outFunc(idTooltip) {
+  var tooltip = document.getElementById(idTooltip);
+  tooltip.innerHTML = "Copy to clipboard";
 }
 //VS 2 Short link
 function getLinkShortAMZ(objURL){
