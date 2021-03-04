@@ -227,6 +227,32 @@ function textRedirect404(url,dataText){
 	htmlJS += "</div>";
 	return htmlJS;
 }
+function htmlShortly(dataContent,dataRedirect){
+	var htmlJS = "";
+	htmlJS += "<div class=\"widget Blog\">";
+	htmlJS += "<div class=\"wp_errorWrap\">";
+	htmlJS += "<div class=\"errorWrap2\">";
+	htmlJS += dataContent[0].title;
+	htmlJS += dataContent[0].content;
+	htmlJS += `
+		<ul class="ul-data">
+			<li>
+				<div class="data-img fl-left"><img src="https://4.bp.blogspot.com/-O3EpVMWcoKw/WxY6-6I4--I/AAAAAAAAB2s/KzC0FqUQtkMdw7VzT6oOR_8vbZO6EJc-ACK4BGAYYCw/w100/nth.png" alt=""></div>
+				<div class="data-title fl-left"><div>${dataRedirect[0].title}</div><a href="${dataRedirect[0].href}">View Amazon Price</a></div>
+				<div class="clr"></div>
+			</li>
+			<li>
+				<div class="data-img fl-left"><img src="https://4.bp.blogspot.com/-O3EpVMWcoKw/WxY6-6I4--I/AAAAAAAAB2s/KzC0FqUQtkMdw7VzT6oOR_8vbZO6EJc-ACK4BGAYYCw/w100/nth.png" alt=""></div>
+				<div class="data-title fl-left"><div>Top 5 Best Wooden Bed Frames With the Quality Design Reviews</div><a href="#">View Amazon Price</a></div>
+				<div class="clr"></div>
+			</li>
+		</ul>
+	`
+	htmlJS += "</div>";
+	htmlJS += "</div>";
+	htmlJS += "</div>";
+	return htmlJS;
+}
 function htmlLoading(text){
 	var htmlJS = "";
 	htmlJS += "<div class=\"wp_errorWrap\">";
@@ -236,6 +262,15 @@ function htmlLoading(text){
 }
 function actHTML(isSource,glink,nameProduct="",tag="Amazon",idWeb="Blog1"){
 	document.getElementById(idWeb).innerHTML = htmlRedirect404(glink,nameProduct,tag);
+	if(isSource){
+		//Transfer
+		window.location.href = glink;
+	}
+}
+function addHtml(isSource,glink,nameProduct,idWeb="Blog1"){
+	let dataContent = shortlyContent();
+	let dataRedirect = [{title: nameProduct,href: glink}]
+	document.getElementById(idWeb).innerHTML = htmlShortly(dataContent,dataRedirect);
 	if(isSource){
 		//Transfer
 		window.location.href = glink;
