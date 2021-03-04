@@ -242,7 +242,7 @@ function htmlShortly(dataContent,dataRedirect){
 	htmlJS += "<h3>"+dataContent[0].title+"</h3>";
 	htmlJS += dataContent[0].content;
 	htmlJS += "<h4>You may like products:</h4>"
-	htmlJS += `
+	/*htmlJS += `
 		<ul class="ul-data">
 			<li>
 				<div class="data-img fl-left"><img src="https://4.bp.blogspot.com/-O3EpVMWcoKw/WxY6-6I4--I/AAAAAAAAB2s/KzC0FqUQtkMdw7VzT6oOR_8vbZO6EJc-ACK4BGAYYCw/w100/nth.png" alt=""></div>
@@ -255,7 +255,18 @@ function htmlShortly(dataContent,dataRedirect){
 				<div class="clr"></div>
 			</li>
 		</ul>
-	`
+	`*/
+	htmlJS += '<ul class="ul-data">';
+	dataRedirect.forEach((item,index)=>{
+		htmlJS += `
+			<li>
+				<div class="data-img fl-left"><img src="https://4.bp.blogspot.com/-O3EpVMWcoKw/WxY6-6I4--I/AAAAAAAAB2s/KzC0FqUQtkMdw7VzT6oOR_8vbZO6EJc-ACK4BGAYYCw/w100/nth.png" alt=""></div>
+				<div class="data-title fl-left"><div>${item.title}</div><a href="${item.href}">View Amazon Price</a></div>
+				<div class="clr"></div>
+			</li>
+		`;
+	});
+	htmlJS += "</ul>";
 	htmlJS += "</div>";
 	htmlJS += "</div>";
 	htmlJS += "</div>";
