@@ -232,6 +232,13 @@ function htmlShortly(dataContent,dataRedirect){
 	htmlJS += "<div class=\"widget Blog\">";
 	htmlJS += "<div class=\"wp_errorWrap\">";
 	htmlJS += "<div class=\"errorWrap2\">";
+	
+	htmlJS += "<h3>Recommended for you:</h3>";
+	htmlJS += `
+		<div class="data-img fl-left"><img src="https://4.bp.blogspot.com/-O3EpVMWcoKw/WxY6-6I4--I/AAAAAAAAB2s/KzC0FqUQtkMdw7VzT6oOR_8vbZO6EJc-ACK4BGAYYCw/w100/nth.png" alt=""></div>
+		<div class="data-title fl-left"><div>${dataRedirect[0].title}</div><a href="${dataRedirect[0].href}">View Amazon Price</a></div>
+		<div class="clr"></div>
+	`;
 	htmlJS += "<h3>"+dataContent[0].title+"</h3>";
 	htmlJS += dataContent[0].content;
 	htmlJS += "<h4>You may like products:</h4>"
