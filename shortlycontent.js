@@ -7,7 +7,7 @@ function shortlyContent(){
 		- Built with the latest 3rd generation technology, the microprocessor monitors pressure, temperature, keeps time, and adjusts heating intensity and duration to achieve your desired results every time.<br/>
 		- UL and ULC certified. With 10 safety mechanisms to provide you with added assurance, designed to eliminate many common errors<br/>
 		- Power supply: 120V – 60Hz<br/>
-		<img src="https://1.bp.blogspot.com/-MWw7WGwLzcI/YBZkvBBA8OI/AAAAAAAABoI/wxopuyheqzE1TfA1X5v37HVwIqhSQbK9wCLcBGAsYHQ/s574/4.jpg"/>
+		<div class="short-img"><img src="https://1.bp.blogspot.com/-MWw7WGwLzcI/YBZkvBBA8OI/AAAAAAAABoI/wxopuyheqzE1TfA1X5v37HVwIqhSQbK9wCLcBGAsYHQ/s574/4.jpg"/></div>
 		<br/>
 		<h3>Pros And Cons</h3>
 		<b>+ Pros</b><br/>
