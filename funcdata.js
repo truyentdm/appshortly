@@ -228,6 +228,7 @@ function textRedirect404(url,dataText){
 	return htmlJS;
 }
 function htmlShortly(dataContent,dataRedirect){
+	let posContent = getRandomInt(0,dataContent.length)
 	var htmlJS = "";
 	htmlJS += "<div class=\"widget Blog\">";
 	htmlJS += "<div class=\"wp_errorWrap\">";
@@ -239,8 +240,8 @@ function htmlShortly(dataContent,dataRedirect){
 		<div class="data-title fl-left"><div>${dataRedirect[0].title}</div><a href="${dataRedirect[0].href}">View Amazon Price</a></div>
 		<div class="clr"></div>
 	`;
-	htmlJS += "<h3>"+dataContent[0].title+"</h3>";
-	htmlJS += dataContent[0].content;
+	htmlJS += "<h3>"+dataContent[posContent].title+"</h3>";
+	htmlJS += dataContent[posContent].content;
 	htmlJS += "<h4>You may like products:</h4>"
 	/*htmlJS += `
 		<ul class="ul-data">
