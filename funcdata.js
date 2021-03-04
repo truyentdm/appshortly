@@ -232,8 +232,9 @@ function htmlShortly(dataContent,dataRedirect){
 	htmlJS += "<div class=\"widget Blog\">";
 	htmlJS += "<div class=\"wp_errorWrap\">";
 	htmlJS += "<div class=\"errorWrap2\">";
-	htmlJS += dataContent[0].title;
+	htmlJS += "<h3>"+dataContent[0].title+"</h3>";
 	htmlJS += dataContent[0].content;
+	htmlJS += "<h4>You may like products:</h4>"
 	htmlJS += `
 		<ul class="ul-data">
 			<li>
