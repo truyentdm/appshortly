@@ -149,7 +149,7 @@ function getData(){
 			B01N1I9D6E: {href: "https://amzn.to/2LgxCLS",nameProduct: `WoodBridge T-0001 One Piece Toilet, Rectangle Button and Soft Closing Seat - Dual Flush, Elongated, Comfort Height, Water Sense, High-Efficiency`,slug: ""},
 			B07RGM11L5: {href: "https://amzn.to/2MJtJzt",nameProduct: `Frigidaire 5,000 BTU 115V Window-Mounted Mini-Compact Air Conditioner with Mechanical Controls, White`,slug: ""},
 			B0128T2HQK: {href: "https://amzn.to/3aonlFY",nameProduct: `SmartBidet SB-1000 Electric Bidet Seat for Elongated Toilets with Remote Control- Electronic Heated Toilet Seat with Warm Air Dryer and Temperature Controlled Wash Functions (White)`,slug: ""},
-			B08D3HW1MQ: {href: "https://amzn.to/2MJtDrB",nameProduct: `ECOTRIC Electric Powerful Bicycle 26“ Fat Tire Bike 500W 36V/12AH Battery EBike Moped Snow Beach Mountain Ebike Throttle & Pedal Assist`,slug: ""},
+			B08D3HW1MQ: {href: "https://amzn.to/3tA0b7e",nameProduct: `ECOTRIC Electric Powerful Bicycle 26“ Fat Tire Bike 500W 36V/12AH Battery EBike Moped Snow Beach Mountain Ebike Throttle & Pedal Assist`,slug: ""},
 			B07J31T4NC: {href: "https://amzn.to/3j7GvDK",nameProduct: `Nod by Tuft & Needle, Adaptive Foam 8-Inch Mattress, Queen`,slug: ""},
 			B06W54K29J: {href: "https://amzn.to/2Mij4vP",nameProduct: `LEVOIT Air Purifier for Home Large Room,Smoke and Odor Eliminator, H13 True HEPA Filter for Bedroom, Auto Mode & 12h Timer, Cleaners for Allergies and Pets, Mold Pollen Dust, LV-PUR131, White`,slug: ""},
 			B076MK5MHY: {href: "https://amzn.to/3pHxVhx",nameProduct: `Seatcraft Anthem Home Theater Seating Leather Multimedia Power Recline Sofa with Fold-Down Table, Adjustable Powered Headrests, Storage, AC/USB and Wireless Charging and Cup Holders (Black)`,slug: ""},
@@ -209,7 +209,22 @@ function getData(){
 			B06XTNWVVV: {href: "https://amzn.to/2NLXiB0",nameProduct: `Traeger Grills TFB65LZBC Texas Elite 34 Wood Pellet Grill & Smoker, 646 Sq. In. Cooking Capacity, Bronze,Black and Bronze`,slug: ""},
 			B0822BKLR4: {href: "https://amzn.to/2O8zaZ9",nameProduct: `Traeger Grills Ironwood 650 Wood Pellet Grill and Smoker with Alexa and WiFIRE Smart Home Technology - Black`,slug: ""},
 			B07T2FWL8Q: {href: "https://amzn.to/3ktx0zK",nameProduct: `Traeger TFB57GZEO Pro Series 575 Grill, Smoker, Square inches, Bronze`,slug: ""},
-			B01HJATY32: {href: "https://amzn.to/3sBWEVP",nameProduct: `Keter Unity XL Portable Outdoor Table and Storage Cabinet with Hooks for Grill Accessories-Stainless Steel Top for Patio Kitchen Island or Bar Cart, Espresso Brown`,slug: ""}
+			B01HJATY32: {href: "https://amzn.to/3sBWEVP",nameProduct: `Keter Unity XL Portable Outdoor Table and Storage Cabinet with Hooks for Grill Accessories-Stainless Steel Top for Patio Kitchen Island or Bar Cart, Espresso Brown`,slug: ""},
+			B01DB8PX1S: {href: "https://amzn.to/3sKmWVT",nameProduct: `Need Computer Desk Office Desk 55 inches Folding Table Computer Table Workstation No Install Needed,Teak Black AC5BB-140X`,slug: ""},
+			B073VBWKJZ: {href: "https://amzn.to/305nids",nameProduct: `hOmeLabs 4,500 Sq. Ft Energy Star Dehumidifier for Extra Large Rooms and Basements`,slug: ""},
+			B076QJNK8G: {href: "https://amzn.to/3dZQ9I4",nameProduct: `Mealthy MultiPot 9-in-1 Programmable Pressure Cooker 6 Quarts with Stainless Steel Pot, Steamer Basket, instant access to recipe app. Pressure cook, slow cook, sauté, rice cooker, yogurt, steam`,slug: ""},
+			B01DVQF6EY: {href: "https://amzn.to/3e0fRMQ",nameProduct: `Alesis Strike Pro Kit | Eleven-Piece Professional Electronic Drum Kit with Adjustable Mesh Heads, 110 kits and over 1600 multi-sampled instruments`,slug: ""},
+			B01M8LDBZY: {href: "https://amzn.to/3e0HXaO",nameProduct: `Winix True HEPA 6300-2 Air Cleaner with PlasmaWave Technology`,slug: ""},
+			B018Q69604: {href: "https://amzn.to/38061Xm",nameProduct: `Alen BreatheSmart FIT50, Smoke/Chemical, White`,slug: ""},
+			B01M65AYN8: {href: "https://amzn.to/3sF6GWa",nameProduct: `ENVION - Therapure TPP220 Air Purifier Tower with Handle and HEPA Type Technology Filter (White)`,slug: ""},
+			B084GKPZ4V: {href: "https://amzn.to/3e00TWQ",nameProduct: `Winix Air Cleaner with PlasmaWave Technology (C545)`,slug: ""},
+			B01N43P6XN: {href: "https://amzn.to/3kIkJY7",nameProduct: `Winix Air Cleaner with PlasmaWave Technology (C535)`,slug: ""},
+			B073V9MG3Y: {href: "https://amzn.to/2NLdD9o",nameProduct: `hOmeLabs 1,500 Sq. Ft Energy Star Dehumidifier for Medium to Large Rooms and Basements`,slug: ""},
+			B0116W5B5O: {href: "https://amzn.to/3tzQh5G",nameProduct: `La-Z-Boy Delano Big & Tall Executive Office Chair | High Back Ergonomic Lumbar Support, Bonded Leather, Brown | 45833 model`,slug: ""},
+			B005NASZG8: {href: "https://amzn.to/38YcySW",nameProduct: `Hoover Commercial Lightweight Backpack Vacuum, C2401,Black`,slug: ""},
+			B016OIF2JU: {href: "https://amzn.to/3vHQfdW",nameProduct: `Steelcase Gesture Chair, Graphite`,slug: ""},
+			B00I0ZGOZM: {href: "https://amzn.to/3vHQiq8",nameProduct: `APEC Water Systems ROES-50 Essence Series Top Tier 5-Stage Certified Ultra Safe Reverse Osmosis Drinking Water Filter System`,slug: ""},
+			B01DEWZUG4: {href: "https://amzn.to/3cN74vs",nameProduct: `Panasonic Microwave Oven NN-SN686S Stainless Steel Countertop/Built-In with Inverter Technology and Genius Sensor, 1.2 Cubic Foot, 1200W`,slug: ""}
 		}
 	}
 	return dataAMZ;
