@@ -313,6 +313,7 @@ function getData(){
 			B07Q7Y84S6: {href: "https://amzn.to/3oCssss",nameProduct: `ECOVACS DEEBOT 500 Robotic Vacuum Cleaner with Max Power Suction, Up to 110 min Runtime, Hard Floors & Carpets, App Controls, Self-Charging, Quiet`,slug: ""},
 			B00K150VAI: {href: "https://amzn.to/35LBLgL",nameProduct: `Smittybilt (98510) X2O Waterproof Synthetic Rope Winch - 10000 lb. Load Capacity`,slug: ""},
 			B00R9HVPBK: {href: "https://amzn.to/2G6vcN4",nameProduct: `DHP Emily Futon Couch Bed, Modern Sofa Design Includes Sturdy Chrome Legs and Rich Linen Upholstery, Grey`,slug: ""},
+			B00JKJDQRG: {href: "TDM",nameProduct: `Safavieh California Premium Shag Collection SG151-8181 Mushroom Square Area Rug (4' Square)`,slug: ""},
 			B075ZZND8B: {href: "https://amzn.to/378PH7d",nameProduct: `Hathaspace Smart True HEPA Air Purifier, 5-in-1 Large Room Air Cleaner & Deodorizer for Allergies, Pets, Asthma, Smokers, Odors – Eliminates Pet Hair, Allergens, Dust, Pollen, Mold, Smoke, More`,slug: ""},
 			B07CWLRXBK: {href: "https://amzn.to/2GCKqK4",nameProduct: `HOFISH 10 Inch Medium Firm Gel-Infused Memory Foam Mattress - Ideal Support & Great Motion Isolation - CertiPUR-US Certified Foam - Medium Firm - Queen`,slug: ""},
 			B075VCM1XR: {href: "https://amzn.to/34pVMtR",nameProduct: `Zinus Dori Upholstered Square Stitched Wingback Platform Bed / Mattress Foundation / Easy Assembly / Strong Wood Slat Support, Queen`,slug: ""},
@@ -848,7 +849,8 @@ function getData(){
 			B089YSKJY6: {href: "https://amzn.to/3siN1vN",nameProduct: `COMFEE’ 1.6 Cu.ft Portable Washing Machine, 11lbs Capacity Fully Automatic Compact Washer with Wheels, 6 Wash Programs Laundry Washer with Drain Pump, Ideal for Apartments, RV, Camping, Magnetic Gray`,slug: ""},
 			B0762N3T85: {href: "https://amzn.to/3ijVlqF",nameProduct: `RCA RPW302 Portable Washing Machine, 3.0 cu ft, White`,slug: ""},
 			B01MRNXXYQ: {href: "https://amzn.to/39XQHL7",nameProduct: `Sunny Health & Fitness Folding Compact Motorized Treadmill - LCD Display, Shock Absorption and 220 LB Max Weight - SF-T7632,Gray`,slug: ""},
-			B001G60JA8: {href: "https://amzn.to/39eYchn",nameProduct: `SOLE F63 Treadmill`,slug: ""}
+			B001G60JA8: {href: "https://amzn.to/39eYchn",nameProduct: `SOLE F63 Treadmill`,slug: ""},
+			B07GL7PNPQ: {href: "https://amzn.to/3rkOPCy",nameProduct: `Traeger Grills TFB88PZBO Pro Series 34 Pellet Grill and Smoker, 884 Sq. In. Cooking Capacity, Bronze`,slug: ""}
 		}
 	}
 	return dataAMZ;
