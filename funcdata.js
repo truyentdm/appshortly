@@ -103,6 +103,8 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
       asin = asin.toUpperCase();
       asin = asin.trim();
   let wrapLink = fn.slcWrapLink.value == "none" ? "" : fn.slcWrapLink.value;
+	console.log("fn.slcWrapLink.value",fn.slcWrapLink.value)
+	console.log("wrapLink",wrapLink)
   let radioDecription = fn.radioDescription.value;	
   let radioDecriptionLocal = radioDecription.replace("[local]",local.toUpperCase());
   let radioDecriptionUS = radioDecription.replace("[local]","US");
