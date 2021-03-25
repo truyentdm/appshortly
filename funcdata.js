@@ -70,27 +70,31 @@ function checkASIN(asin,data){
   var existAS = typeof data[asin] != "undefined" ? true : false;
   return existAS;
 }
-function createLink(asin,local){
+function createLink(asin,local,wrapLink=""){
  	var asinShort = asin.toLowerCase();
  	var localShort = local.toLowerCase();
 	var sLink = "";
-	if(typeof shortLink == "object"){
-		if(localShort == "us" || localShort == "p"){
-			sLink = shortLink[0];
-		}else if(localShort == "ca"){
-			sLink = shortLink[1];
-		}else if(localShort == "uk"){
-			sLink = shortLink[2];
-		}else{
-			sLink = "";
+	if(wrapLink != ""){
+		if(typeof shortLink == "object"){
+			if(localShort == "us" || localShort == "p"){
+				sLink = shortLink[0];
+			}else if(localShort == "ca"){
+				sLink = shortLink[1];
+			}else if(localShort == "uk"){
+				sLink = shortLink[2];
+			}else{
+				sLink = "";
+			}
 		}
-	}
-	if(sLink==""){
-		//return shortLink+localShort+"/"+asinShort;
-		return shortLink+asinShort;
+		if(sLink==""){
+			//return shortLink+localShort+"/"+asinShort;
+			return shortLink+asinShort;
+		}else{
+			//return sLink+localShort+"/"+asinShort;
+			return sLink+asinShort;
+		}
 	}else{
-		//return sLink+localShort+"/"+asinShort;
-		return sLink+asinShort;
+		return wrapLink+asinShort;
 	}
  	
 }
@@ -98,6 +102,7 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
   var asin = fn.txtAsin.value;
       asin = asin.toUpperCase();
       asin = asin.trim();
+  let wrapLink = fn.slcWrapLink.value == "none" ? "" : fn.slcWrapLink.value;
   let radioDecription = fn.radioDescription.value;	
   let radioDecriptionLocal = radioDecription.replace("[local]",local.toUpperCase());
   let radioDecriptionUS = radioDecription.replace("[local]","US");
@@ -116,18 +121,18 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
 	  document.getElementById("lblResult").innerHTML = `
 		ASIN: ${asin}<br/>
 		href: ${dataAMZCK[asin]["href"]}<br/>
-		${inputTextOpen} value="${radioDecriptionUS} ${createLink(asin,local)}" style="width:85%" id="myInputUS" ${inputTextEnd} ${copyTextUS}<br/>
-		${inputTextOpen} value="${radioDecriptionCA} ${createLink(asin,local)}" style="width:85%" id="myInputCA" ${inputTextEnd} ${copyTextCA}<br/>
-		${inputTextOpen} value="${radioDecriptionUK} ${createLink(asin,local)}" style="width:85%" id="myInputUK" ${inputTextEnd} ${copyTextUK}<br/>
+		${inputTextOpen} value="${radioDecriptionUS} ${createLink(asin,local,wrapLink)}" style="width:85%" id="myInputUS" ${inputTextEnd} ${copyTextUS}<br/>
+		${inputTextOpen} value="${radioDecriptionCA} ${createLink(asin,local,wrapLink)}" style="width:85%" id="myInputCA" ${inputTextEnd} ${copyTextCA}<br/>
+		${inputTextOpen} value="${radioDecriptionUK} ${createLink(asin,local,wrapLink)}" style="width:85%" id="myInputUK" ${inputTextEnd} ${copyTextUK}<br/>
 		-----------------------<br/>
 		Product Name: ${dataAMZCK[asin]["nameProduct"]}
 	`
 	}else{
-	  document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>US: " + dataAMZCK[asin]["US"] + "<br/>CA: " + dataAMZCK[asin]["CA"] + "<br/>UK: " + dataAMZCK[asin]["UK"]+"<br/>----------------------------<br/>"+"<br/>Current Price & More Info (US)► "+createLink(asin,"us")+"<br/>Current Price & More Info (CA)► "+createLink(asin,"ca")+"<br/>Current Price & More Info (UK)► "+createLink(asin,"uk")+"<br/>----------------------------<br/>"+"Current Price & More Info (US)► "+createLink(asin,"p");
+	  document.getElementById("lblResult").innerHTML = "ASIN: " + asin + "<br/>US: " + dataAMZCK[asin]["US"] + "<br/>CA: " + dataAMZCK[asin]["CA"] + "<br/>UK: " + dataAMZCK[asin]["UK"]+"<br/>----------------------------<br/>"+"<br/>Current Price & More Info (US)► "+createLink(asin,"us",wrapLink)+"<br/>Current Price & More Info (CA)► "+createLink(asin,"ca",wrapLink)+"<br/>Current Price & More Info (UK)► "+createLink(asin,"uk",wrapLink)+"<br/>----------------------------<br/>"+"Current Price & More Info (US)► "+createLink(asin,"p",wrapLink);
 	}		
   }else{
   	document.getElementById("lblResult").innerHTML = `ASIN: ${asin}<br/>
-		${inputTextOpen} value="${radioDecriptionLocal} ${createLink(asin,local)}" style="width:85%" id="myInputCP" ${inputTextEnd} ${copyTextCP}
+		${inputTextOpen} value="${radioDecriptionLocal} ${createLink(asin,local,wrapLink)}" style="width:85%" id="myInputCP" ${inputTextEnd} ${copyTextCP}
 	`
   }
 
