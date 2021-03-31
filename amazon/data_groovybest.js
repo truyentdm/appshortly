@@ -227,7 +227,17 @@ function getData(){
 			B01DEWZUG4: {href: "https://amzn.to/3fldJQd",nameProduct: `Panasonic Microwave Oven NN-SN686S Stainless Steel Countertop/Built-In with Inverter Technology and Genius Sensor, 1.2 Cubic Foot, 1200W`,slug: ""},
 			B07CRLHMNC: {href: "https://amzn.to/3tV1VZ0",nameProduct: `Osaki OS-Pro Maestro 4D Zero Gravity Massage Chair with Heated Rollers, L-Track Design, Touch Screen Remote (Brown)`,slug: ""},
 			B07S6M9BD9: {href: "https://amzn.to/2NYvz06",nameProduct: `ZENY Portable Washing Machine Compact Twin Tub Laundry Washing Machine 17.6lbs Capacity Mini Washer Spinner for Apartment RV Travelling,Semi-Automatic`,slug: ""},
-			B08XQXRJ1C: {href: "https://amzn.to/3dc0MFU",nameProduct: `ZOKOP Full-Automatic Washing Machine Portable Compact Laundry Washer Spin with Drain Pump,10 programs 8 Water Level Selections with LED Display 10 Lbs Capacity, Gray`,slug: ""}
+			B08XQXRJ1C: {href: "https://amzn.to/3dc0MFU",nameProduct: `ZOKOP Full-Automatic Washing Machine Portable Compact Laundry Washer Spin with Drain Pump,10 programs 8 Water Level Selections with LED Display 10 Lbs Capacity, Gray`,slug: ""},
+			B01728NLRG: {href: "https://amzn.to/3fqH77F",nameProduct: `Coway AP-1512HH White HEPA Air Purifier, 16.8 x 18.3 x 9.6`,slug: ""},
+			B07X4HGVNB: {href: "https://amzn.to/3ftSOdK",nameProduct: `Mid Century Lounge Chair with Ottoman, Classic Lounge Chair - Top Grain Leather - Black Leather Wood Palisander Lounge Chair Replica`,slug: ""},
+			B009QYC60S: {href: "https://amzn.to/3dnmx5G",nameProduct: `Zojirushi NP-NVC10 Induction Heating Pressure Cooker and Warmer, 5.5 Cup, Stainless Brown, Made in Japan`,slug: ""},
+			B07C758PD2: {href: "https://amzn.to/2O7c59I",nameProduct: `Shure SE846-CL+BT1 Wireless Sound Isolating Earphones with Bluetooth Enabled Communication Cable, Clear`,slug: ""},
+			B00H2VOSP8: {href: "https://amzn.to/2PNGlak",nameProduct: `Corentium Home Radon Detector by Airthings 223 Portable, Lightweight, Easy-to-Use, (3) AAA Battery Operated, USA Version, pCi/L`,slug: ""},
+			B07F3QF4KX: {href: "https://amzn.to/3cEnS97",nameProduct: `Intex 18ft X 9ft X 52in Ultra XTR Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,slug: ""},
+			B073FKF9B5: {href: "https://amzn.to/3m7GSQm",nameProduct: `Intex 18ft X 52in Ultra Frame Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,slug: ""},
+			B00OX5BC28: {href: "https://amzn.to/2O9gngX",nameProduct: `Intex 18ft X 9ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,slug: ""},
+			B073FNDD9F: {href: "https://amzn.to/3sI9u5a",nameProduct: `Intex 24ft X 12ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump & Saltwater System, Ladder, Ground Cloth, Pool Cover, Maintenance Kit & Volleyball:`,slug: ""},
+			B073FMDBLV: {href: "https://amzn.to/3cDLYRc",nameProduct: `Intex 32ft X 16ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth and Pool Cover`,slug: ""}
 		}
 	}
 	return dataAMZ;
