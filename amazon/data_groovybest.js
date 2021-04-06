@@ -237,7 +237,16 @@ function getData(){
 			B073FKF9B5: {href: "https://amzn.to/3m7GSQm",nameProduct: `Intex 18ft X 52in Ultra Frame Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,slug: ""},
 			B00OX5BC28: {href: "https://amzn.to/2O9gngX",nameProduct: `Intex 18ft X 9ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,slug: ""},
 			B073FNDD9F: {href: "https://amzn.to/3sI9u5a",nameProduct: `Intex 24ft X 12ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump & Saltwater System, Ladder, Ground Cloth, Pool Cover, Maintenance Kit & Volleyball:`,slug: ""},
-			B073FMDBLV: {href: "https://amzn.to/3cDLYRc",nameProduct: `Intex 32ft X 16ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth and Pool Cover`,slug: ""}
+			B073FMDBLV: {href: "https://amzn.to/3cDLYRc",nameProduct: `Intex 32ft X 16ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth and Pool Cover`,slug: ""},
+			B07F3FTJCM: {href: "https://amzn.to/3rYhePc",nameProduct: `Intex 24ft X 12ft X 52in Ultra XTR Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,slug: ""},
+			B07GYSB13N: {href: "https://amzn.to/2PE981b",nameProduct: `Intex 15'8" x 49" Ultra Frame Above Ground Swimming Pool Set with Pump & Ladder`,slug: ""},
+			B00OX5B8CW: {href: "https://amzn.to/3rQHgUt",nameProduct: `Intex 12ft x 30in Metal Frame Pool with Filter Pump`,slug: ""},
+			B07F39F6Z5: {href: "https://amzn.to/3mtmrxl",nameProduct: `Intex 32ft X 16ft X 52in Ultra XTR Rectangular Pool Set with Sand Filter Pump & Saltwater System, Ladder, Ground Cloth, Pool Cover, Maintenance Kit & Volleyball`,slug: ""},
+			B07PQW4KJ4: {href: "https://amzn.to/3dJHwQp",nameProduct: `Intex 26373EH 32ft x 16ft x 52in Ultra XTR Frame Above Ground Rectangular Swimming Pool Set with Sand Filter Pump, Ladder, Cover, & Maintenance Kit`,slug: ""},
+			B073FKF9B5: {href: "https://amzn.to/31QJqcj",nameProduct: `Intex 18ft X 52in Ultra Frame Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,slug: ""},
+			B07F3QF4KX: {href: "https://amzn.to/31TomBO",nameProduct: `Intex 18ft X 9ft X 52in Ultra XTR Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,slug: ""},
+			B07GYWW355: {href: "https://amzn.to/3dDOyG3",nameProduct: `Intex 26339EH Pool Set, 24ft X 52in, Gray`,slug: ""},
+			B07YZ8QJ4P: {href: "https://amzn.to/3ut31eV",nameProduct: `Okaysou AirMic4S H13 HEPA Air Purifiers for Home Pets Hair Smokers with Washable Pre-filter, Timer, Night Light, Eliminates Smoke, Dust, Pollen, Pet Dander, VOCs, 300 Sq Ft, 100% Ozone Free`,slug: ""}
 		}
 	}
 	return dataAMZ;
