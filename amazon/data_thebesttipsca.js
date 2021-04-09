@@ -196,7 +196,15 @@ function getData(){
 			B07MSYTQNM: {href: "https://amzn.to/39W0wd3",nameProduct: `Fitbit Inspire HR Heart Rate & Fitness Tracker`,slug: ""},
 			B07L6LB6LR: {href: "https://amzn.to/3wQS2xY",nameProduct: `Brooks Men's Ghost 12`,slug: ""},
 			B002FQIYBY: {href: "https://amzn.to/3uETTUn",nameProduct: `Pentair 340039 SuperFlo High Performance Single Speed Pool Pump, 1½ Horsepower, 115/230 Volt, 1 Phase`,slug: ""},
-			B072MLT6QW: {href: "https://amzn.to/3dKq7XO",nameProduct: `Dometic CFX 50W 12v Electric Powered Portable Cooler, Fridge Freezer`,slug: ""}
+			B072MLT6QW: {href: "https://amzn.to/3dKq7XO",nameProduct: `Dometic CFX 50W 12v Electric Powered Portable Cooler, Fridge Freezer`,slug: ""},
+			B07D8QGJ5V: {href: "https://amzn.to/3s0iq4F",nameProduct: `Desire Life Yoga Headstand Bench - Stand Yoga Chair for Family, Gym - Wood and PU Pads - Relieve Fatigue and Build Up Body`,slug: ""},
+			B07H5RVVM6: {href: "https://amzn.to/3uChB3G",nameProduct: `Black + Decker BPWM09W Portable Washer`,slug: ""},
+			B07GPXKN8Z: {href: "https://amzn.to/2PGaGId",nameProduct: `Flume Water Monitor: Smart Home Water Monitoring to Detect Leaks & Track Water Usage in Real Time. Compatible with Alexa`,slug: ""},
+			B01M7M9NXX: {href: "https://amzn.to/3t4sI5e",nameProduct: `Zinus Shalini Upholstered Diamond Stitched Platform Bed / Mattress Foundation / Easy Assembly / Strong Wood Slat Support / Dark Grey, Queen`,slug: ""},
+			B07GH8DNZN: {href: "https://amzn.to/3t6po9D",nameProduct: `Calphalon Special Brew 10 Cup Coffee Maker, Dark Stainless Steel`,slug: ""},
+			B01J664WSY: {href: "https://amzn.to/2OEGInm",nameProduct: `Vornado VMH600 Whole Room Stainless Steel Heater with Auto Climate Control and Remote`,slug: ""},
+			B016OIF2JU: {href: "https://amzn.to/3d01Z4b",nameProduct: `Steelcase Gesture Chair, Graphite`,slug: ""},
+			B07FFMTW8X: {href: "https://amzn.to/3t8Q75u",nameProduct: `Tineco A11 Master+ Cordless Stick Vacuum Cleaner, Ultra Powerful Suction, Multi-Surface Cleaning, Great for Pet Hair, Emerald Green`,slug: ""}
 		}
 	}
 	return dataAMZ;
