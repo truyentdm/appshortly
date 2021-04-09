@@ -204,7 +204,28 @@ function getData(){
 			B07GH8DNZN: {href: "https://amzn.to/3t6po9D",nameProduct: `Calphalon Special Brew 10 Cup Coffee Maker, Dark Stainless Steel`,slug: ""},
 			B01J664WSY: {href: "https://amzn.to/2OEGInm",nameProduct: `Vornado VMH600 Whole Room Stainless Steel Heater with Auto Climate Control and Remote`,slug: ""},
 			B016OIF2JU: {href: "https://amzn.to/3d01Z4b",nameProduct: `Steelcase Gesture Chair, Graphite`,slug: ""},
-			B07FFMTW8X: {href: "https://amzn.to/3t8Q75u",nameProduct: `Tineco A11 Master+ Cordless Stick Vacuum Cleaner, Ultra Powerful Suction, Multi-Surface Cleaning, Great for Pet Hair, Emerald Green`,slug: ""}
+			B07FFMTW8X: {href: "https://amzn.to/3t8Q75u",nameProduct: `Tineco A11 Master+ Cordless Stick Vacuum Cleaner, Ultra Powerful Suction, Multi-Surface Cleaning, Great for Pet Hair, Emerald Green`,slug: ""},
+			B07N4MXR77: {href: "https://amzn.to/2RaUUFl",nameProduct: `Casio Privia PX-S1000 Digital Piano`,slug: ""},
+			B06Y32FG2N: {href: "https://amzn.to/3dMLBTF",nameProduct: `Brondell Swash 1400 Luxury Bidet Toilet Seat, Fits Elongated Toilets, White – Bidet – Dual Stainless-Steel Nozzles with Sterilization, Warm Air Dryer, Ambient Nightlight`,slug: ""},
+			B01N0KXNFX: {href: "https://amzn.to/3d2FNGF",nameProduct: `Zinus 6 Inch Spring Twin Mattress 2 pack, Perfect for Bunk Beds / Trundle Beds / Day Beds (Set of 2)`,slug: ""},
+			B000N2YKQ0: {href: "https://amzn.to/2PNPhg6",nameProduct: `DELONGHI ESAM3300 Super Automatic Espresso/Coffee Machine`,slug: ""},
+			B01MTG1U4G: {href: "https://amzn.to/3dP9ppX",nameProduct: `Home and Garden Spas HG51T 6 Person 51 Outdoor Spa with Stainless Jets & Ozone, 82" x 82" x 35", Tuscan Sun`,slug: ""},
+			B00GMMYLXC: {href: "https://amzn.to/3mvKSuh",nameProduct: `Alen BreatheSmart Classic Large Room Air Purifier, 1100 sqft. Big Coverage Area, HEPA Filter for Allergies, Pollen, Dust, Dander and Fur in Espresso`,slug: ""},
+			B07NHQ4CXM: {href: "https://amzn.to/31WNYhi",nameProduct: `LG OLED65C9PUA Alexa Built-in C9 Series 65" 4K Ultra HD Smart OLED TV (2019)`,slug: ""},
+			B07GZN3QNZ: {href: "https://amzn.to/3t84l6O",nameProduct: `Inofia Sleeping 8 inch Hybrid Comfort Eurotop Innerspring Mattress- Plush Yet Supportive-Pressure Relief (Twin)`,slug: ""},
+			B002MPLYEW: {href: "https://amzn.to/3t3XE5n",nameProduct: `Danby 120 Can Beverage Center, Stainless Steel DBC120BLS`,slug: ""},
+			B000RP6DCC: {href: "https://amzn.to/2QaGGDS",nameProduct: `American Standard 2461002.021 Cambridge Apron-Front Americast Soaking Bathtub Right Hand Drain, 5 ft x 32 in, Bone`,slug: ""},
+			B077N51CR2: {href: "https://amzn.to/3t2FkcY",nameProduct: `Homall Single Recliner Chair Padded Seat PU Leather Living Room Sofa Recliner Modern Recliner Seat Club Chair Home Theater Seating (Black)`,slug: ""},
+			B005GSPVHS: {href: "https://amzn.to/3dMb8fO",nameProduct: `Panasonic NE-1054F Countertop Commercial Microwave Oven with 10 Programmable Memory, Touch Screen Control and Bottom Energy Feed, 1000W, 0.8 Cu. Ft. (Stainless Steel), 5"`,slug: ""},
+			B079D3PN6W: {href: "https://amzn.to/3d4tppw",nameProduct: `Pentair IntelliFlo VSF - Variable Speed and Flow Pool Pump - 3 Horsepower, 230 Volts - 011056 - Energy Star Certified`,slug: ""},
+			B01DVW6G42: {href: "https://amzn.to/3g29AkN",nameProduct: `PIONEER Air Conditioner Pioneer Mini Split Heat Pump Minisplit Heatpump 12000 BTU-208/230 V`,slug: ""},
+			B008IXRY6Y: {href: "https://amzn.to/3wA0ql8",nameProduct: `bawell Platinum Alkaline Water Ionizer Machine`,slug: ""},
+			B00MMV0R76: {href: "https://amzn.to/3wEd4Q5",nameProduct: `Pleasant Hearth 50,000 BTU Cabinet Pellet Stove`,slug: ""},
+			B01IU6RJYA: {href: "https://amzn.to/3s6t8GO",nameProduct: `Linenspa 8 Inch Memory Foam and Innerspring Hybrid Mattress - Medium-Firm Feel - Twin`,slug: ""},
+			B0148NPH9I: {href: "https://amzn.to/3wHka6r",nameProduct: `Logitech K380 Multi-Device Bluetooth Keyboard – Windows, Mac, Chrome OS, Android, iPad, iPhone, Apple TV Compatible – with FLOW Cross-Computer Control and Easy-Switch up to 3 Devices – Dark Grey`,slug: ""},
+			B01M3U32IA: {href: "https://amzn.to/3fUxRsG",nameProduct: `Lucid 4" Folding Mattress & Sofa with Removable Indoor/Outdoor Fabric Cover, Twin XL`,slug: ""},
+			B000N5H2XU: {href: "https://amzn.to/31ZD0HU",nameProduct: `Mac Knife MTH-80 Professional Hollow Edge Chef's Knife, 8 Inch, Silver`,slug: ""},
+			B009IJ2LM4: {href: "https://amzn.to/3fQtHlM",nameProduct: `TOTO SW573#01 S300e WASHLET Electronic Bidet Toilet Seat with EWATER+ Cleansing, Round, Cotton White`,slug: ""}
 		}
 	}
 	return dataAMZ;
