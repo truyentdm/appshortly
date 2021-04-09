@@ -170,7 +170,28 @@ function getData(){
 			B001BMDFPS: {href: "https://amzn.to/300woYR",nameProduct: `DuroMax XP4400E 4,400 Watt 7.0 HP OHV 4-Cycle Gas Powered Portable Generator With Wheel Kit And Electric Start`,slug: ""},
 			B06VSJ9D1H: {href: "https://amzn.to/3bKToQT",nameProduct: `BISSELLProHeat 2X Revolution Max Clean Pet Pro Full-Size Carpet Cleaner, 1986`,slug: ""},
 			B016XMU2OC: {href: "https://amzn.to/2ZVghvF",nameProduct: `Backyard Discovery Woodland All Cedar Wood Playset Swing Set`,slug: ""},
-			B07FPY2GL8: {href: "https://amzn.to/3swTna8",nameProduct: `Medical Breakthrough 6 v4 Recliner 3D Massage Chair | Zero Gravity with Heating | Deep Tissue Shiatsu Full Body Massager | Yoga Stretch | Pain Relief | Full Foot Massager | Perfect Luxury Gift (Black)`,slug: ""}
+			B07FPY2GL8: {href: "https://amzn.to/3swTna8",nameProduct: `Medical Breakthrough 6 v4 Recliner 3D Massage Chair | Zero Gravity with Heating | Deep Tissue Shiatsu Full Body Massager | Yoga Stretch | Pain Relief | Full Foot Massager | Perfect Luxury Gift (Black)`,slug: ""},
+			B002ZDAEIS: {href: "https://amzn.to/31ZWImU",nameProduct: `Razor EcoSmart Metro Electric Scooter`,slug: ""},
+			B0193V3DJ6: {href: "https://amzn.to/325SB8F",nameProduct: `NordicTrack T 6.5 Series`,slug: ""},
+			B07FTN21JL: {href: "https://amzn.to/3myXX5L",nameProduct: `Fitbit Charge 3 Fitness Activity Tracker`,slug: ""},
+			B07144LZ9V: {href: "https://amzn.to/2PH9nZw",nameProduct: `Best Choice Products Portable Mini Twin Tub Compact Washing Machine w/Spin Dry Cycle, 18lb Load Capacity`,slug: ""},
+			B001EQ45OG: {href: "https://amzn.to/31ZeIOe",nameProduct: `American Standard 2461002.011 Cambridge Apron-Front Americast Soaking Bathtub Right Hand Drain, 5 ft x 32 in, Arctic`,slug: ""},
+			B00450U6CS: {href: "https://amzn.to/3wI8kZW",nameProduct: `Bissell Big Green Professional Carpet Cleaner Machine, 86T3`,slug: ""},
+			B001CNG7RY: {href: "https://amzn.to/3s3bRhQ",nameProduct: `DeLonghi EC702 15-Bar-Pump Espresso Maker, Stainless, Metal`,slug: ""},
+			B074MLZR3Y: {href: "https://amzn.to/322Wpre",nameProduct: `Brondell Swash Non-Electric Seat, Fits Round Toilets, White – Dual Nozzle System, Ambient Water Temperature – Bidet with Easy Installation`,slug: ""},
+			B00PHNFML2: {href: "https://amzn.to/2OCVRFI",nameProduct: `Breville BFP660SIL Sous Chef 12 Cup Food Processor, Silver`,slug: ""},
+			B00K150VAI: {href: "https://amzn.to/31WrrRK",nameProduct: `Smittybilt (98510) X2O Waterproof Synthetic Rope Winch - 10000 lb. Load Capacity`,slug: ""},
+			B005EFYCNW: {href: "https://amzn.to/3mEg4Yb",nameProduct: `Sauder Home Plus Storage Cabinet, Dakota Oak finish`,slug: ""},
+			B07GYP68HW: {href: "https://amzn.to/3wFWY8y",nameProduct: `Epson Home Cinema 4010 4K PRO-UHD (1) 3-Chip Projector with HDR`,slug: ""},
+			B0144DQNWW: {href: "https://amzn.to/3wP1qSP",nameProduct: `Ultra HD Mega Storage Cabinet - Stainless Steel`,slug: ""},
+			B075FGY7G2: {href: "https://amzn.to/3wP1sKr",nameProduct: `Zinus Suzanne Metal and Wood Platform Bed with Headboard / Box Spring Optional / Wood Slat Support, Queen`,slug: ""},
+			B07B94ZR74: {href: "https://amzn.to/3d4VzAW",nameProduct: `SUPER DEAL Portable Washer Mini Twin Tub Washing Machine 17.6 lbs w/78.8'' Inlet Hose, Gravity Drain Pump, For Camping, Apartments, Dorms, College Rooms, RV's, Delicates and more`,slug: ""},
+			B0067MQM48: {href: "https://amzn.to/3s0NdOH",nameProduct: `Zojirushi BB-PAC20BA BB-PAC20 Home Bakery Virtuoso Breadmaker with Gluten Free Menu setting`,slug: ""},
+			B01B8GQ940: {href: "https://amzn.to/3uCao3C",nameProduct: `Zinus Mia Modern Studio 14 Inch Platform 1500H Metal Bed Frame / Mattress Foundation / Wooden Slat Support / With Headboard / Good Design Award Winne`,slug: ""},
+			B07XF9NYV3: {href: "https://amzn.to/2Rmgx5R",nameProduct: `Zmodo 1080p Full HD Outdoor Wireless Security Camera System, 4 Pack Smart Home Indoor Outdoor WiFi IP Cameras with Night Vision, Compatible with Alexa`,slug: ""},
+			B000XRQUSQ: {href: "https://amzn.to/2PQOgUz",nameProduct: `Krinner Tree Genie Tree Genie XXL Christmas Tree Stand, Green`,slug: ""},
+			B076CPZWR3: {href: "https://amzn.to/3t5LJEa",nameProduct: `Sauder HomePlus Storage Cabinet`,slug: ""},
+			B00T9RANUC: {href: "https://amzn.to/2PENoSZ",nameProduct: `FLIR C2 - Compact Thermal Camera`,slug: ""}
 		}
 	}
 	return dataAMZ;
