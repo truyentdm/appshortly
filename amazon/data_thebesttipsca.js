@@ -191,7 +191,12 @@ function getData(){
 			B07XF9NYV3: {href: "https://amzn.to/2Rmgx5R",nameProduct: `Zmodo 1080p Full HD Outdoor Wireless Security Camera System, 4 Pack Smart Home Indoor Outdoor WiFi IP Cameras with Night Vision, Compatible with Alexa`,slug: ""},
 			B000XRQUSQ: {href: "https://amzn.to/2PQOgUz",nameProduct: `Krinner Tree Genie Tree Genie XXL Christmas Tree Stand, Green`,slug: ""},
 			B076CPZWR3: {href: "https://amzn.to/3t5LJEa",nameProduct: `Sauder HomePlus Storage Cabinet`,slug: ""},
-			B00T9RANUC: {href: "https://amzn.to/2PENoSZ",nameProduct: `FLIR C2 - Compact Thermal Camera`,slug: ""}
+			B00T9RANUC: {href: "https://amzn.to/2PENoSZ",nameProduct: `FLIR C2 - Compact Thermal Camera`,slug: ""},
+			B071FN6KXK: {href: "https://amzn.to/3wAzO3D",nameProduct: `Osmo Genius Kit for iPad`,slug: ""},
+			B07MSYTQNM: {href: "https://amzn.to/39W0wd3",nameProduct: `Fitbit Inspire HR Heart Rate & Fitness Tracker`,slug: ""},
+			B07L6LB6LR: {href: "https://amzn.to/3wQS2xY",nameProduct: `Brooks Men's Ghost 12`,slug: ""},
+			B002FQIYBY: {href: "https://amzn.to/3uETTUn",nameProduct: `Pentair 340039 SuperFlo High Performance Single Speed Pool Pump, 1½ Horsepower, 115/230 Volt, 1 Phase`,slug: ""},
+			B072MLT6QW: {href: "https://amzn.to/3dKq7XO",nameProduct: `Dometic CFX 50W 12v Electric Powered Portable Cooler, Fridge Freezer`,slug: ""}
 		}
 	}
 	return dataAMZ;
