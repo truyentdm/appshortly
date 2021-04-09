@@ -225,7 +225,23 @@ function getData(){
 			B0148NPH9I: {href: "https://amzn.to/3wHka6r",nameProduct: `Logitech K380 Multi-Device Bluetooth Keyboard – Windows, Mac, Chrome OS, Android, iPad, iPhone, Apple TV Compatible – with FLOW Cross-Computer Control and Easy-Switch up to 3 Devices – Dark Grey`,slug: ""},
 			B01M3U32IA: {href: "https://amzn.to/3fUxRsG",nameProduct: `Lucid 4" Folding Mattress & Sofa with Removable Indoor/Outdoor Fabric Cover, Twin XL`,slug: ""},
 			B000N5H2XU: {href: "https://amzn.to/31ZD0HU",nameProduct: `Mac Knife MTH-80 Professional Hollow Edge Chef's Knife, 8 Inch, Silver`,slug: ""},
-			B009IJ2LM4: {href: "https://amzn.to/3fQtHlM",nameProduct: `TOTO SW573#01 S300e WASHLET Electronic Bidet Toilet Seat with EWATER+ Cleansing, Round, Cotton White`,slug: ""}
+			B009IJ2LM4: {href: "https://amzn.to/3fQtHlM",nameProduct: `TOTO SW573#01 S300e WASHLET Electronic Bidet Toilet Seat with EWATER+ Cleansing, Round, Cotton White`,slug: ""},
+			B00SMBFZNG: {href: "https://amzn.to/3mFoIWn",nameProduct: `VIZIO SB2920-C6 29-Inch 2.0 Channel Sound Bar`,slug: ""},
+			B076TM35WP: {href: "https://amzn.to/39Xx32m",nameProduct: `Jovial Portable Folding Baby Stroller (Blue)`,slug: ""},
+			B0786NGJX8: {href: "https://amzn.to/3uD7VpH",nameProduct: `The Twin+ (Zoe XL2) - Best Double Stroller - Everyday Twin Stroller with Umbrella`,slug: ""},
+			B07F3QF4KX: {href: "https://amzn.to/2PO0RI5",nameProduct: `Intex 18ft X 9ft X 52in Ultra XTR Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,slug: ""},
+			B073FKF9B5: {href: "https://amzn.to/3mCqB67",nameProduct: `Intex 18ft X 52in Ultra Frame Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,slug: ""},
+			B07BKQ314N: {href: "https://amzn.to/3dQBldi",nameProduct: `REC TEC Grills | RT-340 | Bundle | WiFi Enabled | Portable Wood Pellet Grill | Built in Meat Probes | Stainless Steel | 20lb Hopper | 2 Year Warranty | Hotflash Ceramic Ignition System`,slug: ""},
+			B00FZM1PUM: {href: "https://amzn.to/39XLsf9",nameProduct: `Rowenta DG8520 Perfect Steam 1800-Watt Eco Energy Steam Iron Station Stainless Steel Soleplate, 400-Hole, Purple`,slug: ""},
+			B00CLD39C0: {href: "https://amzn.to/3wS2chQ",nameProduct: `Rowenta DW9280 Digital Display Steam Iron, Stainless Steel Soleplate, 1800-Watt, 400-Hole`,slug: ""},
+			B07RZ9LZW7: {href: "https://amzn.to/3fWatLr",nameProduct: `Samsung MS11K3000AS 1.1 cu. ft. Countertop Microwave Oven with Sensor and Ceramic Enamel Interior Silver Sand (Renewed)`,slug: ""},
+			B07CSH453C: {href: "https://amzn.to/3wHEJQh",nameProduct: `Sealy EASE 2.0 ADJ MECH Bed Mattress Conventional, Twin, white`,slug: ""},
+			B00GMCAM2G: {href: "https://amzn.to/3wJGfRO",nameProduct: `Duxtop 1800W Portable Induction Cooktop Countertop Burner, Black`,slug: ""},
+			B00AEMGGU2: {href: "https://amzn.to/3dKlH30",nameProduct: `Sonos - Playbar Soundbar Wireless Speaker - Black`,slug: ""},
+			B009FT54CQ: {href: "https://amzn.to/3wKb2Oi",nameProduct: `Sun Joe SWJ800E 8-Inch 6.5-Amp Telescoping Electric Pole Chain Saw with Automatic Chain Lubrication System`,slug: ""},
+			B07DD7P933: {href: "https://amzn.to/3dHD8RC",nameProduct: `Full Mattress, Sweetnight Full Size Mattress- 10 Inch Gel Memory Foam Mattresses with CertiPUR-US Certified for Back Pain Relief/Motion Isolation&Cool Sleep, Flippable Comfort from Soft to Medium Firm`,slug: ""},
+			B00UCIOX2Q: {href: "https://amzn.to/3wJcvV5",nameProduct: `TOTO SW2044#01 C200 WASHLET Electronic Bidet Toilet Seat with Premist and SoftClose Lid, Elongated, Cotton White`,slug: ""},
+			B00FOUDF62: {href: "https://amzn.to/3fXApGI",nameProduct: `Toto MS992CUMFG#01 Neorest 1.0 GPF and 0.8 GPF 700H Dual Flush Toilet, Cotton White`,slug: ""}
 		}
 	}
 	return dataAMZ;
