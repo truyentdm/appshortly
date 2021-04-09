@@ -241,7 +241,12 @@ function getData(){
 			B009FT54CQ: {href: "https://amzn.to/3wKb2Oi",nameProduct: `Sun Joe SWJ800E 8-Inch 6.5-Amp Telescoping Electric Pole Chain Saw with Automatic Chain Lubrication System`,slug: ""},
 			B07DD7P933: {href: "https://amzn.to/3dHD8RC",nameProduct: `Full Mattress, Sweetnight Full Size Mattress- 10 Inch Gel Memory Foam Mattresses with CertiPUR-US Certified for Back Pain Relief/Motion Isolation&Cool Sleep, Flippable Comfort from Soft to Medium Firm`,slug: ""},
 			B00UCIOX2Q: {href: "https://amzn.to/3wJcvV5",nameProduct: `TOTO SW2044#01 C200 WASHLET Electronic Bidet Toilet Seat with Premist and SoftClose Lid, Elongated, Cotton White`,slug: ""},
-			B00FOUDF62: {href: "https://amzn.to/3fXApGI",nameProduct: `Toto MS992CUMFG#01 Neorest 1.0 GPF and 0.8 GPF 700H Dual Flush Toilet, Cotton White`,slug: ""}
+			B00FOUDF62: {href: "https://amzn.to/3fXApGI",nameProduct: `Toto MS992CUMFG#01 Neorest 1.0 GPF and 0.8 GPF 700H Dual Flush Toilet, Cotton White`,slug: ""},
+			B07FP186CN: {href: "https://amzn.to/3mxboTQ",nameProduct: `TOTO MS900CUMFG#01 Neorest NX1 Electronic Dual Flush Toilet - Cotton White`,slug: ""},
+			B01M7X9PIG: {href: "https://amzn.to/39VONLy",nameProduct: `WARN 96810 VR10 Electric 12V Winch with Steel Cable Wire Rope: 3/8" Diameter x 94' Length, 5 Ton (10,000 lb) Lifting/Pulling Capacity`,slug: ""},
+			B00LIAP2ZY: {href: "https://amzn.to/3uHrT2L",nameProduct: `LG WM3997HWA Ventless 4.3 Cu. Ft. Capacity Steam Washer/Dryer Combination with TurboWash, TrueBalance Anti-Vibration System, NeveRust Stainless Steel Drum, Allergiene Cycle in White`,slug: ""},
+			B07RGM11L5: {href: "https://amzn.to/3s44G92",nameProduct: `Frigidaire 5,000 BTU 115V Window-Mounted Mini-Compact Air Conditioner with Mechanical Controls, White`,slug: ""},
+			B0861HFYW1: {href: "https://amzn.to/2PT2cx8",nameProduct: `LUCID 10 Inch 2020 Gel Memory Foam Mattress - Medium Plush Feel - CertiPUR-US Certified - Hypoallergenic Bamboo Charcoal, Queen`,slug: ""}
 		}
 	}
 	return dataAMZ;
