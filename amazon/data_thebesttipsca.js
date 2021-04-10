@@ -246,7 +246,15 @@ function getData(){
 			B01M7X9PIG: {href: "https://amzn.to/39VONLy",nameProduct: `WARN 96810 VR10 Electric 12V Winch with Steel Cable Wire Rope: 3/8" Diameter x 94' Length, 5 Ton (10,000 lb) Lifting/Pulling Capacity`,slug: ""},
 			B00LIAP2ZY: {href: "https://amzn.to/3uHrT2L",nameProduct: `LG WM3997HWA Ventless 4.3 Cu. Ft. Capacity Steam Washer/Dryer Combination with TurboWash, TrueBalance Anti-Vibration System, NeveRust Stainless Steel Drum, Allergiene Cycle in White`,slug: ""},
 			B07RGM11L5: {href: "https://amzn.to/3s44G92",nameProduct: `Frigidaire 5,000 BTU 115V Window-Mounted Mini-Compact Air Conditioner with Mechanical Controls, White`,slug: ""},
-			B0861HFYW1: {href: "https://amzn.to/2PT2cx8",nameProduct: `LUCID 10 Inch 2020 Gel Memory Foam Mattress - Medium Plush Feel - CertiPUR-US Certified - Hypoallergenic Bamboo Charcoal, Queen`,slug: ""}
+			B0861HFYW1: {href: "https://amzn.to/2PT2cx8",nameProduct: `LUCID 10 Inch 2020 Gel Memory Foam Mattress - Medium Plush Feel - CertiPUR-US Certified - Hypoallergenic Bamboo Charcoal, Queen`,slug: ""},
+			B07DTKXTXV: {href: "https://amzn.to/2PJA1Ry",nameProduct: `Hoover Smartwash Automatic Carpet Cleaner, FH52000, Turquoise`,slug: ""},
+			B009X43F38: {href: "https://amzn.to/3a1X7tv",nameProduct: `Hobart 500559 Handler 140 MIG Welder 115V`,slug: ""},
+			B079L5D89G: {href: "https://amzn.to/3fZf7Z6",nameProduct: `Ficmax Ergonomic Gaming Chair Massage Computer Gaming Chair Reclining Racing Office Chair with Footrest High Back Gamer Chair for E-sports Large size Gaming Desk Chair with Headrest and Lumbar Support`,slug: ""},
+			B012J1TFTE: {href: "https://amzn.to/3ahd0MT",nameProduct: `Olee Sleep 13 inch Galaxy Hybrid Gel Infused Memory Foam and Pocket Spring Mattress (Queen)`,slug: ""},
+			B01M0N8256: {href: "https://amzn.to/3d31vKu",nameProduct: `DuroMax XP12000EH Dual Fuel Portable Generator - 12000 Watt Gas or Propane Powered-Electric Start- Home Back Up & RV Ready, 50 State Approved,Blue and Black`,slug: ""},
+			B01NAUZJPE: {href: "https://amzn.to/3dMfR14",nameProduct: `Rheem 240V Heating Chamber RTEX-13 Residential Tankless Water Heater`,slug: ""},
+			B01BMCWJ7G: {href: "https://amzn.to/2RsomqN",nameProduct: `BedJet 3 Climate Comfort for Beds, Cooling Fan + Heating Air (Single Temp. Zone Any Size Bed or Mattress)`,slug: ""},
+			B07GL7PNPQ: {href: "https://amzn.to/3s6DpTA",nameProduct: `Traeger Grills TFB88PZBO Pro Series 34 Pellet Grill and Smoker, 884 Sq. In. Cooking Capacity, Bronze`,slug: ""}
 		}
 	}
 	return dataAMZ;
