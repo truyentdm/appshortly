@@ -254,7 +254,15 @@ function getData(){
 			B01M0N8256: {href: "https://amzn.to/3d31vKu",nameProduct: `DuroMax XP12000EH Dual Fuel Portable Generator - 12000 Watt Gas or Propane Powered-Electric Start- Home Back Up & RV Ready, 50 State Approved,Blue and Black`,slug: ""},
 			B01NAUZJPE: {href: "https://amzn.to/3dMfR14",nameProduct: `Rheem 240V Heating Chamber RTEX-13 Residential Tankless Water Heater`,slug: ""},
 			B01BMCWJ7G: {href: "https://amzn.to/2RsomqN",nameProduct: `BedJet 3 Climate Comfort for Beds, Cooling Fan + Heating Air (Single Temp. Zone Any Size Bed or Mattress)`,slug: ""},
-			B07GL7PNPQ: {href: "https://amzn.to/3s6DpTA",nameProduct: `Traeger Grills TFB88PZBO Pro Series 34 Pellet Grill and Smoker, 884 Sq. In. Cooking Capacity, Bronze`,slug: ""}
+			B07GL7PNPQ: {href: "https://amzn.to/3s6DpTA",nameProduct: `Traeger Grills TFB88PZBO Pro Series 34 Pellet Grill and Smoker, 884 Sq. In. Cooking Capacity, Bronze`,slug: ""},
+			B002VWK1TA: {href: "https://amzn.to/3wUnMlV",nameProduct: `Drive Medical Blue Streak Wheelchair with Flip Back Desk Arms, Swing Away Footrests, 18" Seat`,slug: ""},
+			B011LS47SA: {href: "https://amzn.to/2QbJ6lO",nameProduct: `Bissell PowerFresh Lift-Off Pet Steamer, Tile, Bathroom, Hard Wood Floor Cleaner, 1544A Steam Mop, Orange`,slug: ""},
+			B06X6MLP5G: {href: "https://amzn.to/3wLQKUQ",nameProduct: `GE Haier HLPW028BXW Portable Washer with 2.1 cu. ft. Capacity 6 Washing Cycle Adjustable Leveling Legs Lift and Carry Handles on Ca`,slug: ""},
+			B07SJZJH1B: {href: "https://amzn.to/3dPBm1a",nameProduct: `Portable Washing Machine, Kuppet 10lbs Compact Mini Washer, Wash&Spin Twin Tub Durable Design to Wash All your Laundry or Swim Suit for Apartments, Dorms, RV Camping (Purple)`,slug: ""},
+			B00X7R1FZ2: {href: "https://amzn.to/3a1lsQ8",nameProduct: `Shark Rotator Powered Lift-Away TruePet (NV752) Upright Vacuum`,slug: ""},
+			B0711XW4P3: {href: "https://amzn.to/3250viY",nameProduct: `SereneLife Portable Infrared Home Spa`,slug: ""},
+			B00H3RI32U: {href: "https://amzn.to/3wLg1hM",nameProduct: `Touchstone 80004 - Sideline Electric Fireplace - 50 Inch Wide`,slug: ""},
+			B00UB9R4KO: {href: "https://amzn.to/3d8OkIg",nameProduct: `JuiceBox 32 Next Generation Smart Electric Vehicle (EV) Charging Station with WiFi - 32 amp Level 2 EVSE, 25-Foot Cable, UL and Energy Star Certified, Indoor/Outdoor Use (NEMA 14-50 Plug, Gray)`,slug: ""}
 		}
 	}
 	return dataAMZ;
