@@ -268,7 +268,11 @@ function getData(){
 			B00Q8M0NWE: {href: "https://amzn.to/3mNy6HB",nameProduct: `Dolphin Nautilus CC Plus Automatic Robotic Pool Cleaner with Easy to Clean Large Top Load Filter Cartridges and Tangle-Free Swivel Cord, Ideal for In-ground Swimming Pools up to 50 Feet`,slug: ""},
 			B018S68U40: {href: "https://amzn.to/3e3c7Z3",nameProduct: `WORX WG163 GT 3.0 20V PowerShare 12" Cordless String Trimmer & Edger`,slug: ""},
 			B01ID8H6NO: {href: "https://amzn.to/3a5JGsv",nameProduct: `iRobot Roomba 960 Robot Vacuum- Wi-Fi Connected Mapping, Works with Alexa, Ideal for Pet Hair, Carpets, Hard Floors`,slug: ""},
-			B07B9TB8Q7: {href: "https://amzn.to/3sm8zGy",nameProduct: `ZENY 2-in-1 Compact Mini Twin Tub Washing Machine w/Spin Cycle Dryer, 13Lbs Capacity w/Hose, Space/Time/Energy Saving`,slug: ""}
+			B07B9TB8Q7: {href: "https://amzn.to/3sm8zGy",nameProduct: `ZENY 2-in-1 Compact Mini Twin Tub Washing Machine w/Spin Cycle Dryer, 13Lbs Capacity w/Hose, Space/Time/Energy Saving`,slug: ""},
+			B00V3X2P3S: {href: "https://amzn.to/3e1PmVA",nameProduct: `Whynter ARC-148MS 14,000 BTU Portable Air Conditioner, Dehumidifier, Fan with 3M and SilverShield Filter for Rooms up to 450 sq ft`,slug: ""},
+			B01M0I4KOZ: {href: "https://amzn.to/2RrPq9m",nameProduct: `3M Littmann Cardiology IV Diagnostic Stethoscope, Black-Finish Chestpiece, Black Tube, Stem and Headset, 27 inch, 6163`,slug: ""},
+			B07RCL6V7R: {href: "https://amzn.to/3wPpqFj",nameProduct: `SOLE F85 Folding Treadmill with Bluetooth Technology`,slug: ""},
+			B07BD2G4TY: {href: "https://amzn.to/3gfhd7l",nameProduct: `ZENY Portable Compact Mini Twin Tub Washing Machine`,slug: ""}
 		}
 	}
 	return dataAMZ;
