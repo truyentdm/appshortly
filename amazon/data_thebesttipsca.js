@@ -262,7 +262,13 @@ function getData(){
 			B00X7R1FZ2: {href: "https://amzn.to/3a1lsQ8",nameProduct: `Shark Rotator Powered Lift-Away TruePet (NV752) Upright Vacuum`,slug: ""},
 			B0711XW4P3: {href: "https://amzn.to/3250viY",nameProduct: `SereneLife Portable Infrared Home Spa`,slug: ""},
 			B00H3RI32U: {href: "https://amzn.to/3wLg1hM",nameProduct: `Touchstone 80004 - Sideline Electric Fireplace - 50 Inch Wide`,slug: ""},
-			B00UB9R4KO: {href: "https://amzn.to/3d8OkIg",nameProduct: `JuiceBox 32 Next Generation Smart Electric Vehicle (EV) Charging Station with WiFi - 32 amp Level 2 EVSE, 25-Foot Cable, UL and Energy Star Certified, Indoor/Outdoor Use (NEMA 14-50 Plug, Gray)`,slug: ""}
+			B00UB9R4KO: {href: "https://amzn.to/3d8OkIg",nameProduct: `JuiceBox 32 Next Generation Smart Electric Vehicle (EV) Charging Station with WiFi - 32 amp Level 2 EVSE, 25-Foot Cable, UL and Energy Star Certified, Indoor/Outdoor Use (NEMA 14-50 Plug, Gray)`,slug: ""},
+			B07FPW5WXX: {href: "https://amzn.to/2RDxucd",nameProduct: `Panda Portable Compact Top Load Washer, 1.6cu.ft, PAN56MGW2, Wash, Rinse, Spin and Drain Fully Automatic Washing Machine 120V`,slug: ""},
+			B00HXGSBXC: {href: "https://amzn.to/3uQzGeI",nameProduct: `RoyalBaby Freestyle Kid’s Bike for Boys and Girls, 12 14 16 inch with Training Wheels, 16 18 20 inch with Kickstand, in Multiple Colors`,slug: ""},
+			B00Q8M0NWE: {href: "https://amzn.to/3mNy6HB",nameProduct: `Dolphin Nautilus CC Plus Automatic Robotic Pool Cleaner with Easy to Clean Large Top Load Filter Cartridges and Tangle-Free Swivel Cord, Ideal for In-ground Swimming Pools up to 50 Feet`,slug: ""},
+			B018S68U40: {href: "https://amzn.to/3e3c7Z3",nameProduct: `WORX WG163 GT 3.0 20V PowerShare 12" Cordless String Trimmer & Edger`,slug: ""},
+			B01ID8H6NO: {href: "https://amzn.to/3a5JGsv",nameProduct: `iRobot Roomba 960 Robot Vacuum- Wi-Fi Connected Mapping, Works with Alexa, Ideal for Pet Hair, Carpets, Hard Floors`,slug: ""},
+			B07B9TB8Q7: {href: "https://amzn.to/3sm8zGy",nameProduct: `ZENY 2-in-1 Compact Mini Twin Tub Washing Machine w/Spin Cycle Dryer, 13Lbs Capacity w/Hose, Space/Time/Energy Saving`,slug: ""}
 		}
 	}
 	return dataAMZ;
