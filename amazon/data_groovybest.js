@@ -246,7 +246,25 @@ function getData(){
 			B073FKF9B5: {href: "https://amzn.to/31QJqcj",nameProduct: `Intex 18ft X 52in Ultra Frame Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,slug: ""},
 			B07F3QF4KX: {href: "https://amzn.to/31TomBO",nameProduct: `Intex 18ft X 9ft X 52in Ultra XTR Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,slug: ""},
 			B07GYWW355: {href: "https://amzn.to/3dDOyG3",nameProduct: `Intex 26339EH Pool Set, 24ft X 52in, Gray`,slug: ""},
-			B07YZ8QJ4P: {href: "https://amzn.to/3ut31eV",nameProduct: `Okaysou AirMic4S H13 HEPA Air Purifiers for Home Pets Hair Smokers with Washable Pre-filter, Timer, Night Light, Eliminates Smoke, Dust, Pollen, Pet Dander, VOCs, 300 Sq Ft, 100% Ozone Free`,slug: ""}
+			B07YZ8QJ4P: {href: "https://amzn.to/3ut31eV",nameProduct: `Okaysou AirMic4S H13 HEPA Air Purifiers for Home Pets Hair Smokers with Washable Pre-filter, Timer, Night Light, Eliminates Smoke, Dust, Pollen, Pet Dander, VOCs, 300 Sq Ft, 100% Ozone Free`,slug: ""},
+			B08CH9DSSB: {href: "https://amzn.to/3fRlbD6",nameProduct: `LED Grow Lights, VIPARSPECTRA Latest XS1500 LED Grow Light`,slug: ""},
+			B0713TGHVM: {href: "https://amzn.to/2PJR2uA",nameProduct: `Essential Hot Tubs 11-Jet Integrity Hot Tub, Seats 4-5, Millstone`,slug: ""},
+			B075CQ86ZV: {href: "https://amzn.to/31XhYJT",nameProduct: `Chamberlain Group B970T Chamberlain B970 Smartphone-Controlled Ultra-Quiet & Strong Belt Drive Garage Door Opener with Battery Backup and Max Lifting Power, Blue`,slug: ""},
+			B0009RF7DY: {href: "https://amzn.to/3s0VXEH",nameProduct: `Shoprider Sunrunner 4 Wheel Scooter Color: Burgundy`,slug: ""},
+			B07KKFDM1M: {href: "https://amzn.to/3t18g5j",nameProduct: `CRAFTSMAN V60 Cordless Leaf Blower (CMCBL760E1)`,slug: ""},
+			B06X415RY6: {href: "https://amzn.to/3dKJqjE",nameProduct: `CRAFTSMAN V60 WEEDWACKER String Trimmer (CMCST960E1)`,slug: ""},
+			B07KKC6JP8: {href: "https://amzn.to/3cWWDGN",nameProduct: `CRAFTSMAN V60 3-in-1 Cordless Lawn Mower, 21-Inch (CMCMW260P1)`,slug: ""},
+			B00FLYWNYQ: {href: "https://amzn.to/3uxsuDP",nameProduct: `Instant Pot DUO60 6 Qt 7-in-1 Multi-Use Programmable Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker and Warmer (IP-DUO60), Stainless Steel/Black`,slug: ""},
+			B072BZBPXP: {href: "https://amzn.to/2QetI8x",nameProduct: `Innova ITM5900 Advanced Heat and Massage Inversion Table`,slug: ""},
+			B07P1XFYJP: {href: "https://amzn.to/3dqmirw",nameProduct: `Waterdrop RO Reverse Osmosis Water Filtration System, NSF Certified, TDS Reduction, 400 GPD Fast Flow, Tankless, Compact, Smart Faucet, UL Listed Power, USA Tech, Brushed Nickel Faucet`,slug: ""},
+			B00198CW7G: {href: "https://amzn.to/3mTA4Gm",nameProduct: `Hayward SP2610X15 Super Pump 1.5 HP Pool Pump`,slug: ""},
+			B01AA8WOAK: {href: "https://amzn.to/3dskRZC",nameProduct: `Whynter Elite ARC-122DS 12,000 BTU Dual Hose Portable Air Conditioner, Dehumidifier, Fan with Activated Carbon Filter Plus Storage Bag for Rooms up to 400 sq ft, Multi`,slug: ""},
+			B01LWA8J37: {href: "https://amzn.to/2RzrpgE",nameProduct: `ALORAIR Basement/Crawl Space Dehumidifiers Removal 120 PPD (Saturation), 55 Pint Commercial Dehumidifier, Energy Star Listed, 5 Years Warranty, Auto Defrosting, cETL, Optional Remote Monitoring`,slug: ""},
+			B07V48X7HG: {href: "https://amzn.to/3dqml6G",nameProduct: `LG LW1019IVSM Energy Star 9,500 BTU 115V Dual Inverter Window Air Conditioner with Wi-Fi Control, 2.7 pints/h, White`,slug: ""},
+			B00CMREO0Q: {href: "https://amzn.to/3mVWOFB",nameProduct: `Touchstone 80001 - Onyx Electric Fireplace - (Black) - 50 Inch Wide - Wall Hanging(Not for in-Wall) - Log & Crystal Included - 5 Flame Settings - Realistic Flame - Timer & Remote`,slug: ""},
+			B07R62LF7N: {href: "https://amzn.to/3mX0048",nameProduct: `Camp Chef SmokePro DLX Pellet Grill w/New PID Gen 2 Digital Controller – Black`,slug: ""},
+			B07NBNCNLM: {href: "https://amzn.to/2QdqulR",nameProduct: `VANKYO Performance V600 Native 1080P LED Projector, HDMI Projector with 300" Display Compatible with TV Stick, HDMI, VGA, USB, Laptop, iPhone Android for PowerPoint Presentation`,slug: ""},
+			B07RJTHMCK: {href: "https://amzn.to/2RDKApD",nameProduct: `Frigidaire 10,000 BTU 115V Window-Mounted Compact Air Conditioner with Remote Control, White`,slug: ""}
 		}
 	}
 	return dataAMZ;
