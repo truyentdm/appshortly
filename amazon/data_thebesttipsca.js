@@ -272,7 +272,21 @@ function getData(){
 			B00V3X2P3S: {href: "https://amzn.to/3e1PmVA",nameProduct: `Whynter ARC-148MS 14,000 BTU Portable Air Conditioner, Dehumidifier, Fan with 3M and SilverShield Filter for Rooms up to 450 sq ft`,slug: ""},
 			B01M0I4KOZ: {href: "https://amzn.to/2RrPq9m",nameProduct: `3M Littmann Cardiology IV Diagnostic Stethoscope, Black-Finish Chestpiece, Black Tube, Stem and Headset, 27 inch, 6163`,slug: ""},
 			B07RCL6V7R: {href: "https://amzn.to/3wPpqFj",nameProduct: `SOLE F85 Folding Treadmill with Bluetooth Technology`,slug: ""},
-			B07BD2G4TY: {href: "https://amzn.to/3gfhd7l",nameProduct: `ZENY Portable Compact Mini Twin Tub Washing Machine`,slug: ""}
+			B07BD2G4TY: {href: "https://amzn.to/3gfhd7l",nameProduct: `ZENY Portable Compact Mini Twin Tub Washing Machine`,slug: ""},
+			B0788F3R8X: {href: "https://amzn.to/3dr1rnX",nameProduct: `Keurig K-Elite Single Serve K-Cup Pod Maker with with Strength and Temperature Control, Iced Coffee Capability, 12oz Brew Size, Brushed Silver`,slug: ""},
+			B07C44DM6D: {href: "https://amzn.to/3sBOHzz",nameProduct: `Dupray Neat Steam Cleaner Best Multipurpose Heavy Duty Steamer for Floors, Cars, Home Use and More`,slug: ""},
+			B06Y56NDF4: {href: "https://amzn.to/3dpIp1w",nameProduct: `ILIFE V3s Pro Robotic Vacuum Pet Hair Care, Powerful Suction Tangle-free, Slim Design, Auto Charge, Daily Planning, Good For Hard Floor and Low Pile Carpet`,slug: ""},
+			B0001Q2VPK: {href: "https://amzn.to/3uXonRQ",nameProduct: `Makita MAC2400 Big Bore 2.5 HP Air Compressor`,slug: ""},
+			B075GFLQ7K: {href: "https://amzn.to/3an7Wqd",nameProduct: `Kenmore 31140 Pet Friendly Lightweight Bagged Upright Beltless Vacuum with Pet Handi-Mate, Triple HEPA, Telescoping Wand, 4-Position Height Adjustment, 3 Cleaning Tools and AAFA Certified-Blue/Silver`,slug: ""},
+			B00K1NPSWG: {href: "https://amzn.to/3efAnr0",nameProduct: `Shark Navigator Professional Upright Corded Bagless Vacuum for Carpet and Hard Floor with XL Dust Cup and Swivel Steering (NV70), Gold`,slug: ""},
+			B01M29GG5D: {href: "https://amzn.to/3tvGptY",nameProduct: `Nespresso by De'Longhi ENV135RAE Coffee and Espresso Machine Bundle with Aeroccino Milk Frother, Red`,slug: ""},
+			B00KMSLHDY: {href: "https://amzn.to/32r662Y",nameProduct: `Nespresso Inissia Espresso Maker, Black (Discontinued Model)`,slug: ""},
+			B07D3C6NVL: {href: "https://amzn.to/3tvGC0e",nameProduct: `Mueller Austria Juicer Ultra 1100W Power, Easy Clean Extractor Press Centrifugal Juicing Machine, Wide 3” Feed Chute for Whole Fruit Vegetable, Anti-drip, High Quality, BPA-Free, Large, Silver`,slug: ""},
+			B00DYN0438: {href: "https://amzn.to/3x547je",nameProduct: `Blackstone 1554 Station-4-burner-Propane Fueled-Restaurant Grade-Professional 36 inch Outdoor Flat Top Gas Griddle Station-4-bur, 36" - 4 Burner, Grill`,slug: ""},
+			B009LB9J9C: {href: "https://amzn.to/3suAGTU",nameProduct: `Tanaka TCS33EDTP/14 32.2cc 14-Inch Top Handle Chain Saw with Pure Fire Engine`,slug: ""},
+			B007WQQ90A: {href: "https://amzn.to/3x4UQrj",nameProduct: `AIRCAT 1150 Killer Torque 1/2-Inch Impact Wrench, Black, Medium`,slug: ""},
+			B0000AMK5F: {href: "https://amzn.to/3tGmgS0",nameProduct: `BOSTITCH Coil Roofing Nailer, 1-3/4-Inch to 1-3/4-Inch (RN46)`,slug: ""},
+			B073FKF9KN: {href: "https://amzn.to/2Qgfvbb",nameProduct: `Intex 15ft X 48in Easy Set Pool Set with Filter Pump, Ladder, Ground Cloth & Pool Cover`,slug: ""}
 		}
 	}
 	return dataAMZ;
