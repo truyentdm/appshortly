@@ -286,7 +286,21 @@ function getData(){
 			B009LB9J9C: {href: "https://amzn.to/3suAGTU",nameProduct: `Tanaka TCS33EDTP/14 32.2cc 14-Inch Top Handle Chain Saw with Pure Fire Engine`,slug: ""},
 			B007WQQ90A: {href: "https://amzn.to/3x4UQrj",nameProduct: `AIRCAT 1150 Killer Torque 1/2-Inch Impact Wrench, Black, Medium`,slug: ""},
 			B0000AMK5F: {href: "https://amzn.to/3tGmgS0",nameProduct: `BOSTITCH Coil Roofing Nailer, 1-3/4-Inch to 1-3/4-Inch (RN46)`,slug: ""},
-			B073FKF9KN: {href: "https://amzn.to/2Qgfvbb",nameProduct: `Intex 15ft X 48in Easy Set Pool Set with Filter Pump, Ladder, Ground Cloth & Pool Cover`,slug: ""}
+			B073FKF9KN: {href: "https://amzn.to/2Qgfvbb",nameProduct: `Intex 15ft X 48in Easy Set Pool Set with Filter Pump, Ladder, Ground Cloth & Pool Cover`,slug: ""},
+			B07DLNWJBP: {href: "https://amzn.to/3dvE3Gd",nameProduct: `Sun Joe SPX2598 2000 PSI 1.65 GPM 14.5-Amp Electric Pressure Washer`,slug: ""},
+			B00N6XBM64: {href: "https://amzn.to/2RCcoL2",nameProduct: `AR ANNOVI REVERBERI AR390SS Electric Pressure Washer, Pressue, Blue`,slug: ""},
+			B07H7L92QD: {href: "https://amzn.to/3gisrYH",nameProduct: `PAXCESS Electric Pressure Washer 2150 PSI 1.85 GPM High Pressure Power Washer Machine with All-in-One Nozzle, Hose Reel, Detergent Tank Best for Cleaning Car/Vehicle/Floor/Wall/Furniture/Outdoo`,slug: ""},
+			B01NBV3LPV: {href: "https://amzn.to/3uZM9fZ",nameProduct: `Sun Joe SPX4001 2030 PSI 1.76 GPM 14.5 Amp Electric Pressure Washer w/ Pressure Select Technology & Hose Reel`,slug: ""},
+			B078H7WN7F: {href: "https://amzn.to/3gst7e2",nameProduct: `Sun Joe SPX3200 1.76 GPM 14.5-Amp 2030 PSI (Max) GO ANYWHERE Electric Pressure Washer`,slug: ""},
+			B0028AYQDC: {href: "https://amzn.to/3mX988J",nameProduct: `Whynter ARC-14S 14,000 BTU Dual Hose Portable Air Conditioner, Dehumidifier, Fan with Activated Carbon Filter plus Storage bag for Rooms up to 500 sq ft`,slug: ""},
+			B0007Q3RQ6: {href: "https://amzn.to/3eaE69v",nameProduct: `Air King 9166F 20" Whole House Window Fan`,slug: ""},
+			B00SMLKEPA: {href: "https://amzn.to/2P29SwQ",nameProduct: `Dyson Hot + Cool Jet Focus AM09 Fan Heater White/Silver (61874-01)`,slug: ""},
+			B07GBW96HC: {href: "https://amzn.to/3duCxEk",nameProduct: `RENPHO Air Purifier for Home Allergies and Pets, Air Purifiers for Large Room with True HEPA Filter, Eliminates Odors Mold Dust Smoke Pollen for Bedroom, Smart Auto Sensor, RP-AP001`,slug: ""},
+			B01M0AGJIQ: {href: "https://amzn.to/3dtoGOz",nameProduct: `Duraflame 3D Infrared Electric Fireplace Stove with Remote Control - Portable Indoor Space Heater - DFI-5010 (Black)`,slug: ""},
+			B005KMDV9A: {href: "https://amzn.to/3dyom13",nameProduct: `Shark Navigator Lift-Away Professional NV356E`,slug: ""},
+			B00G00BTEA: {href: "https://amzn.to/3txba1L",nameProduct: `McCulloch MC1385 Deluxe Canister Steam System, 1-(Pack), Black`,slug: ""},
+			B001BYW3NG: {href: "https://amzn.to/3e5VCvi",nameProduct: `BISSELL PowerLifter PowerBrush Upright Carpet Cleaner and Shampooer, 1622`,slug: ""},
+			B07GYSB13N: {href: "https://amzn.to/3dtrQSn",nameProduct: `Intex 15'8" x 49" Ultra Frame Above Ground Swimming Pool Set with Pump & Ladder`,slug: ""}
 		}
 	}
 	return dataAMZ;
