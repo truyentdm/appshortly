@@ -294,8 +294,11 @@ function htmlWrapShortly(asin,dataContent,dataRedirect){
 			htmlJS +=`<div><img src="${dataAMZ[asin].image}" /></div>`;
 		}
 		htmlJS += "<br/>";
-		htmlJS += `${dataAMZ[asin].summary}`;
-		htmlJS += "<br/>";
+		if(dataAMZ[asin].summary != ""){
+			htmlJS += `<h3>Product highlights:<h3/>`;
+			htmlJS += `${dataAMZ[asin].summary}`;
+			htmlJS += "<br/>";
+		}
 		htmlJS += "";
 		htmlJS += "<h4>You may like products:</h4>"
 		htmlJS += '<ul class="ul-data">';
