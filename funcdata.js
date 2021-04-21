@@ -278,6 +278,47 @@ function htmlShortly(dataContent,dataRedirect){
 	htmlJS += "</div>";
 	return htmlJS;
 }
+function htmlWrapShortly(asin,dataContent,dataRedirect){
+	var htmlJS = "";
+	
+	if(typeof dataAMZ[asin].image != "undefined" && dataAMZ[asin].image != ""){
+		htmlJS += "<div class=\"widget Blog\">";
+		htmlJS += "<div class=\"wp_errorWrap\">";
+		htmlJS += "<div class=\"errorWrap2\">";
+		
+		if(Array.isArray(dataAMZ[asin].image)){
+			dataAMZ[asin].image.forEach((item,index)=>{
+				htmlJS +=`<div><img src="${item}" /></div>`;
+			});
+		}else{
+			htmlJS +=`<div><img src="${dataAMZ[asin].image}" /></div>`;
+		}
+		htmlJS += "<br/>";
+		htmlJS += `${dataAMZ[asin].summary}`;
+		htmlJS += "<br/>";
+		htmlJS += "";
+		htmlJS += "<h4>You may like products:</h4>"
+		htmlJS += '<ul class="ul-data">';
+		dataRedirect.forEach((item,index)=>{
+			htmlJS += `
+				<li>
+					<div class="data-img fl-left"><img src="https://4.bp.blogspot.com/-O3EpVMWcoKw/WxY6-6I4--I/AAAAAAAAB2s/KzC0FqUQtkMdw7VzT6oOR_8vbZO6EJc-ACK4BGAYYCw/w100/nth.png" alt=""></div>
+					<div class="data-title fl-left"><div>${item.title}</div><a href="${item.href}">View Amazon Price</a></div>
+					<div class="clr"></div>
+				</li>
+			`;
+		});
+		htmlJS += "</ul>";
+		htmlJS += "</div>";
+		htmlJS += "</div>";
+		htmlJS += "</div>";
+		
+	}else{
+		htmlJS = htmlShortly(dataContent,dataRedirect);
+	}
+	
+	return htmlJS;
+}
 function htmlLoading(text){
 	var htmlJS = "";
 	htmlJS += "<div class=\"wp_errorWrap\">";
@@ -305,7 +346,8 @@ function addHtml(isSource,glink,nameProduct,numPost =5,idWeb="Blog1"){
 		dataRedirect.push({title: dataAMZ[keyItem].nameProduct,href: dataAMZ[keyItem].href})
 	}
 	console.log(dataRedirect);
-	document.getElementById(idWeb).innerHTML = htmlShortly(dataContent,dataRedirect);
+	//document.getElementById(idWeb).innerHTML = htmlShortly(dataContent,dataRedirect);
+	document.getElementById(idWeb).innerHTML = htmlWrapShortly(objURL[objURL.length-1].toUpperCase(),dataContent,dataRedirect);
 	if(isSource){
 		//Transfer
 		window.location.href = glink;
