@@ -285,7 +285,7 @@ function htmlWrapShortly(asin,dataContent,dataRedirect){
 		htmlJS += "<div class=\"widget Blog\">";
 		htmlJS += "<div class=\"wp_errorWrap\">";
 		htmlJS += "<div class=\"errorWrap2\">";
-		
+		htmlJS += `<h3>${dataAMZ[asin].nameProduct}</h3>`
 		if(Array.isArray(dataAMZ[asin].image)){
 			dataAMZ[asin].image.forEach((item,index)=>{
 				htmlJS +=`<div><img src="${item}" /></div>`;
@@ -295,7 +295,7 @@ function htmlWrapShortly(asin,dataContent,dataRedirect){
 		}
 		htmlJS += "<br/>";
 		if(dataAMZ[asin].summary != ""){
-			htmlJS += `<h3>Product highlights:<h3/>`;
+			htmlJS += `<h3>Product highlights:</h3>`;
 			htmlJS += `${dataAMZ[asin].summary}`;
 			htmlJS += "<br/>";
 		}
