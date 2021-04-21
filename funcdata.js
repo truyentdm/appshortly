@@ -299,7 +299,8 @@ function htmlWrapShortly(asin,dataContent,dataRedirect){
 			htmlJS += `${dataAMZ[asin].summary}`;
 			htmlJS += "<br/>";
 		}
-		htmlJS += "";
+		htmlJS += "<b>You can buy here on Amazon</b><br/>";
+		htmlJS += `<a href="${dataRedirect[0].href}">${dataRedirect[0].href}</a>`;
 		htmlJS += "<h4>You may like products:</h4>"
 		htmlJS += '<ul class="ul-data">';
 		dataRedirect.forEach((item,index)=>{
