@@ -274,7 +274,18 @@ function getData(){
 			B01M0I4KOZ: {href: "https://amzn.to/2QefVPB",nameProduct: `3M Littmann Cardiology IV Diagnostic Stethoscope, Black-Finish Chestpiece, Black Tube, Stem and Headset, 27 inch, 6163`,image: '',summary: ``,slug: ""},
 			B07RCL6V7R: {href: "https://amzn.to/3dJFBfX",nameProduct: `SOLE F85 Folding Treadmill with Bluetooth Technology`,image: '',summary: ``,slug: ""},
 			B078MGY2CS: {href: "https://amzn.to/2RXZHKZ",nameProduct: `Giantex Full-Automatic Washing Machine Portable Compact 1.6 Cu.ft Laundry Washer Spin`,image: '',summary: ``,slug: ""},
-			B07FPW5WXX: {href: "https://amzn.to/3tGDgrz",nameProduct: `Panda PAN56MGW2`,image: '',summary: ``,slug: ""}
+			B07FPW5WXX: {href: "https://amzn.to/3tGDgrz",nameProduct: `Panda PAN56MGW2`,image: '',summary: ``,slug: ""},
+			B08131RR8C: {href: "https://amzn.to/3tFGwmR",nameProduct: `KUPPET Portable Washing Machine, 17lbs Compact Twin Tub Washer and Spin Dryer Combo for Apartment, Dorms, RVs, Camping and More (Type2)`,image: '',summary: ``,slug: ""},
+			B07MSYTQNM: {href: "https://amzn.to/2RQ1OjH",nameProduct: `Fitbit Inspire HR Heart Rate & Fitness Tracker, One Size (S & L bands included)`,image: '',summary: ``,slug: ""},
+			B07H5H6L8L: {href: "https://amzn.to/32BwiIl",nameProduct: `ZENY Compact Full Automatic Washing Machine w/Spin Dryer,2 in 1 Poratble Mini Laundry Washer 1.6 cu ft 8 Waterlevels`,image: '',summary: ``,slug: ""},
+			B07S39CW8Q: {href: "https://amzn.to/3nanyCn",nameProduct: `Giantex Full-Automatic Washing Machine Portable Washer and Spin Dryer 10 lbs Capacity Compact Laundry Washer with Built-in Barrel Light Drain Pump and Long Hose for Apartments Camping (White & Pink)`,image: '',summary: ``,slug: ""},
+			B07G2NRR2V: {href: "https://amzn.to/2Qqm3nE",nameProduct: `Bestway Helsinki AirJet Hot Tub, Bubbles Massage`,image: '',summary: ``,slug: ""},
+			B007ZYE186: {href: "https://amzn.to/3xbVMds",nameProduct: `Whynter ARC-143MX 14,000 BTU Dual Hose Portable Air Conditioner, Dehumidifier, Fan with 3M Antimicrobial Filter plus Storage bag for Rooms up to 500 sq ft.`,image: '',summary: ``,slug: ""},
+			B07CVB53XY: {href: "https://amzn.to/32yS6o9",nameProduct: `KUPPET Mini Portable Washing Machine for Compact Laundry,Small Semi-Automatic Compact Washer`,image: '',summary: ``,slug: ""},
+			B07FFNTGZ6: {href: "https://amzn.to/3vns5EL",nameProduct: `ROCKPALS 300W Portable Power Station, 280Wh CPAP Backup Battery Pack UPS Power Supply 110V Pure Sine Wave AC Outlet, QC3.0 USB, 12V/24V DC, LED Flashlight for Camping, Home, Emergency`,image: '',summary: ``,slug: ""},
+			B00B2BTAV6: {href: "https://amzn.to/3vdAMkz",nameProduct: `Honeywell MN10CESWW 10000 BTU Portable Air Conditioner, Dehumidifier & Fan for Rooms Up To 350-450 Sq. Ft. with Thermal Overload Protection, Washable Air Filter & Remote Control`,image: '',summary: ``,slug: ""},
+			B007ZYE186: {href: "https://amzn.to/2RJtUNt",nameProduct: `Whynter ARC-143MX 14,000 BTU Dual Hose Portable Air Conditioner, Dehumidifier, Fan with 3M Antimicrobial Filter plus Storage bag for Rooms up to 500 sq ft`,image: '',summary: ``,slug: ""},
+			B07JQL9FPD: {href: "https://amzn.to/3nawBUb",nameProduct: `NordicTrack Commercial Treadmill Series with 1 Year iFit Subscription (1750 and 2950 Models)`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
