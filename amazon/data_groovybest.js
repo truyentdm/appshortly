@@ -264,13 +264,17 @@ function getData(){
 			B00CMREO0Q: {href: "https://amzn.to/3mVWOFB",nameProduct: `Touchstone 80001 - Onyx Electric Fireplace - (Black) - 50 Inch Wide - Wall Hanging(Not for in-Wall) - Log & Crystal Included - 5 Flame Settings - Realistic Flame - Timer & Remote`,image: '',summary: ``,slug: ""},
 			B07R62LF7N: {href: "https://amzn.to/3mX0048",nameProduct: `Camp Chef SmokePro DLX Pellet Grill w/New PID Gen 2 Digital Controller – Black`,image: '',summary: ``,slug: ""},
 			B07NBNCNLM: {href: "https://amzn.to/2QdqulR",nameProduct: `VANKYO Performance V600 Native 1080P LED Projector, HDMI Projector with 300" Display Compatible with TV Stick, HDMI, VGA, USB, Laptop, iPhone Android for PowerPoint Presentation`,image: '',summary: ``,slug: ""},
-			B07RJTHMCK: {href: "https://amzn.to/2RDKApD",nameProduct: `Frigidaire 10,000 BTU 115V Window-Mounted Compact Air Conditioner with Remote Control, White`,image: ["https://images-na.ssl-images-amazon.com/images/I/71sLtuevajL._SL1600_.jpg","https://images-na.ssl-images-amazon.com/images/I/71s2gnkq6VL.jpg","https://images-na.ssl-images-amazon.com/images/I/7158YBlzs1L.jpg"],summary: `<p>- 10,000 BTU compact air conditioner for window-mounted installation uses standard 115V electrical outlet</p>
-<p>- Quickly cools a room up to 450 square feet. with dehumidification up to 3 pints per hour</p>
-<p>- Low power start-up conserves energy and saves you money</p>
-<p>- After a power outage, Effortless Restart resumes operating at its previous settings once power is restored</p>
-<p>- Ready-select electronic controls allow you to easily select options with the touch of a button</p>
-
-`,slug: ""}
+			B07RJTHMCK: {href: "https://amzn.to/2RDKApD",nameProduct: `Frigidaire 10,000 BTU 115V Window-Mounted Compact Air Conditioner with Remote Control, White`,image: '',summary: ``,slug: ""},
+			B077HW9XM7: {href: "https://amzn.to/3swpd6t",nameProduct: `Ecovacs DEEBOT N79S Robotic Vacuum Cleaner with Max Power Suction, Upto 110 Min Runtime, Hard Floors and Carpets, Works with Alexa, App Controls, Self-Charging, Quiet`,image: '',summary: ``,slug: ""},
+			B012T634SM: {href: "https://amzn.to/32I9QND",nameProduct: `Magic Bullet Blender, Silver`,image: '',summary: ``,slug: ""},
+			B00N9IG28O: {href: "https://amzn.to/3x8jhUG",nameProduct: `NutriBullet Blender`,image: '',summary: ``,slug: ""},
+			B002W87P9C: {href: "https://amzn.to/3x8jl6S",nameProduct: `Whynter ARC-14SH 14,000 BTU Dual Hose Portable Air Conditioner and Heater, Dehumidifier, Fan with Activated Carbon Filter plus Storage bag for Rooms up to 500 sq ft`,image: '',summary: ``,slug: ""},
+			B01MAVR8UW: {href: "https://amzn.to/2QdECM1",nameProduct: `Upgraded Version Pyle Portable Washer & Spin Dryer, Mini Washing Machine, Twin Tubs, Spin Cycle w/ Hose, 11lbs. Capacity, 110V - Ideal For Compact Laundry`,image: '',summary: ``,slug: ""},
+			B00V3X2P3S: {href: "https://amzn.to/3n7RTl8",nameProduct: `Whynter ARC-148MS 14,000 BTU Portable Air Conditioner, Dehumidifier, Fan with 3M and SilverShield Filter for Rooms up to 450 sq ft`,image: '',summary: ``,slug: ""},
+			B01M0I4KOZ: {href: "https://amzn.to/2QefVPB",nameProduct: `3M Littmann Cardiology IV Diagnostic Stethoscope, Black-Finish Chestpiece, Black Tube, Stem and Headset, 27 inch, 6163`,image: '',summary: ``,slug: ""},
+			B07RCL6V7R: {href: "https://amzn.to/3dJFBfX",nameProduct: `SOLE F85 Folding Treadmill with Bluetooth Technology`,image: '',summary: ``,slug: ""},
+			B078MGY2CS: {href: "https://amzn.to/2RXZHKZ",nameProduct: `Giantex Full-Automatic Washing Machine Portable Compact 1.6 Cu.ft Laundry Washer Spin`,image: '',summary: ``,slug: ""},
+			B07FPW5WXX: {href: "https://amzn.to/3tGDgrz",nameProduct: `Panda PAN56MGW2`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
