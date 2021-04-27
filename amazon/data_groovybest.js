@@ -285,7 +285,20 @@ function getData(){
 			B07FFNTGZ6: {href: "https://amzn.to/3vns5EL",nameProduct: `ROCKPALS 300W Portable Power Station, 280Wh CPAP Backup Battery Pack UPS Power Supply 110V Pure Sine Wave AC Outlet, QC3.0 USB, 12V/24V DC, LED Flashlight for Camping, Home, Emergency`,image: '',summary: ``,slug: ""},
 			B00B2BTAV6: {href: "https://amzn.to/3vdAMkz",nameProduct: `Honeywell MN10CESWW 10000 BTU Portable Air Conditioner, Dehumidifier & Fan for Rooms Up To 350-450 Sq. Ft. with Thermal Overload Protection, Washable Air Filter & Remote Control`,image: '',summary: ``,slug: ""},
 			B007ZYE186: {href: "https://amzn.to/2RJtUNt",nameProduct: `Whynter ARC-143MX 14,000 BTU Dual Hose Portable Air Conditioner, Dehumidifier, Fan with 3M Antimicrobial Filter plus Storage bag for Rooms up to 500 sq ft`,image: '',summary: ``,slug: ""},
-			B07JQL9FPD: {href: "https://amzn.to/3nawBUb",nameProduct: `NordicTrack Commercial Treadmill Series with 1 Year iFit Subscription (1750 and 2950 Models)`,image: '',summary: ``,slug: ""}
+			B07JQL9FPD: {href: "https://amzn.to/3nawBUb",nameProduct: `NordicTrack Commercial Treadmill Series with 1 Year iFit Subscription (1750 and 2950 Models)`,image: '',summary: ``,slug: ""},
+			B0018RSEMU: {href: "https://amzn.to/3vnYM4N",nameProduct: `Chef’sChoice 15 Trizor XV EdgeSelect Professional Electric Knife Sharpener for Straight and Serrated Knives Diamond Abrasives Patented Sharpening System Made in USA, 3-Stage, Gray`,image: '',summary: ``,slug: ""},
+			B002FU5SKU: {href: "https://amzn.to/2S9T9J9",nameProduct: `Husqvarna 965877502 350BT 2-Cycle Gas Backpack Blower, Orange`,image: '',summary: ``,slug: ""},
+			B077N51CR2: {href: "https://amzn.to/2S7uPYp",nameProduct: `Homall Recliner Chair Padded Seat PU Leather for Living Room Single Sofa Recliner Modern Recliner Seat Club Chair Home Theater Seating (Black)`,image: '',summary: ``,slug: ""},
+			B00R6AW5S2: {href: "https://amzn.to/3nr56px",nameProduct: `Makita EB7650TH 75.6 cc MM4 Backpack Blower`,image: '',summary: ``,slug: ""},
+			B01G5MZZ5Q: {href: "https://amzn.to/32YMzHn",nameProduct: `Breville|PolyScience the Control Freak Temperature Controlled Commercial Induction Cooking System`,image: '',summary: ``,slug: ""},
+			B07GVPMH4Z: {href: "https://amzn.to/3xueAVh",nameProduct: `Vertical Chamber Vacuum Sealer by Vesta Precision - Vertical Vac Elite | Extends Food Freshness | Perfect for Sous Vide Cooking & food with liquid | Space-saving Vertical Design`,image: '',summary: ``,slug: ""},
+			B01MU9R08E: {href: "https://amzn.to/3vmPcyX",nameProduct: `Saeco PicoBaristo Super Automatic Espresso Machine, 1.8 L, Stainless Steel, HD8927/47`,image: '',summary: ``,slug: ""},
+			B07G3XYR3R: {href: "https://amzn.to/3sX5Kfe",nameProduct: `Saeco Xelsis Super Automatic Espresso Machine, Titanium Metal Front, SM7684/04`,image: '',summary: ``,slug: ""},
+			B071GDGKG1: {href: "https://amzn.to/32ThK72",nameProduct: `Gaggia Babila Espresso Machine, Stainless Steel`,image: '',summary: ``,slug: ""},
+			B00656FWX8: {href: "https://amzn.to/3dSLQxM",nameProduct: `Star Mfg Grill-Max Roller 30-Hot Dog Grill w/ Clear Door`,image: '',summary: ``,slug: ""},
+			B0089UA1ZC: {href: "https://amzn.to/3xv5FTR",nameProduct: `Robot Coupe - 4581 R2N Continuous Feed Combination Food Processor with 3-Quart Polycarbonate Bowl, 1-HP, 120-Volts`,image: '',summary: ``,slug: ""},
+			B005ZXK5L6: {href: "https://amzn.to/3aIxePG",nameProduct: `Vitamix 36019 36019-1 Vita-Mix Quiet One Blender 48 oz, Black`,image: '',summary: ``,slug: ""},
+			B00B1D4XNU: {href: "https://amzn.to/3exEqzj",nameProduct: `Hobart LXEC-3 Undercounter Dishwasher - Chemical Sanitizing Unit`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
