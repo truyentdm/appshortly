@@ -317,7 +317,27 @@ function getData(){
 			B01M6YMWNA: {href: "https://amzn.to/3gGTr4v",nameProduct: `Alen BreatheSmart FLEX Air Purifier for Large Rooms up to 700 Sqft, SleepScore Validated, Removes Allergens, Pollen, Dust, Mold, Pet Odors, White`,image: '',summary: ``,slug: ""},
 			B07MXDRTKJ: {href: "https://amzn.to/32SiVnj",nameProduct: `COLZER 70 Pints Dehumidifiers for Home Basements, Bathroom and Large Room up to 4,000 sq ft, Large Capacity Compact Dehumidifier with 7.4 Pints-Water Bucket & Continuous Drain Hose for Self-draining`,image: '',summary: ``,slug: ""},
 			B07Q1S7GGJ: {href: "https://amzn.to/3vp3qQ8",nameProduct: `LEVOIT Air Purifier for Home Allergies and Pets Hair, Smokers, True HEPA Filter, Quiet Filtration System in Bedroom, Removes Smoke Odor Dust Mold, Night Light & Timer, Vista 200`,image: '',summary: ``,slug: ""},
-			B07LGDYV3C: {href: "https://amzn.to/3aJty02",nameProduct: `Medify MA-40 Medical Grade Filtration H13 True HEPA for 800 Sq. Ft. Air Purifier, 99.97% Removal with Particle Sensor and Modern Design - White`,image: '',summary: ``,slug: ""}
+			B07LGDYV3C: {href: "https://amzn.to/3aJty02",nameProduct: `Medify MA-40 Medical Grade Filtration H13 True HEPA for 800 Sq. Ft. Air Purifier, 99.97% Removal with Particle Sensor and Modern Design - White`,image: '',summary: ``,slug: ""},
+			B000ELUQQS: {href: "https://amzn.to/3vv1J3k",nameProduct: `PetSafe ScoopFree Self Cleaning Litter Box`,image: '',summary: ``,slug: ""},
+			B07RGKKNCC: {href: "https://amzn.to/3vxW8tr",nameProduct: `COLZER Air Purifier with True HEPA Air Filter, Air Purifier for Large Room, for Spaces Up to 800 Sq Ft, Perfect for Home/Office with Filter`,image: '',summary: ``,slug: ""},
+			B07WP9MZ5J: {href: "https://amzn.to/3t1wJ9M",nameProduct: `HEPA Air Purifier – Bulex Air Purifier with True HEPA Filter for 99.97% Purification, 4-Stage Filtration & Timing Function & Sleep Mode & Night Light, Easy to Set Air Purifier, Perfect for Bedroom`,image: '',summary: ``,slug: ""},
+			B0078KWAL2: {href: "https://amzn.to/32WA7Ij",nameProduct: `Greenworks 16-Inch 10 Amp Corded Electric Lawn Mower 25142`,image: '',summary: ``,slug: ""},
+			B01DL6GVKW: {href: "https://amzn.to/3xFHulN",nameProduct: `EGO Power+ LM2000-S 20-Inch 56-Volt Lithium-ion Cordless Walk Behind Lawn Mower - Battery and Charger Not Included`,image: '',summary: ``,slug: ""},
+			B01NBVBT3I: {href: "https://amzn.to/3xxa0WE",nameProduct: `Sun Joe SPX4000 2030 Max Psi 1.76 Gpm 14.5-Amp Electric Pressure Washer`,image: '',summary: ``,slug: ""},
+			B076J9M6RW: {href: "https://amzn.to/3xqP03L",nameProduct: `Classic Flame 23II042FGL 23" 3D Infrared Quartz Electric Fireplace Insert with Safer Plug and Sensor, 1500 W, 23 inches`,image: '',summary: ``,slug: ""},
+			B01MS75K8U: {href: "https://amzn.to/3t3dMU5",nameProduct: `REDCAMP Cotton Flannel Sleeping Bag for Adults, 23/32F Comfortable, Envelope with Compression Sack Blue/Grey 2/3/4lbs (91"x35")`,image: '',summary: ``,slug: ""},
+			B00363PSKK: {href: "https://amzn.to/2Pz63zu",nameProduct: `Coleman Dunnock Cold Weather Adult Sleeping Bag`,image: '',summary: ``,slug: ""},
+			B07BY88V1Q: {href: "https://amzn.to/3gSbuF3",nameProduct: `WORX WG779 40V Power Share 4.0 Ah 14" Lawn Mower w/ Mulching & Intellicut (2x20V Batteries)`,image: '',summary: ``,slug: ""},
+			B07XLLBTKL: {href: "https://amzn.to/3eCvdFY",nameProduct: `JASHEN Lightweight Cordless Vacuum Cleaner, 180W 12Kpa Powerful Suction 2 in 1 Handheld Stick Vacuum with Rechargeable Battery and LED Lights for Hardwood Floors, Carpets, Rugs and Pet Hair Cars`,image: '',summary: ``,slug: ""},
+			B014D9LBCY: {href: "https://amzn.to/3eCSmrB",nameProduct: `Oster French Convection Countertop & Toaster Oven | Single Door Pull & Digital Controls | Stainless Steel, Extra Large`,image: '',summary: ``,slug: ""},
+			B00OX5B8CW: {href: "https://amzn.to/2QEETrp",nameProduct: `Intex 12ft x 30in Metal Frame Pool with Filter Pump`,image: '',summary: ``,slug: ""},
+			B01MRNXXYQ: {href: "https://amzn.to/3t2srPt",nameProduct: `Sunny Health & Fitness Treadmill Motorized Running Machine with LCD Display, Tablet Holder, Shock Absorption, 220 LB Max Weight and Folding Running Belt`,image: '',summary: ``,slug: ""},
+			B001G60JA8: {href: "https://amzn.to/3gGY66u",nameProduct: `Sole New 2019 F63 Treadmill`,image: '',summary: ``,slug: ""},
+			B075VCM1XR: {href: "https://amzn.to/3sVZ0i1",nameProduct: `Zinus Dori Upholstered Square Stitched Wingback Platform Bed / Mattress Foundation / Easy Assembly / Strong Wood Slat Support, Queen`,image: '',summary: ``,slug: ""},
+			B07BQL8L1K: {href: "https://amzn.to/3nBVkkj",nameProduct: `Zinus Benton Mid-Century Upholstered 76 Inch Sofa / Living Room Couch, Stone Grey Weave`,image: '',summary: ``,slug: ""},
+			B06XMY9D5K: {href: "https://amzn.to/3aOnS4V",nameProduct: `Zinus Paul Metal and Wood Platform Bed with Wood Slat Support, Queen`,image: '',summary: ``,slug: ""},
+			B016J0EITS: {href: "https://amzn.to/3t0MKwD",nameProduct: `SureFire X300 Ultra Series LED WeaponLights with TIR Lens`,image: '',summary: ``,slug: ""},
+			B001LZRF9M: {href: "https://amzn.to/3sZe91V",nameProduct: `EcoSmart ECO 11 Electric Tankless Water Heater, 13KW at 240 Volts with Patented Self Modulating Technology`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
