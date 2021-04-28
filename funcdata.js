@@ -120,7 +120,7 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
   if(checkASIN(asin,dataAMZCK)){
   	if(typeof dataAMZCK[asin]["href"] != "undefined"){
 	  document.getElementById("lblResult").innerHTML = `
-		ASIN: ${asin}<br/>
+		ASIN: <span id="asinID">${asin}</span> <span class="tooltip"><button onclick="myCopyTexFunction('myInputAsin','myTooltipAsin')" onmouseout="outFunc('myTooltipAsin')"><span class="tooltiptext" id="myTooltipAsin">Copy to clipboard</span>Copy</button></span><br/>
 		href: ${dataAMZCK[asin]["href"]}<br/>
 		${inputTextOpen} value="${radioDecriptionUS} ${createLink(asin,local,wrapLink)}" style="width:85%" id="myInputUS" ${inputTextEnd} ${copyTextUS}<br/>
 		${inputTextOpen} value="${radioDecriptionCA} ${createLink(asin,local,wrapLink)}" style="width:85%" id="myInputCA" ${inputTextEnd} ${copyTextCA}<br/>
