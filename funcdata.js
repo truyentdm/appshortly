@@ -102,7 +102,6 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
   var asin = fn.txtAsin.value;
       asin = asin.toUpperCase();
       asin = asin.trim();
-      document.getElementById("txtAsin").value = asin;
   let wrapLink = fn.slcWrapLink.value == "none" ? "" : fn.slcWrapLink.value;
   let radioDecription = fn.radioDescription.value;	
   let radioDecriptionLocal = radioDecription.replace("[local]",local.toUpperCase());
