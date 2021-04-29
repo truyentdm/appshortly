@@ -298,7 +298,8 @@ function getData(){
 			B00656FWX8: {href: "https://amzn.to/3dSLQxM",nameProduct: `Star Mfg Grill-Max Roller 30-Hot Dog Grill w/ Clear Door`,image: '',summary: ``,slug: ""},
 			B0089UA1ZC: {href: "https://amzn.to/3xv5FTR",nameProduct: `Robot Coupe - 4581 R2N Continuous Feed Combination Food Processor with 3-Quart Polycarbonate Bowl, 1-HP, 120-Volts`,image: '',summary: ``,slug: ""},
 			B005ZXK5L6: {href: "https://amzn.to/3aIxePG",nameProduct: `Vitamix 36019 36019-1 Vita-Mix Quiet One Blender 48 oz, Black`,image: '',summary: ``,slug: ""},
-			B00B1D4XNU: {href: "https://amzn.to/3exEqzj",nameProduct: `Hobart LXEC-3 Undercounter Dishwasher - Chemical Sanitizing Unit`,image: '',summary: ``,slug: ""}
+			B00B1D4XNU: {href: "https://amzn.to/3exEqzj",nameProduct: `Hobart LXEC-3 Undercounter Dishwasher - Chemical Sanitizing Unit`,image: '',summary: ``,slug: ""},
+			B00E07D76S: {href: "https://amzn.to/3xysyFN",nameProduct: `Panasonic FlashXpress Compact Toaster Oven with Double Infrared Heating, Crumb Tray and 1300 Watts of Cooking Power – 4 Slice Countertop Toaster Oven - NB-G110P-W (White)`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
