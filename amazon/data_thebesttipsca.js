@@ -337,7 +337,13 @@ function getData(){
 			B07BQL8L1K: {href: "https://amzn.to/3nBVkkj",nameProduct: `Zinus Benton Mid-Century Upholstered 76 Inch Sofa / Living Room Couch, Stone Grey Weave`,image: '',summary: ``,slug: ""},
 			B06XMY9D5K: {href: "https://amzn.to/3aOnS4V",nameProduct: `Zinus Paul Metal and Wood Platform Bed with Wood Slat Support, Queen`,image: '',summary: ``,slug: ""},
 			B016J0EITS: {href: "https://amzn.to/3t0MKwD",nameProduct: `SureFire X300 Ultra Series LED WeaponLights with TIR Lens`,image: '',summary: ``,slug: ""},
-			B001LZRF9M: {href: "https://amzn.to/3sZe91V",nameProduct: `EcoSmart ECO 11 Electric Tankless Water Heater, 13KW at 240 Volts with Patented Self Modulating Technology`,image: '',summary: ``,slug: ""}
+			B001LZRF9M: {href: "https://amzn.to/3sZe91V",nameProduct: `EcoSmart ECO 11 Electric Tankless Water Heater, 13KW at 240 Volts with Patented Self Modulating Technology`,image: '',summary: ``,slug: ""},
+			B075PL2GDD: {href: "https://amzn.to/3gOz2KW",nameProduct: `Bissell Zing Canister, 2156A Vacuum, Green Bagless`,image: '',summary: ``,slug: ""},
+			B000WJ0IGA: {href: "https://amzn.to/2PvIk30",nameProduct: `PetSafe Electronic SmartDoor - Collar Activated Dog and Cat Door`,image: '',summary: ``,slug: ""},
+			B00R6Z4R42: {href: "https://amzn.to/3eFjPJh",nameProduct: `Greenworks PRO 18-Inch 80V Cordless Chainsaw, 2.0 AH Battery Included GCS80420`,image: '',summary: ``,slug: ""},
+			B019VXKUDI: {href: "https://amzn.to/3aOSza3",nameProduct: `Greenworks PRO 21-Inch 80V Cordless Lawn Mower, 4Ah Battery and Charger Included 2501202`,image: '',summary: ``,slug: ""},
+			B00Y9PZEP8: {href: "https://amzn.to/3eBXXyE",nameProduct: `GreenWorks 2600402 Pro 80V 20-Inch Cordless Snow Thrower, 2Ah Battery & Charger Included`,image: '',summary: ``,slug: ""},
+			B00E07D76S: {href: "https://amzn.to/2R2LX0R",nameProduct: `Panasonic FlashXpress Compact Toaster Oven with Double Infrared Heating, Crumb Tray and 1300 Watts of Cooking Power – 4 Slice Countertop Toaster Oven - NB-G110P-W (White)`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
