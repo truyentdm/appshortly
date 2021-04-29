@@ -361,7 +361,13 @@ function getData(){
 			B00D3KJN3O: {href: "https://amzn.to/3u2o2NJ",nameProduct: `Greenworks 10-Inch 8 Amp Corded Tiller 27072`,image: '',summary: ``,slug: ""},
 			B00V6IEVXM: {href: "https://amzn.to/2S4gKuE",nameProduct: `Sun Joe TJ603E 16-Inch 12-Amp Electric Tiller and Cultivator`,image: '',summary: ``,slug: ""},
 			B01FRFKQ6U: {href: "https://amzn.to/3xyb7p2",nameProduct: `Frigidaire FFTA1233S1 Wall Air Conditioner, 12000 BTU Cool, 115V, White`,image: '',summary: ``,slug: ""},
-			B074G57DYJ: {href: "https://amzn.to/3xIypZo",nameProduct: `EGO LM2102SP 21" Self Propelled Lawnmower with 7.5AH Battery & Rapid Charger`,image: '',summary: ``,slug: ""}
+			B074G57DYJ: {href: "https://amzn.to/3xIypZo",nameProduct: `EGO LM2102SP 21" Self Propelled Lawnmower with 7.5AH Battery & Rapid Charger`,image: '',summary: ``,slug: ""},
+			B0811SYNHK: {href: "https://amzn.to/2Py4OAu",nameProduct: `Walsunny Convertible Sectional Sofa Couch with Reversible Chaise, L-Shaped Couch with Modern Linen Fabric for Small Space (Coffee/Brown)`,image: '',summary: ``,slug: ""},
+			B07VGJPD49: {href: "https://amzn.to/2QyjO1Z",nameProduct: `US Pride Furniture Sofabed, Sleeper, Blue`,image: '',summary: ``,slug: ""},
+			B07CG725M4: {href: "https://amzn.to/3t2XOcK",nameProduct: `HOMCOM Single Person 3 Position Convertible Couch Chaise Lounger Sofa Bed, Cream White`,image: '',summary: ``,slug: ""},
+			B07FX7394L: {href: "https://amzn.to/3t3jANp",nameProduct: `SHARK ION Robot Vacuum R85 WiFi-Connected with Powerful Suction, XL Dust Bin, Self-Cleaning Brushroll and Voice Control with Alexa or Google Assistant (RV850)`,image: '',summary: ``,slug: ""},
+			B075X59T4T: {href: "https://amzn.to/3e2QJED",nameProduct: `Illy Y5 Espresso & Coffee Machine, Bluetooth, Amazon Dash Replenishment Enabled`,image: '',summary: ``,slug: ""},
+			B019UDI5PO: {href: "https://amzn.to/2Sf8OHd",nameProduct: `Canon PowerShot SX420 Digital Camera w/ 42x Optical Zoom - Wi-Fi & NFC Enabled (Black)`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
