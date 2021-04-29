@@ -343,7 +343,25 @@ function getData(){
 			B00R6Z4R42: {href: "https://amzn.to/3eFjPJh",nameProduct: `Greenworks PRO 18-Inch 80V Cordless Chainsaw, 2.0 AH Battery Included GCS80420`,image: '',summary: ``,slug: ""},
 			B019VXKUDI: {href: "https://amzn.to/3aOSza3",nameProduct: `Greenworks PRO 21-Inch 80V Cordless Lawn Mower, 4Ah Battery and Charger Included 2501202`,image: '',summary: ``,slug: ""},
 			B00Y9PZEP8: {href: "https://amzn.to/3eBXXyE",nameProduct: `GreenWorks 2600402 Pro 80V 20-Inch Cordless Snow Thrower, 2Ah Battery & Charger Included`,image: '',summary: ``,slug: ""},
-			B00E07D76S: {href: "https://amzn.to/2R2LX0R",nameProduct: `Panasonic FlashXpress Compact Toaster Oven with Double Infrared Heating, Crumb Tray and 1300 Watts of Cooking Power – 4 Slice Countertop Toaster Oven - NB-G110P-W (White)`,image: '',summary: ``,slug: ""}
+			B00E07D76S: {href: "https://amzn.to/2R2LX0R",nameProduct: `Panasonic FlashXpress Compact Toaster Oven with Double Infrared Heating, Crumb Tray and 1300 Watts of Cooking Power – 4 Slice Countertop Toaster Oven - NB-G110P-W (White)`,image: '',summary: ``,slug: ""},
+			B01LWB2LIX: {href: "https://amzn.to/3dZyKyY",nameProduct: `Polk Signature Series S55 Floor Standing Speaker - American HiFi Surround Sound for TV, Music, and Movies | Stylish Looks, Big Sound | Bi-wire and Bi-amp | Detachable Magnetic Grille Included, Black`,image: '',summary: ``,slug: ""},
+			B00JVGTZWI: {href: "https://amzn.to/2SdVxi4",nameProduct: `Waring Pro FS155AMZ Professional Food Slicer, Stainless Steel`,image: '',summary: ``,slug: ""},
+			B01K9OM9NW: {href: "https://amzn.to/2QxV7CQ",nameProduct: `Canon imageCLASS MF249dw Wireless, Multifunction, Duplex Laser Printer`,image: '',summary: ``,slug: ""},
+			B00UL4RQ3O: {href: "https://amzn.to/3aL13PK",nameProduct: `HP Color B5L25A#BGJ LaserJet Enterprise M553dn with HP FutureSmart Firmware`,image: '',summary: ``,slug: ""},
+			B00TSET2DU: {href: "https://amzn.to/3gMJy5p",nameProduct: `Q Acoustics 3050 Floorstanding Speaker Pair (Graphite)`,image: '',summary: ``,slug: ""},
+			B0090X08JG: {href: "https://amzn.to/3u4FHUP",nameProduct: `Sole Fitness E35 Elliptical Machine`,image: '',summary: ``,slug: ""},
+			B01LWP96IP: {href: "https://amzn.to/3eFG1mD",nameProduct: `ProForm Endurance 920 E Elliptical`,image: '',summary: ``,slug: ""},
+			B07864RVS9: {href: "https://amzn.to/3u38RDY",nameProduct: `Bowflex Results Elliptical Series`,image: '',summary: ``,slug: ""},
+			B07HPZP778: {href: "https://amzn.to/3aNxIE1",nameProduct: `NordicTrack NTEL71218 Commercial 12.9,Gray`,image: '',summary: ``,slug: ""},
+			B00C351GBC: {href: "https://amzn.to/3e1tA5k",nameProduct: `Shark Navigator Freestyle Upright Stick Cordless Bagless Vacuum for Carpet, Hard Floor and Pet with XL Dust Cup and 2-Speed Brushroll (SV1106), White/Grey`,image: '',summary: ``,slug: ""},
+			B001PB8EJ2: {href: "https://amzn.to/2R5zfyo",nameProduct: `Hoover Linx Cordless Stick Vacuum Cleaner, Lightweight, BH50010, Grey`,image: '',summary: ``,slug: ""},
+			B01DAI5LPM: {href: "https://amzn.to/3gLPX0q",nameProduct: `BLACK+DECKER Cordless Stick Vacuum & Hand Vac, 2-in-1, Sea Blue (HSV420J42)`,image: '',summary: ``,slug: ""},
+			B079VPVNJM: {href: "https://amzn.to/3u3u9kU",nameProduct: `BISSELL PowerForce Helix Bagless Upright Vacuum (new and improved version of 1700), 2191`,image: '',summary: ``,slug: ""},
+			B00SKJPVY8: {href: "https://amzn.to/3aJGQJW",nameProduct: `Frigidaire FGGC3645QS - Frigidaire Gallery 36 inch Gas Cooktop in Stainless Steel`,image: '',summary: ``,slug: ""},
+			B00D3KJN3O: {href: "https://amzn.to/3u2o2NJ",nameProduct: `Greenworks 10-Inch 8 Amp Corded Tiller 27072`,image: '',summary: ``,slug: ""},
+			B00V6IEVXM: {href: "https://amzn.to/2S4gKuE",nameProduct: `Sun Joe TJ603E 16-Inch 12-Amp Electric Tiller and Cultivator`,image: '',summary: ``,slug: ""},
+			B01FRFKQ6U: {href: "https://amzn.to/3xyb7p2",nameProduct: `Frigidaire FFTA1233S1 Wall Air Conditioner, 12000 BTU Cool, 115V, White`,image: '',summary: ``,slug: ""},
+			B074G57DYJ: {href: "https://amzn.to/3xIypZo",nameProduct: `EGO LM2102SP 21" Self Propelled Lawnmower with 7.5AH Battery & Rapid Charger`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
