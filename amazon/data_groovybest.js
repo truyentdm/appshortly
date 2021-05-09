@@ -299,7 +299,14 @@ function getData(){
 			B0089UA1ZC: {href: "https://amzn.to/3xv5FTR",nameProduct: `Robot Coupe - 4581 R2N Continuous Feed Combination Food Processor with 3-Quart Polycarbonate Bowl, 1-HP, 120-Volts`,image: '',summary: ``,slug: ""},
 			B005ZXK5L6: {href: "https://amzn.to/3aIxePG",nameProduct: `Vitamix 36019 36019-1 Vita-Mix Quiet One Blender 48 oz, Black`,image: '',summary: ``,slug: ""},
 			B00B1D4XNU: {href: "https://amzn.to/3exEqzj",nameProduct: `Hobart LXEC-3 Undercounter Dishwasher - Chemical Sanitizing Unit`,image: '',summary: ``,slug: ""},
-			B00E07D76S: {href: "https://amzn.to/3xysyFN",nameProduct: `Panasonic FlashXpress Compact Toaster Oven with Double Infrared Heating, Crumb Tray and 1300 Watts of Cooking Power – 4 Slice Countertop Toaster Oven - NB-G110P-W (White)`,image: '',summary: ``,slug: ""}
+			B00E07D76S: {href: "https://amzn.to/3xysyFN",nameProduct: `Panasonic FlashXpress Compact Toaster Oven with Double Infrared Heating, Crumb Tray and 1300 Watts of Cooking Power – 4 Slice Countertop Toaster Oven - NB-G110P-W (White)`,image: '',summary: ``,slug: ""},
+			B074NDQ143: {href: "https://amzn.to/33qokT1",nameProduct: `Vibe Gel Memory Foam 12-Inch Mattress | CertiPUR-US Certified | Bed-in-a-Box, Queen`,image: '',summary: ``,slug: ""},
+			B08D3HTX73: {href: "https://amzn.to/2R6rLvh",nameProduct: `Tineco A11 Hero EX Cordless Lightweight Stick/Handheld Vacuum Cleaner, Powerful Suction for Carpet, Hard Floor & Pet`,image: '',summary: ``,slug: ""},
+			B07C5MXJMX: {href: "https://amzn.to/3y02jZh",nameProduct: `Tineco A10 Hero Cordless Stick/Handheld Vacuum Cleaner, Super Lightweight with Powerful Suction for Carpet, Hard Floor & Pet - Space Blue`,image: '',summary: ``,slug: ""},
+			B07R9KDNKL: {href: "https://amzn.to/3vVY5Qf",nameProduct: `Tineco A11 Hero Cordless Lightweight Stick/Handheld Vacuum Cleaner, 450W Motor for Ultra Powerful Suction for Carpet, Hard Floor & Pet`,image: '',summary: ``,slug: ""},
+			B08DHWH9PP: {href: "https://amzn.to/2QW6lRL",nameProduct: `Tineco A10 Hero Cordless Stick/Handheld Vacuum Cleaner with Wall Mount, Super Lightweight with Powerful Suction for Carpet, Hard Floor & Pet - Space Blue`,image: '',summary: ``,slug: ""},
+			B07MDKQMRY: {href: "https://amzn.to/3vR4Anr",nameProduct: `JASHEN Cordless Stick Vacuum, Powerful Stick Vacuum Cleaner Lightweight Handheld Vacuum with Rechargeable Battery and LED Brush for Hard Floor Carpet Pet Hair Car (Blue1)`,image: '',summary: ``,slug: ""},
+			B07FFKYCRL: {href: "https://amzn.to/2SykGnH",nameProduct: `Tineco A11 Hero Cordless Lightweight Stick/Handheld Vacuum Cleaner, 450W Motor for Ultra Powerful Suction for Carpet, Hard Floor & Pet`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
