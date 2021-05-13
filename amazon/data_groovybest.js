@@ -306,7 +306,14 @@ function getData(){
 			B07R9KDNKL: {href: "https://amzn.to/3vVY5Qf",nameProduct: `Tineco A11 Hero Cordless Lightweight Stick/Handheld Vacuum Cleaner, 450W Motor for Ultra Powerful Suction for Carpet, Hard Floor & Pet`,image: '',summary: ``,slug: ""},
 			B08DHWH9PP: {href: "https://amzn.to/2QW6lRL",nameProduct: `Tineco A10 Hero Cordless Stick/Handheld Vacuum Cleaner with Wall Mount, Super Lightweight with Powerful Suction for Carpet, Hard Floor & Pet - Space Blue`,image: '',summary: ``,slug: ""},
 			B07MDKQMRY: {href: "https://amzn.to/3vR4Anr",nameProduct: `JASHEN Cordless Stick Vacuum, Powerful Stick Vacuum Cleaner Lightweight Handheld Vacuum with Rechargeable Battery and LED Brush for Hard Floor Carpet Pet Hair Car (Blue1)`,image: '',summary: ``,slug: ""},
-			B07FFKYCRL: {href: "https://amzn.to/2SykGnH",nameProduct: `Tineco A11 Hero Cordless Lightweight Stick/Handheld Vacuum Cleaner, 450W Motor for Ultra Powerful Suction for Carpet, Hard Floor & Pet`,image: '',summary: ``,slug: ""}
+			B07FFKYCRL: {href: "https://amzn.to/2SykGnH",nameProduct: `Tineco A11 Hero Cordless Lightweight Stick/Handheld Vacuum Cleaner, 450W Motor for Ultra Powerful Suction for Carpet, Hard Floor & Pet`,image: '',summary: ``,slug: ""},
+			B078WNSQS1: {href: "https://amzn.to/33ILKTH",nameProduct: `Queen Mattress, Sweetnight Breeze 12 Inch Queen Size Mattress Medium Firm, Ventilated Memory Foam Mattress for a Deep Sleep, Supportive & Pressure Relief`,image: '',summary: ``,slug: ""},
+			B07DWYYVWY: {href: "https://amzn.to/3fdx5Fi",nameProduct: `Phiestina 24 Inch Built In Dual Zone Wine and Beverage Cooler with French Door`,image: '',summary: ``,slug: ""},
+			B089DMYHQW: {href: "https://amzn.to/3y6bEP3",nameProduct: `Portable Single Tub Washer - The Laundry Alternative - Washing Capacity Less Than 1.2Kg - Portable Clothes Washer For Small Clothes Like Socks, Undergarments Etc - Travel Washing Machine`,image: '',summary: ``,slug: ""},
+			B083G9WVNC: {href: "https://amzn.to/2Qe5N9h",nameProduct: `Panda PAN6320W Portable Machine, 10lbs Capacity, 10 Wash Programs, 2 Built in Rollers/casters, Compact Top Load Cloth Washer, 1.34 Cu.ft, Gray`,image: '',summary: ``,slug: ""},
+			B07STLLSWF: {href: "https://amzn.to/3y7ohJD",nameProduct: `Farberware Professional FCW10BSCWHA 1.0 Cu. Ft. Portable Clothes Washer with 7-lb Load Capacity, Silver & Chrome`,image: '',summary: ``,slug: ""},
+			B07NY9Z3YX: {href: "https://amzn.to/3hovsHq",nameProduct: `Panda PAN60SF-01 Compact Portable Dryer 3.5 cu.ft, White`,image: '',summary: ``,slug: ""},
+			B08P5Q6Y2Q: {href: "https://amzn.to/3yaPqve",nameProduct: `KUPPET Mini Portable Washing Machine for Compact Laundry, 7.7lbs Capacity, Small Semi-Automatic Compact Washer with Timer Control Single Translucent Tub`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
