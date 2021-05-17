@@ -313,7 +313,14 @@ function getData(){
 			B083G9WVNC: {href: "https://amzn.to/2Qe5N9h",nameProduct: `Panda PAN6320W Portable Machine, 10lbs Capacity, 10 Wash Programs, 2 Built in Rollers/casters, Compact Top Load Cloth Washer, 1.34 Cu.ft, Gray`,image: '',summary: ``,slug: ""},
 			B07STLLSWF: {href: "https://amzn.to/3y7ohJD",nameProduct: `Farberware Professional FCW10BSCWHA 1.0 Cu. Ft. Portable Clothes Washer with 7-lb Load Capacity, Silver & Chrome`,image: '',summary: ``,slug: ""},
 			B07NY9Z3YX: {href: "https://amzn.to/3hovsHq",nameProduct: `Panda PAN60SF-01 Compact Portable Dryer 3.5 cu.ft, White`,image: '',summary: ``,slug: ""},
-			B08P5Q6Y2Q: {href: "https://amzn.to/3yaPqve",nameProduct: `KUPPET Mini Portable Washing Machine for Compact Laundry, 7.7lbs Capacity, Small Semi-Automatic Compact Washer with Timer Control Single Translucent Tub`,image: '',summary: ``,slug: ""}
+			B08P5Q6Y2Q: {href: "https://amzn.to/3yaPqve",nameProduct: `KUPPET Mini Portable Washing Machine for Compact Laundry, 7.7lbs Capacity, Small Semi-Automatic Compact Washer with Timer Control Single Translucent Tub`,image: '',summary: ``,slug: ""},
+			B07ST8JBCR: {href: "https://amzn.to/3uUighB",nameProduct: `COSTWAY Portable Air Conditioner 8000 BTU with Remote Control, Energy Efficient for Rooms Up to 230 Sq. Ft, Cooling, Dehumidifying, Fanning, Sleeping Mode, Time Settings, Water Full Indication`,image: '',summary: ``,slug: ""},
+			B01GLJTXLU: {href: "https://amzn.to/3uTQFwU",nameProduct: `Arctic King WPPH-08CR5 8,000-BTU Cool Only Room Portable Air Conditioner, White`,image: '',summary: ``,slug: ""},
+			B088Z96476: {href: "https://amzn.to/3bAtD6O",nameProduct: `Portable Air Conditioner Fan, Personal Space Evaporative Air Cooler Rechargeable USB Desk Fan with LED Light, 3 Speeds, Super Quiet Humidifier Misting Cooling Fan for Home Office Bedroom`,image: '',summary: ``,slug: ""},
+			B01DLPUWG2: {href: "https://amzn.to/3ygw5ZK",nameProduct: `BLACK+DECKER BPACT10WT Portable Air Conditioner, 5,500 BTU DOE (10,000 BTU Ashrae), White`,image: '',summary: ``,slug: ""},
+			B087CQVC9G: {href: "https://amzn.to/2SSuDfT",nameProduct: `MIDEA MAP08R1CWT 3-in-1 Portable Air Conditioner, Dehumidifier, Fan, for Rooms up to 150 sq ft, 8,000 BTU (5,300 BTU SACC) control with Remote , White`,image: '',summary: ``,slug: ""},
+			B088LTVMDL: {href: "https://amzn.to/2RhWK84",nameProduct: `Midea Smart 3-in-1 Portable Air Conditioner, Dehumidifier, Fan for Large Rooms up to 275 sq ft 12,000 BTU (6,500 BTU SACC) control with Remote, Smartphone or Alexa`,image: '',summary: ``,slug: ""},
+			B072B8SGKY: {href: "https://amzn.to/3bxDXMB",nameProduct: `BLACK+DECKER Portable Air Conditioner, 12,000 BTU with Heat, w, White`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
