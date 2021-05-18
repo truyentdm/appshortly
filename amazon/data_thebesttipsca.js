@@ -367,7 +367,19 @@ function getData(){
 			B07CG725M4: {href: "https://amzn.to/3t2XOcK",nameProduct: `HOMCOM Single Person 3 Position Convertible Couch Chaise Lounger Sofa Bed, Cream White`,image: '',summary: ``,slug: ""},
 			B07FX7394L: {href: "https://amzn.to/3t3jANp",nameProduct: `SHARK ION Robot Vacuum R85 WiFi-Connected with Powerful Suction, XL Dust Bin, Self-Cleaning Brushroll and Voice Control with Alexa or Google Assistant (RV850)`,image: '',summary: ``,slug: ""},
 			B075X59T4T: {href: "https://amzn.to/3e2QJED",nameProduct: `Illy Y5 Espresso & Coffee Machine, Bluetooth, Amazon Dash Replenishment Enabled`,image: '',summary: ``,slug: ""},
-			B019UDI5PO: {href: "https://amzn.to/2Sf8OHd",nameProduct: `Canon PowerShot SX420 Digital Camera w/ 42x Optical Zoom - Wi-Fi & NFC Enabled (Black)`,image: '',summary: ``,slug: ""}
+			B019UDI5PO: {href: "https://amzn.to/2Sf8OHd",nameProduct: `Canon PowerShot SX420 Digital Camera w/ 42x Optical Zoom - Wi-Fi & NFC Enabled (Black)`,image: '',summary: ``,slug: ""},
+			B07F39F6Z5: {href: "https://amzn.to/3bysIUu",nameProduct: `Intex 32ft X 16ft X 52in Ultra XTR Rectangular Pool Set with Sand Filter Pump & Saltwater System, Ladder, Ground Cloth, Pool Cover, Maintenance Kit & Volleyball`,image: '',summary: ``,slug: ""},
+			B07TDP2MMQ: {href: "https://amzn.to/3fkAlig",nameProduct: `KUPPET Compact Twin Tub Portable Mini Washing Machine 26lbs Capacity, Washer(18lbs)&Spiner(8lbs)`,image: '',summary: ``,slug: ""},
+			B06Y28L3S1: {href: "https://amzn.to/3wj6TjD",nameProduct: `COSTWAY Mini Washing Machine, Portable Washer for Compact Laundry, Small Semi-Automatic Compact Washing Machine`,image: '',summary: ``,slug: ""},
+			B01D3FOD0Q: {href: "https://amzn.to/3hzeuXe",nameProduct: `LG LW8016ER 8,000 BTU 115V Window-Mounted AIR Conditioner with Remote Control`,image: '',summary: ``,slug: ""},
+			B079QYYGF1: {href: "https://amzn.to/3wakkCn",nameProduct: `eufy BoostIQ RoboVac 11S (Slim), Robot Vacuum Cleaner`,image: '',summary: ``,slug: ""},
+			B07CVB53XY: {href: "https://amzn.to/3u2iPEY",nameProduct: `KUPPET Mini Portable Washing Machine`,image: '',summary: ``,slug: ""},
+			B07F39F6Z5: {href: "https://amzn.to/3op1iW9",nameProduct: `Intex 32ft X 16ft X 52in Ultra XTR Rectangular Pool Set with Sand Filter Pump & Saltwater System, Ladder, Ground Cloth, Pool Cover, Maintenance Kit & Volleyball`,image: '',summary: ``,slug: ""},
+			B07PQW4KJ4: {href: "https://amzn.to/33PB85h",nameProduct: `Intex 26373EH 32ft x 16ft x 52in Ultra XTR Frame Above Ground Rectangular Swimming Pool Set with Sand Filter Pump, Ladder, Cover, & Maintenance Kit`,image: '',summary: ``,slug: ""},
+			B089YSKJY6: {href: "https://amzn.to/2Qs5FmR",nameProduct: `COMFEE’ 1.6 Cu.ft Portable Washing Machine, 11lbs Capacity Fully Automatic Compact Washer with Wheels, 6 Wash Programs Laundry Washer with Drain Pump, Ideal for Apartments, RV, Camping, Magnetic Gray`,image: '',summary: ``,slug: ""},
+			B07HKXVQYC: {href: "https://amzn.to/3wgtRIe",nameProduct: `Giantex Portable Compact Full-Automatic Laundry 8 lbs Load Capacity Washing Machine Washer/Spinner W/Drain Pump`,image: '',summary: ``,slug: ""},
+			B0799Q45TT: {href: "https://amzn.to/3eVoHvj",nameProduct: `Black + Decker BPWM09W Portable Washer`,image: '',summary: ``,slug: ""},
+			B07B4L1LHB: {href: "https://amzn.to/3ftgMnN",nameProduct: `Eureka Power Speed NEU188A PowerSpeed Turbo Spotlight Lightweight Upright Vacuum Cleaner for Carpet and Hard Floor, Orange`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
