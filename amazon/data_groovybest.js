@@ -320,7 +320,14 @@ function getData(){
 			B01DLPUWG2: {href: "https://amzn.to/3ygw5ZK",nameProduct: `BLACK+DECKER BPACT10WT Portable Air Conditioner, 5,500 BTU DOE (10,000 BTU Ashrae), White`,image: '',summary: ``,slug: ""},
 			B087CQVC9G: {href: "https://amzn.to/2SSuDfT",nameProduct: `MIDEA MAP08R1CWT 3-in-1 Portable Air Conditioner, Dehumidifier, Fan, for Rooms up to 150 sq ft, 8,000 BTU (5,300 BTU SACC) control with Remote , White`,image: '',summary: ``,slug: ""},
 			B088LTVMDL: {href: "https://amzn.to/2RhWK84",nameProduct: `Midea Smart 3-in-1 Portable Air Conditioner, Dehumidifier, Fan for Large Rooms up to 275 sq ft 12,000 BTU (6,500 BTU SACC) control with Remote, Smartphone or Alexa`,image: '',summary: ``,slug: ""},
-			B072B8SGKY: {href: "https://amzn.to/3bxDXMB",nameProduct: `BLACK+DECKER Portable Air Conditioner, 12,000 BTU with Heat, w, White`,image: '',summary: ``,slug: ""}
+			B072B8SGKY: {href: "https://amzn.to/3bxDXMB",nameProduct: `BLACK+DECKER Portable Air Conditioner, 12,000 BTU with Heat, w, White`,image: '',summary: ``,slug: ""},
+			B07H2NP7PR: {href: "https://amzn.to/3hRgcD8",nameProduct: `Intex Round Prism Frame Pool Set | 15ft x 42" | 26723EH model`,image: '',summary: ``,slug: ""},
+			B00OX5B7U0: {href: "https://amzn.to/3bKkFE9",nameProduct: `Intex 18ft X 52in Ultra Frame Pool Set with Sand Filter Pump`,image: '',summary: ``,slug: ""},
+			B07QD828CM: {href: "https://amzn.to/3fRbN0L",nameProduct: `Intex 20ft x 48in Ultra XTR Round Frame Above Ground Pool Set & Water Test Kit`,image: '',summary: ``,slug: ""},
+			B073FPL13F: {href: "https://amzn.to/3yseQVr",nameProduct: `Intex 24ft X 12ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,image: '',summary: ``,slug: ""},
+			B08GQGNCC6: {href: "https://amzn.to/2RvMQQi",nameProduct: `Intex 28106EH 8 X 24 Inch Easy Set Inflatable Puncture Resistant Circular Above Ground Portable Outdoor Family Swimming Pool, Blue`,image: '',summary: ``,slug: ""},
+			B073FMDBLJ: {href: "https://amzn.to/3faOLCS",nameProduct: `Intex 18ft X 9ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,image: '',summary: ``,slug: ""},
+			B08158DL5Q: {href: "https://amzn.to/3ywD68Q",nameProduct: `Intex 28157EH Easy Set Pool Set Toy`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
