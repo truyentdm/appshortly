@@ -393,7 +393,23 @@ function getData(){
 			B018RWQ16Y: {href: "https://amzn.to/3fzWcCA",nameProduct: `Atlantic Furniture Nantucket Murphy Bed Chest with Charging Station & Mattress`,image: '',summary: ``,slug: ""},
 			B01MUDUCNM: {href: "https://amzn.to/3c4l6cD",nameProduct: `Troy-Bilt 382cc 30-Inch Premium Neighborhood Riding Lawn Mower`,image: '',summary: ``,slug: ""},
 			B07GH1DJYB: {href: "https://amzn.to/3vfmxwb",nameProduct: `AARKE - CARBONATOR II (PREMIUM CARBONATOR/SPARKLING WATER MAKER) (Stainless Steel)`,image: '',summary: ``,slug: ""},
-			B0043E6PLC: {href: "https://amzn.to/3bJPtEO",nameProduct: `BLACK+DECKER Countertop Convection Toaster Oven, Silver, CTO6335S`,image: '',summary: ``,slug: ""}
+			B0043E6PLC: {href: "https://amzn.to/3bJPtEO",nameProduct: `BLACK+DECKER Countertop Convection Toaster Oven, Silver, CTO6335S`,image: '',summary: ``,slug: ""},
+			B00GM32RIC: {href: "https://amzn.to/3v8fRjo",nameProduct: `Friedrich Chill Series CP24G30B Window Air Conditioner, 24,000/23,500 BTU, 230/208v, ENERGY STAR`,image: '',summary: ``,slug: ""},
+			B0784ZKVKF: {href: "https://amzn.to/3uaFKxP",nameProduct: `Camp Chef SmokePro DLX Pellet Grill (Black) with Sear Box (PG24-PGSEAR)`,image: '',summary: ``,slug: ""},
+			B076QJNK8G: {href: "https://amzn.to/3yzn9P8",nameProduct: `Mealthy MultiPot 9-in-1 Programmable Pressure Cooker 6 Quarts with Stainless Steel Pot, Steamer Basket, instant access to recipe app. Pressure cook, slow cook, sauté, rice cooker, yogurt, steam`,image: '',summary: ``,slug: ""},
+			B07RXPJMXL: {href: "https://amzn.to/2SdzsAa",nameProduct: `Aobosi 15 Inch Wine Cooler, 28 Bottle Dual Zone Wine Refrigerator with Stainless Steel Tempered Glass Door, Temp Memory Function, Fit Champagne Bottles, Freestanding and Built-in Style`,image: '',summary: ``,slug: ""},
+			B07GNPDMRP: {href: "https://amzn.to/3vefnsb",nameProduct: `iRobot Roomba i7+ (7550) Robot Vacuum with Automatic Dirt Disposal-Empties Itself, Wi-Fi Connected, Smart Mapping, Works with Alexa, Ideal for Pet Hair, Carpets, Hard Floors, Black`,image: '',summary: ``,slug: ""},
+			B07MCDL9N3: {href: "https://amzn.to/3vctnCt",nameProduct: `hOmeLabs Freestanding Commercial Ice Maker Machine - Makes 99 Pounds Ice in 24 hrs with 29 Pounds Storage Capacity - Ideal for Restaurants, Bars, Homes and Offices - Includes Scoop and Connection Hose`,image: '',summary: ``,slug: ""},
+			B07MKLJLY4: {href: "https://amzn.to/3fbSD6t",nameProduct: `Seatcraft Pantheon Big & Tall 400 lbs Capacity Home Theater Seating Leather Power Recline with Adjustable Powered Headrest and Lumbar Support, SoundShaker, and Lighted Cup Holders (Black)`,image: '',summary: ``,slug: ""},
+			B00JJZ1A9M: {href: "https://amzn.to/347s2kF",nameProduct: `Brentwood Home Cypress Cooling Gel Memory Foam Mattress, Non-toxic, Made in California, 13-Inch, King Size`,image: '',summary: ``,slug: ""},
+			B00PK4XY90: {href: "https://amzn.to/3fbb1ML",nameProduct: `BLACK+DECKER Cordless Drill Combo Kit with Case, 6-Tool (BDCDMT1206KITC)`,image: '',summary: ``,slug: ""},
+			B084H4DR2W: {href: "https://amzn.to/3oI1Jew",nameProduct: `hOmeLabs 14,000 BTU Portable Air Conditioner - Quiet AC Cools Rooms 450 to 600 Square Feet - Air Conditioning Machine with 100 Pint Dehumidifier Function, Remote Control and Washable Filte`,image: '',summary: ``,slug: ""},
+			B07H781NMC: {href: "https://amzn.to/3vbmtNW",nameProduct: `WOODBRIDGE T-0019, Dual Flush Elongated One Piece Toilet with Soft Closing Seat, Comfort Height, Water Sense, High-Efficiency, Rectangle Button, Cotton White`,image: '',summary: ``,slug: ""},
+			B071FFSN22: {href: "https://amzn.to/3ww0AJF",nameProduct: `Milliard Universal Rollaway Folding Bed Storage Cover, Only Fits 31-Inch, Single Size Beds, Zipper for Easy on and Off Guest Beds`,image: '',summary: ``,slug: ""},
+			B01HFNDXOO: {href: "https://amzn.to/3yuMslF",nameProduct: `Merrell Men's Moab 2 Waterproof Hiking Shoe`,image: '',summary: ``,slug: ""},
+			B071VLNVMD: {href: "https://amzn.to/3bLKLqd",nameProduct: `Tempur-PedicTEMPUR-CloudLuxe Breeze 13.5-Inch Extra-Soft Cooling Foam Mattress, Queen, Made in USA, 10 Year Warranty`,image: '',summary: ``,slug: ""},
+			B07SS48CC7: {href: "https://amzn.to/3wxaue5",nameProduct: `Hayward Pool Heat Pump, 140,000 BTU`,image: '',summary: ``,slug: ""},
+			B01CS3J570: {href: "https://amzn.to/3wj11a2",nameProduct: `Honeywell 10000 Btu Portable Air Conditioner, Dehumidifier & Fan for Rooms Up to 350-450 Sq. Ft with Remote Control, HL10CESWK`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
