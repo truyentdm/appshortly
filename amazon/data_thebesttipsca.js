@@ -379,7 +379,21 @@ function getData(){
 			B089YSKJY6: {href: "https://amzn.to/2Qs5FmR",nameProduct: `COMFEE’ 1.6 Cu.ft Portable Washing Machine, 11lbs Capacity Fully Automatic Compact Washer with Wheels, 6 Wash Programs Laundry Washer with Drain Pump, Ideal for Apartments, RV, Camping, Magnetic Gray`,image: '',summary: ``,slug: ""},
 			B07HKXVQYC: {href: "https://amzn.to/3wgtRIe",nameProduct: `Giantex Portable Compact Full-Automatic Laundry 8 lbs Load Capacity Washing Machine Washer/Spinner W/Drain Pump`,image: '',summary: ``,slug: ""},
 			B0799Q45TT: {href: "https://amzn.to/3eVoHvj",nameProduct: `Black + Decker BPWM09W Portable Washer`,image: '',summary: ``,slug: ""},
-			B07B4L1LHB: {href: "https://amzn.to/3ftgMnN",nameProduct: `Eureka Power Speed NEU188A PowerSpeed Turbo Spotlight Lightweight Upright Vacuum Cleaner for Carpet and Hard Floor, Orange`,image: '',summary: ``,slug: ""}
+			B07B4L1LHB: {href: "https://amzn.to/3ftgMnN",nameProduct: `Eureka Power Speed NEU188A PowerSpeed Turbo Spotlight Lightweight Upright Vacuum Cleaner for Carpet and Hard Floor, Orange`,image: '',summary: ``,slug: ""},
+			B07FPXSQF3: {href: "https://amzn.to/2SeVJxE",nameProduct: `Buffy Comforter - Cloud King Comforter - Eucalyptus Fabric - Hypoallergenic Bedding - Alternative Down Comforter - King/Cal King`,image: '',summary: ``,slug: ""},
+			B07G5M9ZXH: {href: "https://amzn.to/3f79046",nameProduct: `Hurom H-AI-SBB20 H-AI, Platinum Slow Juicer`,image: '',summary: ``,slug: ""},
+			B0037XIP22: {href: "https://amzn.to/2RFZfkD",nameProduct: `BUNN 33200.0015 VPR-2GD 12-Cup Pourover Commercial Coffee Brewer with Upper and Lower Warmers and 2 Glass Decanters, Black (120V/60/1PH)`,image: '',summary: ``,slug: ""},
+			B0091YYUAM: {href: "https://amzn.to/3bLuUba",nameProduct: `BISSELL PowerFresh Steam Mop, Floor Steamer, Tile Cleaner, and Hard Wood Floor Cleaner, 1940`,image: '',summary: ``,slug: ""},
+			B00VEA2904: {href: "https://amzn.to/346Av7D",nameProduct: `DEWALT 20V MAX Portable Band Saw, Deep Cut, Tool Only (DCS374B)`,image: '',summary: ``,slug: ""},
+			B013E9L4ZS: {href: "https://amzn.to/2QEjTRw",nameProduct: `iRobot Roomba 980 Wi-Fi Connected Vacuuming Robot`,image: '',summary: ``,slug: ""},
+			B06XK7GBM6: {href: "https://amzn.to/34dAzlX",nameProduct: `Breville BSG600BSS Panini Press, Silver`,image: '',summary: ``,slug: ""},
+			B004323NNC: {href: "https://amzn.to/346cJIX",nameProduct: `Bosch Power Tools GCM12SD - 15 Amp 12 Inch Corded Dual-Bevel Sliding Glide Miter Saw with 60 Tooth Saw Blade`,image: '',summary: ``,slug: ""},
+			B072VLKC4P: {href: "https://amzn.to/2SfgER1",nameProduct: `Signature Design by Ashley Yandel Power Lift Oversized Recliner Saddle`,image: '',summary: ``,slug: ""},
+			B07RN1GRBQ: {href: "https://amzn.to/3oJmQwL",nameProduct: `SereneLife 12,000 BTU Portable Air Conditioner + 12,000 BTU Heater, 4-in-1 AC Unit with Built-in Dehumidifier, Fan Modes, Remote Control, Complete Window Exhaust Kit for Rooms Up to 450 Sq. Ft`,image: '',summary: ``,slug: ""},
+			B018RWQ16Y: {href: "https://amzn.to/3fzWcCA",nameProduct: `Atlantic Furniture Nantucket Murphy Bed Chest with Charging Station & Mattress`,image: '',summary: ``,slug: ""},
+			B01MUDUCNM: {href: "https://amzn.to/3c4l6cD",nameProduct: `Troy-Bilt 382cc 30-Inch Premium Neighborhood Riding Lawn Mower`,image: '',summary: ``,slug: ""},
+			B07GH1DJYB: {href: "https://amzn.to/3vfmxwb",nameProduct: `AARKE - CARBONATOR II (PREMIUM CARBONATOR/SPARKLING WATER MAKER) (Stainless Steel)`,image: '',summary: ``,slug: ""},
+			B0043E6PLC: {href: "https://amzn.to/3bJPtEO",nameProduct: `BLACK+DECKER Countertop Convection Toaster Oven, Silver, CTO6335S`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
