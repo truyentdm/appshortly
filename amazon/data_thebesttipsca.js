@@ -409,7 +409,21 @@ function getData(){
 			B01HFNDXOO: {href: "https://amzn.to/3yuMslF",nameProduct: `Merrell Men's Moab 2 Waterproof Hiking Shoe`,image: '',summary: ``,slug: ""},
 			B071VLNVMD: {href: "https://amzn.to/3bLKLqd",nameProduct: `Tempur-PedicTEMPUR-CloudLuxe Breeze 13.5-Inch Extra-Soft Cooling Foam Mattress, Queen, Made in USA, 10 Year Warranty`,image: '',summary: ``,slug: ""},
 			B07SS48CC7: {href: "https://amzn.to/3wxaue5",nameProduct: `Hayward Pool Heat Pump, 140,000 BTU`,image: '',summary: ``,slug: ""},
-			B01CS3J570: {href: "https://amzn.to/3wj11a2",nameProduct: `Honeywell 10000 Btu Portable Air Conditioner, Dehumidifier & Fan for Rooms Up to 350-450 Sq. Ft with Remote Control, HL10CESWK`,image: '',summary: ``,slug: ""}
+			B01CS3J570: {href: "https://amzn.to/3wj11a2",nameProduct: `Honeywell 10000 Btu Portable Air Conditioner, Dehumidifier & Fan for Rooms Up to 350-450 Sq. Ft with Remote Control, HL10CESWK`,image: '',summary: ``,slug: ""},
+			B07XJBRXHX: {href: "https://amzn.to/3oLotKn",nameProduct: `Ootori A900 Massage Chair Recliner,SL Track 3D Hand Zero Gravity Massage Chairs,Full Body Airbag Calves, 3 levels Intensity Adjustable,Yoga Stretching, Bluetooth Speaker&Foot Roller(Black)`,image: '',summary: ``,slug: ""},
+			B077561ZMM: {href: "https://amzn.to/3oGFe9s",nameProduct: `Medical Breakthrough 4 v2 Recliner Massage Chair | Full Body Shiatsu Heated Massage Chair | Zero Gravity Electric Recliner | Foot Rollers, Calf, Arms, Shoulder, Neck & Back Massager - (Black)`,image: '',summary: ``,slug: ""},
+			B00LEYJ76Y: {href: "https://amzn.to/3wt8kfu",nameProduct: `Panasonic EP-MA73KU Real Pro Ultra Prestige 3D Luxury Heated Massage Chair, Black`,image: '',summary: ``,slug: ""},
+			B075ZLRZWD: {href: "https://amzn.to/2SmZDEo",nameProduct: `simplehuman Sensor Lighted Makeup Vanity Mirror, 8" Round With Touch-Control Brightness, 5x Magnification, Rose Gold Stainless Steel, Rechargeable And Cordless`,image: '',summary: ``,slug: ""},
+			B07NCJWZZN: {href: "https://amzn.to/3ueAxou",nameProduct: `Keter 7.5-Gal Cool Bar Rattan Style Outdoor Patio Pool Cooler Table, Brown w/ Classic Accessories Veranda Cover`,image: '',summary: ``,slug: ""},
+			B07VC44C68: {href: "https://amzn.to/2QMjyfQ",nameProduct: `WORX WR150 L Lawnmower Landroid Robotic Mower, Orange`,image: '',summary: ``,slug: ""},
+			B008600U1K: {href: "https://amzn.to/3vfcqr8",nameProduct: `VacuMaid GV50PRO Wall Mounted Garage and Car Vacuum with 50 ft. Hose and Tools`,image: '',summary: ``,slug: ""},
+			B06XSKPPFZ: {href: "https://amzn.to/3oJ2nbG",nameProduct: `Polk Audio - 2.1-Channel Soundbar System with Wireless Subwoofer`,image: '',summary: ``,slug: ""},
+			B004SU7QQE: {href: "https://amzn.to/3fcxbOB",nameProduct: `JanSport TDN7 Big Student Backpack`,image: '',summary: ``,slug: ""},
+			B072WC5YNS: {href: "https://amzn.to/3yu054u",nameProduct: `Dahon Folding Bikes Vybe D7 Tour Deltec, 20 In. Wheel Size`,image: '',summary: ``,slug: ""},
+			B06XTNWVVV: {href: "https://amzn.to/3udOG5m",nameProduct: `Traeger Grills TFB65LZBC Texas Elite 34 Wood Pellet Grill & Smoker, 646 Sq. In. Cooking Capacity, Bronze`,image: '',summary: ``,slug: ""},
+			B079K4L5BD: {href: "https://amzn.to/3oDHlLq",nameProduct: `Zinus Ricardo Contemporary Upholstered 78.4 Inch Sofa / Living Room Couch, Chestnut Brown`,image: '',summary: ``,slug: ""},
+			B07SQ2MDQQ: {href: "https://amzn.to/3vfcCGS",nameProduct: `Hayward W3H400FDN Universal H-Series 400,000 BTU Pool and Spa Heater, Natural Gas`,image: '',summary: ``,slug: ""},
+			B073DCMKL4: {href: "https://amzn.to/3f9lrwi",nameProduct: `Woodbridgebath Woodbridge Luxury, Elongated One Piece Advanced Seat, T-0008, Bidet with Toilet`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
