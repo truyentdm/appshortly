@@ -427,7 +427,24 @@ function getData(){
 			B07FJ6THDT: {href: "https://amzn.to/3yz2Ktx",nameProduct: `Mid Century Lounge Chair with Ottoman, Modern Chair Classic Design, Natural Leather Palisander Wood, Heavy Duty Base Support for Living Room, Study, Lounge, Office`,image: '',summary: ``,slug: ""},
 			B07RHQ61T4: {href: "https://amzn.to/2Si3QcP",nameProduct: `Frigidaire, White Energy Star 8,000 BTU 115V Cool Connect Smart Window Air Conditioner with Wi-Fi Control`,image: '',summary: ``,slug: ""},
 			B003G45CKK: {href: "https://amzn.to/3ws43sG",nameProduct: `LIFE SMART 4 Person Plug & Play Square Hot Tub Spa with 13 Jets and Cover, Beige`,image: '',summary: ``,slug: ""},
-			B07RJTHMCK: {href: "https://amzn.to/2T3MLU8",nameProduct: `Frigidaire 10,000 BTU 115V Window-Mounted Compact Air Conditioner with Remote Control, White`,image: '',summary: ``,slug: ""}
+			B07RJTHMCK: {href: "https://amzn.to/2T3MLU8",nameProduct: `Frigidaire 10,000 BTU 115V Window-Mounted Compact Air Conditioner with Remote Control, White`,image: '',summary: ``,slug: ""},
+			B076MK5MHY: {href: "https://amzn.to/3vgSJPE",nameProduct: `Seatcraft Anthem Home Theater Seating Leather Multimedia Power Recline Sofa with Fold-Down Table, Adjustable Powered Headrests, Storage, AC/USB and Wireless Charging and Cup Holders (Black)`,image: '',summary: ``,slug: ""},
+			B01DD6C4TC: {href: "https://amzn.to/3oGbrxX",nameProduct: `Mr. Heater F274830 MH18BRV Big Buddy Grey Indoor-Safe Portable RV Propane Heater (4,000 , 9,000 and 18,000 BTU)`,image: '',summary: ``,slug: ""},
+			B01G5MZZ5Q: {href: "https://amzn.to/3vdWJRf",nameProduct: `Breville|PolyScience the Control Freak Temperature Controlled Commercial Induction Cooking System`,image: '',summary: ``,slug: ""},
+			B07CN38M23: {href: "https://amzn.to/3vik8AM",nameProduct: `Masterbuilt MB20071117 Digital Electric Smoker, 30 inch, Black`,image: '',summary: ``,slug: ""},
+			B0018RSEMU: {href: "https://amzn.to/3hNMWxh",nameProduct: `Chef’sChoice 15 Trizor XV EdgeSelect Professional Electric Knife Sharpener for Straight and Serrated Knives Diamond Abrasives Patented Sharpening System Made in USA, 3-Stage, Gray`,image: '',summary: ``,slug: ""},
+			B073FPL13F: {href: "https://amzn.to/3vkKu5u",nameProduct: `Intex 24ft X 12ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,image: '',summary: ``,slug: ""},
+			B00OX5B7U0: {href: "https://amzn.to/3hTrjfb",nameProduct: `Intex 18ft X 52in Ultra Frame Pool Set with Sand Filter Pump`,image: '',summary: ``,slug: ""},
+			B01DLPUWG2: {href: "https://amzn.to/3fIGswO",nameProduct: `BLACK+DECKER BPACT10WT Portable Air Conditioner, 5,500 BTU DOE (10,000 BTU Ashrae), White`,image: '',summary: ``,slug: ""},
+			B01GLJTXLU: {href: "https://amzn.to/3hMSwQp",nameProduct: `Arctic King WPPH-08CR5 8,000-BTU Cool Only Room Portable Air Conditioner, White`,image: '',summary: ``,slug: ""},
+			B07ST8JBCR: {href: "https://amzn.to/2QIwZ07",nameProduct: `COSTWAY Portable Air Conditioner 8000 BTU with Remote Control, Energy Efficient for Rooms Up to 230 Sq. Ft, Cooling, Dehumidifying, Fanning, Sleeping Mode, Time Settings, Water Full Indication`,image: '',summary: ``,slug: ""},
+			B088Z96476: {href: "https://amzn.to/34aiSUy",nameProduct: `Portable Air Conditioner Fan, Personal Space Evaporative Air Cooler Rechargeable USB Desk Fan with LED Light, 3 Speeds, Super Quiet Humidifier Misting Cooling Fan for Home Office Bedroom`,image: '',summary: ``,slug: ""},
+			B083G9WVNC: {href: "https://amzn.to/3ufJ0Yy",nameProduct: `Panda PAN6320W Portable Machine, 10lbs Capacity, 10 Wash Programs, 2 Built in Rollers/casters, Compact Top Load Cloth Washer, 1.34 Cu.ft, Gray`,image: '',summary: ``,slug: ""},
+			B07J6S4RZ9: {href: "https://amzn.to/3vgTE2y",nameProduct: `ZENY Portable Clothes Washing Machine Mini Twin Tub Washer Spin Spinner 9.9lbs Capacity Lightweight Small Laundry Washer for Apartment`,image: '',summary: ``,slug: ""},
+			B07H2NP7PR: {href: "https://amzn.to/3oGvFYa",nameProduct: `Intex Round Prism Frame Pool Set | 15ft x 42" | 26723EH model`,image: '',summary: ``,slug: ""},
+			B088LTVMDL: {href: "https://amzn.to/3fDXH2n",nameProduct: `Midea Smart 3-in-1 Portable Air Conditioner, Dehumidifier, Fan for Large Rooms up to 275 sq ft 12,000 BTU (6,500 BTU SACC) control with Remote, Smartphone or Alexa`,image: '',summary: ``,slug: ""},
+			B072B8SGKY: {href: "https://amzn.to/3fGZi7E",nameProduct: `BLACK+DECKER Portable Air Conditioner, 12,000 BTU with Heat, w, White`,image: '',summary: ``,slug: ""},
+			B07STLLSWF: {href: "https://amzn.to/2RxvKBD",nameProduct: `Farberware Professional FCW10BSCWHA 1.0 Cu. Ft. Portable Clothes Washer with 7-lb Load Capacity, Silver & Chrome`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
