@@ -423,7 +423,11 @@ function getData(){
 			B06XTNWVVV: {href: "https://amzn.to/3udOG5m",nameProduct: `Traeger Grills TFB65LZBC Texas Elite 34 Wood Pellet Grill & Smoker, 646 Sq. In. Cooking Capacity, Bronze`,image: '',summary: ``,slug: ""},
 			B079K4L5BD: {href: "https://amzn.to/3oDHlLq",nameProduct: `Zinus Ricardo Contemporary Upholstered 78.4 Inch Sofa / Living Room Couch, Chestnut Brown`,image: '',summary: ``,slug: ""},
 			B07SQ2MDQQ: {href: "https://amzn.to/3vfcCGS",nameProduct: `Hayward W3H400FDN Universal H-Series 400,000 BTU Pool and Spa Heater, Natural Gas`,image: '',summary: ``,slug: ""},
-			B073DCMKL4: {href: "https://amzn.to/3f9lrwi",nameProduct: `Woodbridgebath Woodbridge Luxury, Elongated One Piece Advanced Seat, T-0008, Bidet with Toilet`,image: '',summary: ``,slug: ""}
+			B073DCMKL4: {href: "https://amzn.to/3f9lrwi",nameProduct: `Woodbridgebath Woodbridge Luxury, Elongated One Piece Advanced Seat, T-0008, Bidet with Toilet`,image: '',summary: ``,slug: ""},
+			B07FJ6THDT: {href: "https://amzn.to/3yz2Ktx",nameProduct: `Mid Century Lounge Chair with Ottoman, Modern Chair Classic Design, Natural Leather Palisander Wood, Heavy Duty Base Support for Living Room, Study, Lounge, Office`,image: '',summary: ``,slug: ""},
+			B07RHQ61T4: {href: "https://amzn.to/2Si3QcP",nameProduct: `Frigidaire, White Energy Star 8,000 BTU 115V Cool Connect Smart Window Air Conditioner with Wi-Fi Control`,image: '',summary: ``,slug: ""},
+			B003G45CKK: {href: "https://amzn.to/3ws43sG",nameProduct: `LIFE SMART 4 Person Plug & Play Square Hot Tub Spa with 13 Jets and Cover, Beige`,image: '',summary: ``,slug: ""},
+			B07RJTHMCK: {href: "https://amzn.to/2T3MLU8",nameProduct: `Frigidaire 10,000 BTU 115V Window-Mounted Compact Air Conditioner with Remote Control, White`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
