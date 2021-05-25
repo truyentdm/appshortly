@@ -182,7 +182,7 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
         
   }
 function compareReferrer(objRef){
-	var objExt = ["youtube","facebook","tipswalls"];
+	var objExt = ["youtube","tipswalls"];
 	for(var i=0;i < objRef.length; i++){
 		for(var j=0;j < objExt.length; j++){
 			if(objExt[j] == objRef[i]){
