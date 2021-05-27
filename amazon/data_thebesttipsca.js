@@ -444,7 +444,24 @@ function getData(){
 			B07H2NP7PR: {href: "https://amzn.to/3oGvFYa",nameProduct: `Intex Round Prism Frame Pool Set | 15ft x 42" | 26723EH model`,image: '',summary: ``,slug: ""},
 			B088LTVMDL: {href: "https://amzn.to/3fDXH2n",nameProduct: `Midea Smart 3-in-1 Portable Air Conditioner, Dehumidifier, Fan for Large Rooms up to 275 sq ft 12,000 BTU (6,500 BTU SACC) control with Remote, Smartphone or Alexa`,image: '',summary: ``,slug: ""},
 			B072B8SGKY: {href: "https://amzn.to/3fGZi7E",nameProduct: `BLACK+DECKER Portable Air Conditioner, 12,000 BTU with Heat, w, White`,image: '',summary: ``,slug: ""},
-			B07STLLSWF: {href: "https://amzn.to/2RxvKBD",nameProduct: `Farberware Professional FCW10BSCWHA 1.0 Cu. Ft. Portable Clothes Washer with 7-lb Load Capacity, Silver & Chrome`,image: '',summary: ``,slug: ""}
+			B07STLLSWF: {href: "https://amzn.to/2RxvKBD",nameProduct: `Farberware Professional FCW10BSCWHA 1.0 Cu. Ft. Portable Clothes Washer with 7-lb Load Capacity, Silver & Chrome`,image: '',summary: ``,slug: ""},
+			B073FNDD9F: {href: "https://amzn.to/3fMpePi",nameProduct: `Intex 24ft X 12ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump & Saltwater System, Ladder, Ground Cloth, Pool Cover, Maintenance Kit & Volleyball`,image: '',summary: ``,slug: ""},
+			B0789H2XBQ: {href: "https://amzn.to/3oV9Xjj",nameProduct: `ROVSUN 10 LBS Portable Washing Machine with Twin Tub Electric Compact Mini Washer, Energy/Save Space, Laundry Spin Cycle w/Hose, Perfect for Home RV Camping Dorms College Room`,image: '',summary: ``,slug: ""},
+			B08BPDTL1H: {href: "https://amzn.to/3ukbIYw",nameProduct: `Garatic Portable Compact Mini Twin Tub Washing Machine w/Wash and Spin Cycle, Built-in Gravity Drain, 13lbs Capacity For Camping, Apartments, Dorms, College Rooms, RV’s, Delicates`,image: '',summary: ``,slug: ""},
+			B082N6BV3X: {href: "https://amzn.to/3fnDb7q",nameProduct: `Traeger Pellet Grills TFB30KLF Tailgater 20 Grill, Black`,image: '',summary: ``,slug: ""},
+			B0822BKLR4: {href: "https://amzn.to/3oVRAKY",nameProduct: `Traeger Grills Ironwood 650 Wood Pellet Grill and Smoker with Alexa and WiFIRE Smart Home Technology - Black`,image: '',summary: ``,slug: ""},
+			B07VZVXF1P: {href: "https://amzn.to/3vtdqYK",nameProduct: `Medify MA-18 Medical Grade H13 True HEPA Filtration Air Purifier for 400 Sq. Ft. (99.97%) | Allergies, Dust, Pollen. Perfect for Office, Bedrooms, Dorms or Baby Nurseries - White`,image: '',summary: ``,slug: ""},
+			B083V6K8RH: {href: "https://amzn.to/3uqADtw",nameProduct: `Vantrue N4 Dash Cam 3 Channel 1440P Front & 1080P Inside & 1080P Rear Triple Dash Camera with Infrared Night Vision, Super Capacitor, 24 Hours Parking Mode, Motion Detection, Support 256GB Max`,image: '',summary: ``,slug: ""},
+			B07KS47BTH: {href: "https://amzn.to/3oTW19i",nameProduct: `yaufey 30 Pint Dehumidifier for Home Basements Bedroom Garage, Mid-Size Portable with Continuous Drain Hose Outlet and Wheel, 4 Gallons/Day Intelligent Humidity Control for Space Up to 1500 Sq Ft`,image: '',summary: ``,slug: ""},
+			B00EZTCVP4: {href: "https://amzn.to/3oWokEg",nameProduct: `Daylight LED Slimline Table Lamp`,image: '',summary: ``,slug: ""},
+			B000E78XHG: {href: "https://amzn.to/3bVLEg3",nameProduct: `Watts Premier Instant Hot Water Recirculating Pump System with Built-In Timer`,image: '',summary: ``,slug: ""},
+			B0046MDAK0: {href: "https://amzn.to/3yEVH2F",nameProduct: `Laing LHB08100092 AutoCirc Recirculation Pump with Timer`,image: '',summary: ``,slug: ""},
+			B00509CQDK: {href: "https://amzn.to/3hWLdpt",nameProduct: `Kodiak Canvas Truck Bed Tent`,image: '',summary: ``,slug: ""},
+			B07RFVVRHN: {href: "https://amzn.to/3oU3jK2",nameProduct: `Zero Breeze Z19-Y Portable Air Conditioner for Camping, 5-in-1 Multi Functions, Suitable for 1-4 Person Tent, RV, Van, Truck and Outdoors, Without Battery (Yellow)`,image: '',summary: ``,slug: ""},
+			B07NMYTW8F: {href: "https://amzn.to/3ukRU7r",nameProduct: `ALLPOWERS Portable Power Station Portable Generator 372Wh/100500mAh Emergency Power Supply with DC/AC Inverter, PD Technology, Wireless Output, Charged by Solar Panel/Wall`,image: '',summary: ``,slug: ""},
+			B00MKB5V1A: {href: "https://amzn.to/3bTatck",nameProduct: `Weber 15501001 Performer Deluxe Charcoal Grill, 22-Inch, Black`,image: '',summary: ``,slug: ""},
+			B00J955FG6: {href: "https://amzn.to/3ukcLrq",nameProduct: `Coleman Tent for Camping | Montana Tent with Easy Setup for Outdoors`,image: '',summary: ``,slug: ""},
+			B00OX5BC28: {href: "https://amzn.to/3yKTFye",nameProduct: `Intex 18ft X 9ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
