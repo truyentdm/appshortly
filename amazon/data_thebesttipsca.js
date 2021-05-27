@@ -461,7 +461,19 @@ function getData(){
 			B07NMYTW8F: {href: "https://amzn.to/3ukRU7r",nameProduct: `ALLPOWERS Portable Power Station Portable Generator 372Wh/100500mAh Emergency Power Supply with DC/AC Inverter, PD Technology, Wireless Output, Charged by Solar Panel/Wall`,image: '',summary: ``,slug: ""},
 			B00MKB5V1A: {href: "https://amzn.to/3bTatck",nameProduct: `Weber 15501001 Performer Deluxe Charcoal Grill, 22-Inch, Black`,image: '',summary: ``,slug: ""},
 			B00J955FG6: {href: "https://amzn.to/3ukcLrq",nameProduct: `Coleman Tent for Camping | Montana Tent with Easy Setup for Outdoors`,image: '',summary: ``,slug: ""},
-			B00OX5BC28: {href: "https://amzn.to/3yKTFye",nameProduct: `Intex 18ft X 9ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,image: '',summary: ``,slug: ""}
+			B00OX5BC28: {href: "https://amzn.to/3yKTFye",nameProduct: `Intex 18ft X 9ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,image: '',summary: ``,slug: ""},
+			B01M8LDBZY: {href: "https://amzn.to/3yKWCPk",nameProduct: `Winix True HEPA 6300-2 Air Cleaner with PlasmaWave Technology`,image: '',summary: ``,slug: ""},
+			B08XQXRJ1C: {href: "https://amzn.to/2SAgvHV",nameProduct: `ZOKOP Full-Automatic Washing Machine Portable Compact Laundry Washer Spin with Drain Pump,10 programs 8 Water Level Selections with LED Display 10 Lbs Capacity, Gray`,image: '',summary: ``,slug: ""},
+			B08B8YQB99: {href: "https://amzn.to/3p67BhT",nameProduct: `Intex 28431E PureSpa Plus 85in x 25in Outdoor Portable Inflatable 6 Person Round Hot Tub Spa with 170 Bubble Jets, Built in Heater Pump, and 6 Type S1 Filter Replacement Cartridges`,image: '',summary: ``,slug: ""},
+			B06XNQ8QDW: {href: "https://amzn.to/3uuTa7L",nameProduct: `STANLEY SLP2050 Electric Power Washer, Medium, Yellow`,image: '',summary: ``,slug: ""},
+			B01IY813UU: {href: "https://amzn.to/3uuvXmi",nameProduct: `Snapper XD 82V MAX Electric Cordless 21" Push Lawn Mower, Battery and Charger Not Included`,image: '',summary: ``,slug: ""},
+			B012YMY3ZE: {href: "https://amzn.to/3uuvZKW",nameProduct: `Bestway Paris AirJet Hot Tub, (6-Person)`,image: '',summary: ``,slug: ""},
+			B01D3FOIR4: {href: "https://amzn.to/34lrxU7",nameProduct: `LG LW1216ER Window-Mounted Remote Control, 12,000 BTU 115V Air Conditioner, White`,image: '',summary: ``,slug: ""},
+			B01KWSXEJI: {href: "https://amzn.to/34mLNVG",nameProduct: `Hudson Bay 6 Person 19 Jet Spa with Stainless Jets and 110V GFCI Cord Included`,image: '',summary: ``,slug: ""},
+			B08NT5NHP5: {href: "https://amzn.to/3vqrYZb",nameProduct: `Essential Hot Tubs 30-Jets 2021 Adelaide Hot Tub, Seats 5-6, Espresso`,image: '',summary: ``,slug: ""},
+			B073V9MG3Y: {href: "https://amzn.to/3hX04QQ",nameProduct: `hOmeLabs 1,500 Sq. Ft Energy Star Dehumidifier for Medium to Large Rooms and Basements`,image: '',summary: ``,slug: ""},
+			B084GKPZ4V: {href: "https://amzn.to/3yHkMdm",nameProduct: `Winix Air Cleaner with PlasmaWave Technology (C545)`,image: '',summary: ``,slug: ""},
+			B07S6M9BD9: {href: "https://amzn.to/2Ss4W5I",nameProduct: `ZENY Portable Washing Machine Compact Twin Tub Laundry Washing Machine 17.6lbs Capacity Mini Washer Spinner for Apartment RV Travelling,Semi-Automatic`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
