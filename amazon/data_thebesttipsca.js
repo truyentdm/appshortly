@@ -473,7 +473,14 @@ function getData(){
 			B08NT5NHP5: {href: "https://amzn.to/3vqrYZb",nameProduct: `Essential Hot Tubs 30-Jets 2021 Adelaide Hot Tub, Seats 5-6, Espresso`,image: '',summary: ``,slug: ""},
 			B073V9MG3Y: {href: "https://amzn.to/3hX04QQ",nameProduct: `hOmeLabs 1,500 Sq. Ft Energy Star Dehumidifier for Medium to Large Rooms and Basements`,image: '',summary: ``,slug: ""},
 			B084GKPZ4V: {href: "https://amzn.to/3yHkMdm",nameProduct: `Winix Air Cleaner with PlasmaWave Technology (C545)`,image: '',summary: ``,slug: ""},
-			B07S6M9BD9: {href: "https://amzn.to/2Ss4W5I",nameProduct: `ZENY Portable Washing Machine Compact Twin Tub Laundry Washing Machine 17.6lbs Capacity Mini Washer Spinner for Apartment RV Travelling,Semi-Automatic`,image: '',summary: ``,slug: ""}
+			B07S6M9BD9: {href: "https://amzn.to/2Ss4W5I",nameProduct: `ZENY Portable Washing Machine Compact Twin Tub Laundry Washing Machine 17.6lbs Capacity Mini Washer Spinner for Apartment RV Travelling,Semi-Automatic`,image: '',summary: ``,slug: ""},
+			B00NB3P98G: {href: "https://amzn.to/3frBTbi",nameProduct: `Coleman SaluSpa Inflatable Hot Tub Spa, Green & White`,image: '',summary: ``,slug: ""},
+			B07JCZKJYB: {href: "https://amzn.to/34qHDf6",nameProduct: `COLZER 232 PPD Commercial Dehumidifier, Large Industrial Dehumidifier with Hose for Basements, Warehouse & Job Sites Clean-Up, Flood, Water Damage Restoration - Moisture Removal Up to 29 Gallons/Day`,image: '',summary: ``,slug: ""},
+			B01FAWMMEY: {href: "https://amzn.to/3yF3ihD",nameProduct: `Champion 3400-Watt Dual Fuel RV Ready Portable Inverter Generator with Electric Start`,image: '',summary: ``,slug: ""},
+			B0816SXSG8: {href: "https://amzn.to/3ulsW7H",nameProduct: `Vacplus 50 Pints Dehumidifier with WiFi Remote for Large Rooms, Large Capacity for Basements Bedroom & Home, Dehumidifier Removes Moisture Efficiently, Two Continuous Drainage Mode with Dehumidifier`,image: '',summary: ``,slug: ""},
+			B00PCGHJPQ: {href: "https://amzn.to/3wBK5eV",nameProduct: `Skywalker Trampolines 15 Foot Jump N Dunk Round Trampoline with Enclosure-Basketball`,image: '',summary: ``,slug: ""},
+			B00NB3P98G: {href: "https://amzn.to/3vqwzKV",nameProduct: `Coleman SaluSpa Inflatable Hot Tub Spa, Green & White`,image: '',summary: ``,slug: ""},
+			B07G3ZNK4Y: {href: "https://amzn.to/3bX4WBu",nameProduct: `Vector Robot by Anki, A Home Robot Who Hangs Out & Helps Out, With Amazon Alexa Built-In`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
