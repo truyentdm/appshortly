@@ -327,7 +327,13 @@ function getData(){
 			B073FPL13F: {href: "https://amzn.to/3yseQVr",nameProduct: `Intex 24ft X 12ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,image: '',summary: ``,slug: ""},
 			B08GQGNCC6: {href: "https://amzn.to/2RvMQQi",nameProduct: `Intex 28106EH 8 X 24 Inch Easy Set Inflatable Puncture Resistant Circular Above Ground Portable Outdoor Family Swimming Pool, Blue`,image: '',summary: ``,slug: ""},
 			B073FMDBLJ: {href: "https://amzn.to/3faOLCS",nameProduct: `Intex 18ft X 9ft X 52in Ultra Frame Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,image: '',summary: ``,slug: ""},
-			B08158DL5Q: {href: "https://amzn.to/3ywD68Q",nameProduct: `Intex 28157EH Easy Set Pool Set Toy`,image: '',summary: ``,slug: ""}
+			B08158DL5Q: {href: "https://amzn.to/3ywD68Q",nameProduct: `Intex 28157EH Easy Set Pool Set Toy`,image: '',summary: ``,slug: ""},
+			B08LVBHKP3: {href: "https://amzn.to/3pTk3BI",nameProduct: `BLAUX Portable AC G2 - Blast Auxiliary Small Evaporative Air Cooler For Room | 2000 mAh USB Battery Powered Portable Swamp Cooler | Mini Portable Cooling Fan for Bedroom | Ultra-Quiet Indoor AC Fan`,image: '',summary: ``,slug: ""},
+			B01DLPUWJ4: {href: "https://amzn.to/3cIlP38",nameProduct: `BLACK+DECKER BPACT14HWT Portable Air Conditioner with Heat, 14,000 BTU w, White`,image: '',summary: ``,slug: ""},
+			B0917DP6XF: {href: "https://amzn.to/3pROiZW",nameProduct: `VASG Portable Air Conditioner Fan, 5000mAh Rechargeable Evaporative Cooler with Air Humidifier, Adjustable 3 Wind Speeds and 3 Humidity Levels, 1/2/4/8H Timer & Ultra-quiet Personal Cooling Fan`,image: '',summary: ``,slug: ""},
+			B07PQN8K7C: {href: "https://amzn.to/3vkIR6U",nameProduct: `Intex 26ft x 52in Above Ground Pool w/Inflatable Loungers and Floating Cooler`,image: '',summary: ``,slug: ""},
+			B07F39F71J: {href: "https://amzn.to/3xsXKWl",nameProduct: `Intex 26325EH Ultra XTR Pool Set, 16ft X 48in, Grey`,image: '',summary: ``,slug: ""},
+			B07F3DNDL4: {href: "https://amzn.to/3gq17aN",nameProduct: `Intex 10ft X 30in Prism Frame Pool Set with Filter Pump`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
