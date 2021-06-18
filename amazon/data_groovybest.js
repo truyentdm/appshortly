@@ -333,7 +333,11 @@ function getData(){
 			B0917DP6XF: {href: "https://amzn.to/3pROiZW",nameProduct: `VASG Portable Air Conditioner Fan, 5000mAh Rechargeable Evaporative Cooler with Air Humidifier, Adjustable 3 Wind Speeds and 3 Humidity Levels, 1/2/4/8H Timer & Ultra-quiet Personal Cooling Fan`,image: '',summary: ``,slug: ""},
 			B07PQN8K7C: {href: "https://amzn.to/3vkIR6U",nameProduct: `Intex 26ft x 52in Above Ground Pool w/Inflatable Loungers and Floating Cooler`,image: '',summary: ``,slug: ""},
 			B07F39F71J: {href: "https://amzn.to/3xsXKWl",nameProduct: `Intex 26325EH Ultra XTR Pool Set, 16ft X 48in, Grey`,image: '',summary: ``,slug: ""},
-			B07F3DNDL4: {href: "https://amzn.to/3gq17aN",nameProduct: `Intex 10ft X 30in Prism Frame Pool Set with Filter Pump`,image: '',summary: ``,slug: ""}
+			B07F3DNDL4: {href: "https://amzn.to/3gq17aN",nameProduct: `Intex 10ft X 30in Prism Frame Pool Set with Filter Pump`,image: '',summary: ``,slug: ""},
+			B08TKZ9KTV: {href: "https://amzn.to/2TFv4L0",nameProduct: `De'Longhi 11500 BTU Portable Air Conditioner, Dehumidifier & Fan + Quiet Mode & Includes Window Kit + Remote Control, 500 sq ft, Large Room, Pinguino 6700 (DOE), White`,image: '',summary: ``,slug: ""},
+			B0952PD17H: {href: "https://amzn.to/2TIhLcS",nameProduct: `ZOKOP XPB50-RS5 16Lbs Semi-automatic Twin Tube Washing Machine US Standard White & Blue`,image: '',summary: ``,slug: ""},
+			B08Z3GD7KN: {href: "https://amzn.to/3gEzXx6",nameProduct: `COSTWAY Compact Twin Tub Washing Machine, 17.6 lbs Mini Washing Machine with Washing and Spinning, Portable Washer for Camping, Apartments, and Dorms, Blue`,image: '',summary: ``,slug: ""},
+			B075XQRXCF: {href: "https://amzn.to/3q7XiKp",nameProduct: `Portable Washing Machine TG23 - Twin Tub Washer Machine with 7.9lbs Wash and 4.4lbs Spin Cycle Compartments by Think Gizmos`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
