@@ -480,7 +480,22 @@ function getData(){
 			B0816SXSG8: {href: "https://amzn.to/3ulsW7H",nameProduct: `Vacplus 50 Pints Dehumidifier with WiFi Remote for Large Rooms, Large Capacity for Basements Bedroom & Home, Dehumidifier Removes Moisture Efficiently, Two Continuous Drainage Mode with Dehumidifier`,image: '',summary: ``,slug: ""},
 			B00PCGHJPQ: {href: "https://amzn.to/3wBK5eV",nameProduct: `Skywalker Trampolines 15 Foot Jump N Dunk Round Trampoline with Enclosure-Basketball`,image: '',summary: ``,slug: ""},
 			B00NB3P98G: {href: "https://amzn.to/3vqwzKV",nameProduct: `Coleman SaluSpa Inflatable Hot Tub Spa, Green & White`,image: '',summary: ``,slug: ""},
-			B07G3ZNK4Y: {href: "https://amzn.to/3bX4WBu",nameProduct: `Vector Robot by Anki, A Home Robot Who Hangs Out & Helps Out, With Amazon Alexa Built-In`,image: '',summary: ``,slug: ""}
+			B07G3ZNK4Y: {href: "https://amzn.to/3bX4WBu",nameProduct: `Vector Robot by Anki, A Home Robot Who Hangs Out & Helps Out, With Amazon Alexa Built-In`,image: '',summary: ``,slug: ""},
+			B074NDQ143: {href: "https://amzn.to/3gGIiQU",nameProduct: `Vibe 12-Inch Gel Memory Foam Mattress | Bed in a Box, [Mattress Only], Queen`,image: '',summary: ``,slug: ""},
+			B01KGRAGRS: {href: "https://amzn.to/35BFw93",nameProduct: `Zinus Curtis Essential Upholstered Platform Bed Frame, Queen`,image: '',summary: ``,slug: ""},
+			B004T6MSIS: {href: "https://amzn.to/3zwvuDQ",nameProduct: `All-Clad 4112 Stainless Steel Tri-Ply Bonded Dishwasher Safe Fry Pan / Cookware, 12-Inch, Silver - 8701004401`,image: '',summary: ``,slug: ""},
+			B008HP25IK: {href: "https://amzn.to/2SgYvmo",nameProduct: `HomeRight Power Flo Pro 2800 C800879 Airless Paint Sprayer Spray Gun, Power Painting for Home Exterior, Fence, Shed, and Garage 2800 psi, 0.24 gpm`,image: '',summary: ``,slug: ""},
+			B00540JS7C: {href: "https://amzn.to/3zBx33x",nameProduct: `DEWALT 12-Inch Sliding Compound Miter Saw, Double Bevel (DWS780)`,image: '',summary: ``,slug: ""},
+			B0098HR1FI: {href: "https://amzn.to/3wKzvD4",nameProduct: `Weber Spirit E-310 Liquid Propane Gas Grill, 46510001 model - Black`,image: '',summary: ``,slug: ""},
+			B00XBC3BF0: {href: "https://amzn.to/2SgYGOA",nameProduct: `AmazonBasics High-Back, Leather Executive, Swivel, Adjustable Office Desk Chair with Casters, Black`,image: '',summary: ``,slug: ""},
+			B07T32W8L6: {href: "https://amzn.to/3qcaZId",nameProduct: `Intex 26373EH Ultra XTR Set Above Ground Pool`,image: '',summary: ``,slug: ""},
+			B01J9PIPCQ: {href: "https://amzn.to/3q8pdKp",nameProduct: `Drive Medical Scout Compact Travel Power Scooter, 4 Wheel, Extended Battery`,image: '',summary: ``,slug: ""},
+			B004918MO2: {href: "https://amzn.to/3zAgdSy",nameProduct: `DuroStar DS4000S, 3300 Running Watts/4000 Starting Watts, Gas Powered Portable Generator`,image: '',summary: ``,slug: ""},
+			B00602J4MM: {href: "https://amzn.to/3wFe7Pm",nameProduct: `BLACK+DECKER 40V MAX Cordless Hedge Trimmer, 24-Inch (LHT2436)`,image: '',summary: ``,slug: ""},
+			B073FMYZ3T: {href: "https://amzn.to/35BMydT",nameProduct: `Intex 15ft X 48in Metal Frame Pool Set with Filter Pump, Ladder, Ground Cloth & Pool Cover`,image: '',summary: ``,slug: ""},
+			B000MLL6R8: {href: "https://amzn.to/2TNILHX",nameProduct: `Celestron - AstroMaster 114EQ Newtonian Telescope - Reflector Telescope for Beginners - Fully-Coated Glass Optics - Adjustable-Height Tripod - BONUS Astronomy Software Package`,image: '',summary: ``,slug: ""},
+			B0185F07GS: {href: "https://amzn.to/3wCnQWG",nameProduct: `PORTER-CABLE 20V MAX Cordless Drill Combo Kit, 8-Tool (PCCK619L8)`,image: '',summary: ``,slug: ""},
+			B01J1W7S34: {href: "https://amzn.to/3qcbnGF",nameProduct: `Avalon Limited Edition Self Cleaning Water Cooler Dispenser, 3 Temperature Settings - Hot, Cold & Cool Water, Durable Stainless Steel Construction, Bottom Loading - UL/Energy Star Approved`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
