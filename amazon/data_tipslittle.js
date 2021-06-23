@@ -33,7 +33,24 @@ function getData(){
 			B005EFYCNW: {href: "https://amzn.to/3gWMACh",nameProduct: `Sauder Home Plus Storage Cabinet, Dakota Oak finish`,image: '',summary: ``,slug: ""},
 			B07GYP68HW: {href: "https://amzn.to/2TT6Yg2",nameProduct: `Epson Home Cinema 4010 4K PRO-UHD (1) 3-Chip Projector with HDR`,image: '',summary: ``,slug: ""},
 			B0144DQNWW: {href: "https://amzn.to/3j4ptJ0",nameProduct: `Ultra HD Mega Storage Cabinet - Stainless Steel`,image: '',summary: ``,slug: ""},
-			B075FGY7G2: {href: "https://amzn.to/35GnmDc",nameProduct: `Zinus Suzanne Metal and Wood Platform Bed with Headboard / Box Spring Optional / Wood Slat Support, Queen`,image: '',summary: ``,slug: ""}
+			B075FGY7G2: {href: "https://amzn.to/35GnmDc",nameProduct: `Zinus Suzanne Metal and Wood Platform Bed with Headboard / Box Spring Optional / Wood Slat Support, Queen`,image: '',summary: ``,slug: ""},
+			B07B94ZR74: {href: "https://amzn.to/2SWPuz6",nameProduct: `SUPER DEAL Portable Washer Mini Twin Tub Washing Machine 17.6 lbs w/78.8'' Inlet Hose`,image: '',summary: ``,slug: ""},
+			B01B8DGNMQ: {href: "https://amzn.to/3d0R0aj",nameProduct: `Prodigy 2.0 Leggett & Platt Adjustable Bed Base`,image: '',summary: ``,slug: ""},
+			B0067MQM48: {href: "https://amzn.to/3zMzBMe",nameProduct: `Zojirushi BB-PAC20BA BB-PAC20 Home Bakery Virtuoso Breadmaker with Gluten Free Menu setting`,image: '',summary: ``,slug: ""},
+			B00C1EJPJA: {href: "https://amzn.to/3zPJuJ7",nameProduct: `Zodiac MX8 Suction-Side Cleaner`,image: '',summary: ``,slug: ""},
+			B01MXIMVXG: {href: "https://amzn.to/3d5LH9q",nameProduct: `ASICS Men's Gel-Venture 6 Running Shoe`,image: '',summary: ``,slug: ""},
+			B074FKGR7F: {href: "https://amzn.to/3d5LRh2",nameProduct: `Epson Home Cinema 2100 1080p 3LCD projector`,image: '',summary: ``,slug: ""},
+			B003PCSR82: {href: "https://amzn.to/3zQk9i7",nameProduct: `EdgeStar AP14001HS Portable Air Conditioner and Heater with Dehumidifier and Fan for Rooms up to 525 Sq. Ft. with Remote Control`,image: '',summary: ``,slug: ""},
+			B07VPL2HYG: {href: "https://amzn.to/2UlKq7G",nameProduct: `YnM Weighted Blanket 3 Pieces Set with 2 Duvet Covers | Suit for Hot & Cold Sleepers Year Round Use (60''x 80'' 20lbs)`,image: '',summary: ``,slug: ""},
+			B01B8GQ940: {href: "https://amzn.to/2SVjNWM",nameProduct: `Zinus Mia Modern Studio 14 Inch Platform 1500H Metal Bed Frame / Mattress Foundation / Wooden Slat Support / With Headboard / Good Design Award Winne`,image: '',summary: ``,slug: ""},
+			B07XF9NYV3: {href: "https://amzn.to/3xLtEgU",nameProduct: `Zmodo 1080p Full HD Outdoor Wireless Security Camera System, 4 Pack Smart Home Indoor Outdoor WiFi IP Cameras with Night Vision, Compatible with Alexa`,image: '',summary: ``,slug: ""},
+			B000XRQUSQ: {href: "https://amzn.to/2UwpbAg",nameProduct: `Krinner Tree Genie Tree Genie XXL Christmas Tree Stand, Green`,image: '',summary: ``,slug: ""},
+			B002EKUK2C: {href: "https://amzn.to/3zOMYvs",nameProduct: `EdgeStar AP12000HS Portable Air Conditioner and Heater with Dehumidifier and Fan for Rooms up to 425 Sq. Ft. with Remote Control`,image: '',summary: ``,slug: ""},
+			B00YEYKK8U: {href: "https://amzn.to/2T06bK3",nameProduct: `OXO BREW 9 Cup Coffee Maker`,image: '',summary: ``,slug: ""},
+			B07B42DWWC: {href: "https://amzn.to/3d557LO",nameProduct: `Nectar Queen Mattress + 2 Pillows Included - Gel Memory Foam - CertiPUR-US Certified Foams - 180 Night Home Trial - Forever Warranty`,image: '',summary: ``,slug: ""},
+			B076CPZWR3: {href: "https://amzn.to/35LB3ke",nameProduct: `Sauder HomePlus Storage Cabinet`,image: '',summary: ``,slug: ""},
+			B00T9RANUC: {href: "https://amzn.to/3j7b1zU",nameProduct: `FLIR C2 - Compact Thermal Camera`,image: '',summary: ``,slug: ""},
+			B00JXS3BXI: {href: "https://amzn.to/3d2asDl",nameProduct: `Smittybilt 9500 lb 97495 XRC GEN2 Winch-9500 Pound Load Capacity`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
