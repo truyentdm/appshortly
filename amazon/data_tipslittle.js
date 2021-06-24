@@ -50,7 +50,25 @@ function getData(){
 			B07B42DWWC: {href: "https://amzn.to/3d557LO",nameProduct: `Nectar Queen Mattress + 2 Pillows Included - Gel Memory Foam - CertiPUR-US Certified Foams - 180 Night Home Trial - Forever Warranty`,image: '',summary: ``,slug: ""},
 			B076CPZWR3: {href: "https://amzn.to/35LB3ke",nameProduct: `Sauder HomePlus Storage Cabinet`,image: '',summary: ``,slug: ""},
 			B00T9RANUC: {href: "https://amzn.to/3j7b1zU",nameProduct: `FLIR C2 - Compact Thermal Camera`,image: '',summary: ``,slug: ""},
-			B00JXS3BXI: {href: "https://amzn.to/3d2asDl",nameProduct: `Smittybilt 9500 lb 97495 XRC GEN2 Winch-9500 Pound Load Capacity`,image: '',summary: ``,slug: ""}
+			B00JXS3BXI: {href: "https://amzn.to/3d2asDl",nameProduct: `Smittybilt 9500 lb 97495 XRC GEN2 Winch-9500 Pound Load Capacity`,image: '',summary: ``,slug: ""},
+			B06Y3LV4P5: {href: "https://amzn.to/2U2XKgZ",nameProduct: `PetChatz HD/PawCall Bundle`,image: '',summary: ``,slug: ""},
+			B071FN6KXK: {href: "https://amzn.to/3zZhOSi",nameProduct: `Osmo Genius Kit for iPad`,image: '',summary: ``,slug: ""},
+			B06WGLM9V1: {href: "https://amzn.to/3vR43BD",nameProduct: `Keenz 7s Stroller Wagon (Grey)`,image: '',summary: ``,slug: ""},
+			B07MSYTQNM: {href: "https://amzn.to/2U2qOFG",nameProduct: `Fitbit Inspire HR Heart Rate & Fitness Tracker`,image: '',summary: ``,slug: ""},
+			B00CMREO0Q: {href: "https://amzn.to/2TYBWU2",nameProduct: `Touchstone 80001 - Onyx Electric Fireplace - (Black) - 50 Inch Wide - On-Wall Hanging - Log & Crystal Included - 5 Flame Settings - Realistic Flame - 1500/750W Timer & Remote`,image: '',summary: ``,slug: ""},
+			B00G0PF4FU: {href: "https://amzn.to/3vUC0kL",nameProduct: `Whynter 8,000 BTU Eco-Friendly Portable Air Conditioner, White (ARC-08WB)`,image: '',summary: ``,slug: ""},
+			B07V48X7HG: {href: "https://amzn.to/3wVXUp5",nameProduct: `LG LW1019IVSM Energy Star 9,500 BTU 115V Dual Inverter Window Air Conditioner with Wi-Fi Control, White`,image: '',summary: ``,slug: ""},
+			B01LWA8J37: {href: "https://amzn.to/3w3y5Cx",nameProduct: `AlorAir Basement/Crawl space Dehumidifiers Removal 120 PPD (Saturation) 55 PPD (AHAM), 5 Years Warranty, HGV Defrosting, cETL, Epoxy Coating, up to 1,300 Sq. Ft, Remote Monitoring`,image: '',summary: ``,slug: ""},
+			B00198CW7G: {href: "https://amzn.to/3xRnage",nameProduct: `Hayward SP2610X15 Super Pump 1.5 HP Pool Pump`,image: '',summary: ``,slug: ""},
+			B01AA8WOAK: {href: "https://amzn.to/3zToT6L",nameProduct: `Whynter Elite ARC-122DS 12,000 BTU Dual Hose Portable Air Conditioner, Dehumidifier, Fan with Activated Carbon Filter plus Storage bag for Rooms up to 400 sq ft`,image: '',summary: ``,slug: ""},
+			B0009RF7DY: {href: "https://amzn.to/3xNcJuc",nameProduct: `Shoprider Sunrunner 4 Wheel Scooter`,image: '',summary: ``,slug: ""},
+			B075CQ86ZV: {href: "https://amzn.to/3dbiH00",nameProduct: `Chamberlain B970T Smart Garage Door Opener with Battery Backup - myQ Smartphone Controlled - Ultra Quiet, Strong Belt Drive and MAX Lifting Power, 1.25 HP, Wireless Keypad Included, Blue`,image: '',summary: ``,slug: ""},
+			B01BMCWJ7G: {href: "https://amzn.to/3xMjYCL",nameProduct: `BedJet 3 Climate Comfort for Beds, Cooling Fan + Heating Air (Single Temp. Zone Any Size Bed or Mattress)`,image: '',summary: ``,slug: ""},
+			B00GY2Z21U: {href: "https://amzn.to/2U3QIIT",nameProduct: `Homegear 1500W Infrared Electric Portable Space Heater Black + Remote Control`,image: '',summary: ``,slug: ""},
+			B07L6LB6LR: {href: "https://amzn.to/35Qp7O4",nameProduct: `Brooks Men's Ghost 12`,image: '',summary: ``,slug: ""},
+			B002FQIYBY: {href: "https://amzn.to/35OSrob",nameProduct: `Pentair 340039 SuperFlo High Performance Single Speed Pool Pump, 1½ Horsepower, 115/230 Volt, 1 Phase`,image: '',summary: ``,slug: ""},
+			B071HP9PDR: {href: "https://amzn.to/2T6t52h",nameProduct: `AlorAir LGR 85 Pint Commercial Dehumidifier with Pump, cETL Listed, 5 Years Warranty Memory Starting, for Damage Restoration, Crawlspace and Basement Drying`,image: '',summary: ``,slug: ""},
+			B072MLT6QW: {href: "https://amzn.to/3dbjiyM",nameProduct: `Dometic CFX 50W 12v Electric Powered Portable Cooler, Fridge Freezer`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
