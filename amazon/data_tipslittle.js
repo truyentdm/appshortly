@@ -83,7 +83,18 @@ function getData(){
 			B013I40R8E: {href: "https://amzn.to/3h49A2n",nameProduct: `Breville BPR700BSS Fast Slow Pro Multi Function Cooker, Brushed Stainless Steel`,image: '',summary: ``,slug: ""},
 			B00MWTJ9OA: {href: "https://amzn.to/3d9oJ15",nameProduct: `Classic Brands Cool Ventilated Gel Memory Foam 12-Inch Mattress - Queen`,image: '',summary: ``,slug: ""},
 			B007HIKQCK: {href: "https://amzn.to/3vSn8Dv",nameProduct: `Bio Bidet Ultimate BB-600 Advanced Bidet Toilet Seat, Elongated White. Easy DIY Installation, Luxury Features From Side Panel, Adjustable Heated Seat and Water. Dual Nozzle Has Posterior and Feminine Wash`,image: '',summary: ``,slug: ""},
-			B001BMDFPS: {href: "https://amzn.to/3xRLIG5",nameProduct: `DuroMax XP4400E Gas Powered Portable Generator - 4400 Watt -Electric Start- Camping & RV Ready, 50 State Approved,Blue and Black`,image: '',summary: ``,slug: ""}
+			B001BMDFPS: {href: "https://amzn.to/3xRLIG5",nameProduct: `DuroMax XP4400E Gas Powered Portable Generator - 4400 Watt -Electric Start- Camping & RV Ready, 50 State Approved,Blue and Black`,image: '',summary: ``,slug: ""},
+			B07D8QGJ5V: {href: "https://amzn.to/3qpOxM1",nameProduct: `Desire Life Yoga Headstand Bench - Stand Yoga Chair for Family, Gym - Wood and PU Pads - Relieve Fatigue and Build Up Body`,image: '',summary: ``,slug: ""},
+			B006LY18O6: {href: "https://amzn.to/3x12in0",nameProduct: `Aqua2Go GD70orGD600 1 Pack Multipurpose Portable Spray Washer with 17 Ltr/4.5 Gal Water Tank, Up to 130.5 psi, Includes Rechargeable Battery`,image: '',summary: ``,slug: ""},
+			B07FPY2GL8: {href: "https://amzn.to/35UbIoq",nameProduct: `Medical Breakthrough 6 v4 Recliner 3D Massage Chair | Zero Gravity with Heating | Deep Tissue Shiatsu Full Body Massager | Yoga Stretch | Pain Relief | Full Foot Massager | Perfect Luxury Gift (Black)`,image: '',summary: ``,slug: ""},
+			B07GPXKN8Z: {href: "https://amzn.to/3jeMyIM",nameProduct: `Flume Water Monitor: Smart Home Water Monitoring to Detect Leaks & Track Water Usage in Real Time. Compatible with Alexa`,image: '',summary: ``,slug: ""},
+			B01M7M9NXX: {href: "https://amzn.to/3vQShY4",nameProduct: `Zinus Shalini Upholstered Diamond Stitched Platform Bed / Mattress Foundation / Easy Assembly / Strong Wood Slat Support / Dark Grey, Queen`,image: '',summary: ``,slug: ""},
+			B07GH8DNZN: {href: "https://amzn.to/2UFnWyM",nameProduct: `Calphalon Special Brew 10 Cup Coffee Maker, Dark Stainless Steel`,image: '',summary: ``,slug: ""},
+			B01J664WSY: {href: "https://amzn.to/3h4BBXx",nameProduct: `Vornado VMH600 Whole Room Stainless Steel Heater with Auto Climate Control and Remote`,image: '',summary: ``,slug: ""},
+			B07S864GPW: {href: "https://amzn.to/3jrYKX1",nameProduct: `Shark IQ Robot Vacuum with Self-Empty Base and Wi-Fi Home Mapping, with XL Capacity Dust Bin, in Black`,image: '',summary: ``,slug: ""},
+			B016OIF2JU: {href: "https://amzn.to/3w2Zsww",nameProduct: `Steelcase Gesture Chair, Graphite`,image: '',summary: ``,slug: ""},
+			B009QYC60S: {href: "https://amzn.to/2U3fCbI",nameProduct: `Zojirushi Induction Heating Pressure Rice Cooker & Warmer 1.0 Liter, Stainless Brown NP-NVC10`,image: '',summary: ``,slug: ""},
+			B07FFMTW8X: {href: "https://amzn.to/3dgn2Pz",nameProduct: `Tineco A11 Master+ Cordless Stick Vacuum Cleaner, Ultra Powerful Suction, Multi-Surface Cleaning, Great for Pet Hair, Emerald Green`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
