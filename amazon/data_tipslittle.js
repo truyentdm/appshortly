@@ -94,7 +94,26 @@ function getData(){
 			B07S864GPW: {href: "https://amzn.to/3jrYKX1",nameProduct: `Shark IQ Robot Vacuum with Self-Empty Base and Wi-Fi Home Mapping, with XL Capacity Dust Bin, in Black`,image: '',summary: ``,slug: ""},
 			B016OIF2JU: {href: "https://amzn.to/3w2Zsww",nameProduct: `Steelcase Gesture Chair, Graphite`,image: '',summary: ``,slug: ""},
 			B009QYC60S: {href: "https://amzn.to/2U3fCbI",nameProduct: `Zojirushi Induction Heating Pressure Rice Cooker & Warmer 1.0 Liter, Stainless Brown NP-NVC10`,image: '',summary: ``,slug: ""},
-			B07FFMTW8X: {href: "https://amzn.to/3dgn2Pz",nameProduct: `Tineco A11 Master+ Cordless Stick Vacuum Cleaner, Ultra Powerful Suction, Multi-Surface Cleaning, Great for Pet Hair, Emerald Green`,image: '',summary: ``,slug: ""}
+			B07FFMTW8X: {href: "https://amzn.to/3dgn2Pz",nameProduct: `Tineco A11 Master+ Cordless Stick Vacuum Cleaner, Ultra Powerful Suction, Multi-Surface Cleaning, Great for Pet Hair, Emerald Green`,image: '',summary: ``,slug: ""},
+			B018S68U40: {href: "https://amzn.to/3xNHRd0",nameProduct: `WORX WG163 GT 3.0 20V PowerShare 12" Cordless String Trimmer & Edger`,image: '',summary: ``,slug: ""},
+			B00SMNLF4M: {href: "https://amzn.to/3vXOxDW",nameProduct: `WEN 56200i Super Quiet 2000-Watt Portable Inverter Generator, CARB Compliant`,image: '',summary: ``,slug: ""},
+			B0713TGHVM: {href: "https://amzn.to/3qr2CbU",nameProduct: `Essential Hot Tubs 11 Jets Integrity Rotationally Molded Hot Tub, Cobblestone`,image: '',summary: ``,slug: ""},
+			B01MTG1U4G: {href: "https://amzn.to/3da6gSj",nameProduct: `Home and Garden Spas HG51T 6 Person 51 Outdoor Spa with Stainless Jets & Ozone, 82" x 82" x 35", Tuscan Sun`,image: '',summary: ``,slug: ""},
+			B07GZN3QNZ: {href: "https://amzn.to/3h5ujCZ",nameProduct: `Inofia Sleeping 8 inch Hybrid Comfort Eurotop Innerspring Mattress- Plush Yet Supportive-Pressure Relief (Twin)`,image: '',summary: ``,slug: ""},
+			B000RP6DCC: {href: "https://amzn.to/3gZ8IvO",nameProduct: `American Standard 2461002.021 Cambridge Apron-Front Americast Soaking Bathtub Right Hand Drain, 5 ft x 32 in, Bone`,image: '',summary: ``,slug: ""},
+			B078MGY2CS: {href: "https://amzn.to/3deVSIK",nameProduct: `Giantex Full-Automatic Washing Machine Portable Compact 1.6 Cu.ft Laundry Washer Spin with Drain Pump, 10 programs 8 Water Level Selections with LED Display 12 Lbs Capacity`,image: '',summary: ``,slug: ""},
+			B001AMRCDU: {href: "https://amzn.to/2UuQTNE",nameProduct: `Davis Instruments 6152 Vantage Pro2 Wireless Weather Station with Standard Radiation Shield and LCD Display Console`,image: '',summary: ``,slug: ""},
+			B077N51CR2: {href: "https://amzn.to/3qs8Qsn",nameProduct: `Homall Single Recliner Chair Padded Seat PU Leather Living Room Sofa Recliner Modern Recliner Seat Club Chair Home Theater Seating (Black)`,image: '',summary: ``,slug: ""},
+			B005GSPVHS: {href: "https://amzn.to/3dffJYu",nameProduct: `Panasonic NE-1054F Countertop Commercial Microwave Oven with 10 Programmable Memory, Touch Screen Control and Bottom Energy Feed, 1000W, 0.8 Cu. Ft. (Stainless Steel), 5"`,image: '',summary: ``,slug: ""},
+			B079D3PN6W: {href: "https://amzn.to/3deZJpp",nameProduct: `Pentair IntelliFlo VSF - Variable Speed and Flow Pool Pump - 3 Horsepower, 230 Volts - 011056 - Energy Star Certified`,image: '',summary: ``,slug: ""},
+			B01DVW6G42: {href: "https://amzn.to/3xNIVO2",nameProduct: `PIONEER Air Conditioner Pioneer Mini Split Heat Pump Minisplit Heatpump 12000 BTU-208/230 V`,image: '',summary: ``,slug: ""},
+			B008IXRY6Y: {href: "https://amzn.to/3jeGAHZ",nameProduct: `bawell Platinum Alkaline Water Ionizer Machine`,image: '',summary: ``,slug: ""},
+			B00MMV0R76: {href: "https://amzn.to/3h9MdV0",nameProduct: `Pleasant Hearth 50,000 BTU Cabinet Pellet Stove`,image: '',summary: ``,slug: ""},
+			B01IU6RJYA: {href: "https://amzn.to/2UD7j6S",nameProduct: `Linenspa 8 Inch Memory Foam and Innerspring Hybrid Mattress - Medium-Firm Feel - Twin`,image: '',summary: ``,slug: ""},
+			B0148NPH9I: {href: "https://amzn.to/2T6KOqr",nameProduct: `Logitech K380 Multi-Device Bluetooth Keyboard – Windows, Mac, Chrome OS, Android, iPad, iPhone, Apple TV Compatible – with FLOW Cross-Computer Control and Easy-Switch up to 3 Devices – Dark Grey`,image: '',summary: ``,slug: ""},
+			B01M3U32IA: {href: "https://amzn.to/3jfoRQS",nameProduct: `Lucid 4" Folding Mattress & Sofa with Removable Indoor/Outdoor Fabric Cover, Twin XL`,image: '',summary: ``,slug: ""},
+			B000N5H2XU: {href: "https://amzn.to/3de7UlT",nameProduct: `Mac Knife MTH-80 Professional Hollow Edge Chef's Knife, 8 Inch, Silver`,image: '',summary: ``,slug: ""},
+			B009IJ2LM4: {href: "https://amzn.to/3jep46x",nameProduct: `TOTO SW573#01 S300e WASHLET Electronic Bidet Toilet Seat with EWATER+ Cleansing, Round, Cotton White`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
