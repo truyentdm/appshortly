@@ -68,7 +68,22 @@ function getData(){
 			B07L6LB6LR: {href: "https://amzn.to/35Qp7O4",nameProduct: `Brooks Men's Ghost 12`,image: '',summary: ``,slug: ""},
 			B002FQIYBY: {href: "https://amzn.to/35OSrob",nameProduct: `Pentair 340039 SuperFlo High Performance Single Speed Pool Pump, 1½ Horsepower, 115/230 Volt, 1 Phase`,image: '',summary: ``,slug: ""},
 			B071HP9PDR: {href: "https://amzn.to/2T6t52h",nameProduct: `AlorAir LGR 85 Pint Commercial Dehumidifier with Pump, cETL Listed, 5 Years Warranty Memory Starting, for Damage Restoration, Crawlspace and Basement Drying`,image: '',summary: ``,slug: ""},
-			B072MLT6QW: {href: "https://amzn.to/3dbjiyM",nameProduct: `Dometic CFX 50W 12v Electric Powered Portable Cooler, Fridge Freezer`,image: '',summary: ``,slug: ""}
+			B072MLT6QW: {href: "https://amzn.to/3dbjiyM",nameProduct: `Dometic CFX 50W 12v Electric Powered Portable Cooler, Fridge Freezer`,image: '',summary: ``,slug: ""},
+			B07H5RVVM6: {href: "https://amzn.to/3xSOMBW",nameProduct: `Black + Decker BPWM09W Portable Washer`,image: '',summary: ``,slug: ""},
+			B06Y1BLFBN: {href: "https://amzn.to/3x8UCzb",nameProduct: `Frigidaire 12,000 BTU Cool Connect Smart Portable Air Conditioner, Rooms upto 550-Sq. Ft`,image: '',summary: ``,slug: ""},
+			B00CLD39C0: {href: "https://amzn.to/3gVGALo",nameProduct: `Rowenta DW9280 Digital Display Steam Iron, Stainless Steel Soleplate, 1800-Watt, 400-Hole, Blue`,image: '',summary: ``,slug: ""},
+			B07P98YKDW: {href: "https://amzn.to/35QaRVB",nameProduct: `AlorAir LGR 85 Pint Commercial Dehumidifier with Pump, cETL Listed, 5 Years Warranty Memory Starting, for Damage Restoration, Crawlspace and Basement Drying`,image: '',summary: ``,slug: ""},
+			B07N4MXR77: {href: "https://amzn.to/3vUUMbK",nameProduct: `Casio Privia PX-S1000 Digital Piano - Black`,image: '',summary: ``,slug: ""},
+			B06Y32FG2N: {href: "https://amzn.to/3zZ9Bxa",nameProduct: `Brondell Swash 1400 Luxury Bidet Toilet Seat, Fits Elongated Toilets, White – Bidet – Dual Stainless-Steel Nozzles with Sterilization, Warm Air Dryer, Ambient Nightlight`,image: '',summary: ``,slug: ""},
+			B01N0KXNFX: {href: "https://amzn.to/2U6d7Wk",nameProduct: `Zinus 6 Inch Spring Twin Mattress 2 pack, Perfect for Bunk Beds / Trundle Beds / Day Beds (Set of 2)`,image: '',summary: ``,slug: ""},
+			B00KA8YC6A: {href: "https://amzn.to/3h1f4uR",nameProduct: `Delonghi EC680M DEDICA 15-Bar Pump Espresso Machine, Stainless Steel`,image: '',summary: ``,slug: ""},
+			B000N2YKQ0: {href: "https://amzn.to/3je3MWD",nameProduct: `De'Longhi ESAM3300 Super Automatic Espresso/Coffee Machine`,image: '',summary: ``,slug: ""},
+			B00GMMYLXC: {href: "https://amzn.to/3zVLrni",nameProduct: `Alen BreatheSmart Classic Large Room Air Purifier, 1100 sqft. Big Coverage Area, HEPA Filter for Allergies, Pollen, Dust, Dander and Fur in Espresso`,image: '',summary: ``,slug: ""},
+			B07NHQ4CXM: {href: "https://amzn.to/35RwXas",nameProduct: `LG OLED65C9PUA Alexa Built-in C9 Series 65" 4K Ultra HD Smart OLED TV`,image: '',summary: ``,slug: ""},
+			B013I40R8E: {href: "https://amzn.to/3h49A2n",nameProduct: `Breville BPR700BSS Fast Slow Pro Multi Function Cooker, Brushed Stainless Steel`,image: '',summary: ``,slug: ""},
+			B00MWTJ9OA: {href: "https://amzn.to/3d9oJ15",nameProduct: `Classic Brands Cool Ventilated Gel Memory Foam 12-Inch Mattress - Queen`,image: '',summary: ``,slug: ""},
+			B007HIKQCK: {href: "https://amzn.to/3vSn8Dv",nameProduct: `Bio Bidet Ultimate BB-600 Advanced Bidet Toilet Seat, Elongated White. Easy DIY Installation, Luxury Features From Side Panel, Adjustable Heated Seat and Water. Dual Nozzle Has Posterior and Feminine Wash`,image: '',summary: ``,slug: ""},
+			B001BMDFPS: {href: "https://amzn.to/3xRLIG5",nameProduct: `DuroMax XP4400E Gas Powered Portable Generator - 4400 Watt -Electric Start- Camping & RV Ready, 50 State Approved,Blue and Black`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
