@@ -113,7 +113,14 @@ function getData(){
 			B0148NPH9I: {href: "https://amzn.to/2T6KOqr",nameProduct: `Logitech K380 Multi-Device Bluetooth Keyboard – Windows, Mac, Chrome OS, Android, iPad, iPhone, Apple TV Compatible – with FLOW Cross-Computer Control and Easy-Switch up to 3 Devices – Dark Grey`,image: '',summary: ``,slug: ""},
 			B01M3U32IA: {href: "https://amzn.to/3jfoRQS",nameProduct: `Lucid 4" Folding Mattress & Sofa with Removable Indoor/Outdoor Fabric Cover, Twin XL`,image: '',summary: ``,slug: ""},
 			B000N5H2XU: {href: "https://amzn.to/3de7UlT",nameProduct: `Mac Knife MTH-80 Professional Hollow Edge Chef's Knife, 8 Inch, Silver`,image: '',summary: ``,slug: ""},
-			B009IJ2LM4: {href: "https://amzn.to/3jep46x",nameProduct: `TOTO SW573#01 S300e WASHLET Electronic Bidet Toilet Seat with EWATER+ Cleansing, Round, Cotton White`,image: '',summary: ``,slug: ""}
+			B009IJ2LM4: {href: "https://amzn.to/3jep46x",nameProduct: `TOTO SW573#01 S300e WASHLET Electronic Bidet Toilet Seat with EWATER+ Cleansing, Round, Cotton White`,image: '',summary: ``,slug: ""},
+			B00SMBFZNG: {href: "https://amzn.to/3dhXB0i",nameProduct: `VIZIO SB2920-C6 29-Inch 2.0 Channel Sound Bar`,image: '',summary: ``,slug: ""},
+			B076V5KDTP: {href: "https://amzn.to/3jgFrj0",nameProduct: `Britax Advocate ClickTight Anti-Rebound Bar Convertible Car Seat - 3 Layer Impact Protection - Rear & Forward Facing - 5 to 65 Pounds, Mosaic`,image: '',summary: ``,slug: ""},
+			B076TM35WP: {href: "https://amzn.to/3jgzTVV",nameProduct: `Jovial Portable Folding Baby Stroller (Blue)`,image: '',summary: ``,slug: ""},
+			B0786NGJX8: {href: "https://amzn.to/3qu3bBN",nameProduct: `The Twin+ (Zoe XL2) - Best Double Stroller - Everyday Twin Stroller with Umbrella`,image: '',summary: ``,slug: ""},
+			B075GFLQ7K: {href: "https://amzn.to/3gZ9gTP",nameProduct: `Kenmore 31140 Pet Friendly Lightweight Bagged Upright Beltless Vacuum with Pet Handi-Mate, Triple HEPA, Telescoping Wand, 4-Position Height Adjustment, 3 Cleaning Tools and AAFA Certified-Blue/Silver`,image: '',summary: ``,slug: ""},
+			B07F3QF4KX: {href: "https://amzn.to/3jgFIT4",nameProduct: `Intex 18ft X 9ft X 52in Ultra XTR Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,image: '',summary: ``,slug: ""},
+			B073FKF9B5: {href: "https://amzn.to/3gWWXas",nameProduct: `Intex 18ft X 52in Ultra Frame Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
