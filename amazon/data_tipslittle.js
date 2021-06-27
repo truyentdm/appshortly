@@ -120,7 +120,25 @@ function getData(){
 			B0786NGJX8: {href: "https://amzn.to/3qu3bBN",nameProduct: `The Twin+ (Zoe XL2) - Best Double Stroller - Everyday Twin Stroller with Umbrella`,image: '',summary: ``,slug: ""},
 			B075GFLQ7K: {href: "https://amzn.to/3gZ9gTP",nameProduct: `Kenmore 31140 Pet Friendly Lightweight Bagged Upright Beltless Vacuum with Pet Handi-Mate, Triple HEPA, Telescoping Wand, 4-Position Height Adjustment, 3 Cleaning Tools and AAFA Certified-Blue/Silver`,image: '',summary: ``,slug: ""},
 			B07F3QF4KX: {href: "https://amzn.to/3jgFIT4",nameProduct: `Intex 18ft X 9ft X 52in Ultra XTR Rectangular Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,image: '',summary: ``,slug: ""},
-			B073FKF9B5: {href: "https://amzn.to/3gWWXas",nameProduct: `Intex 18ft X 52in Ultra Frame Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,image: '',summary: ``,slug: ""}
+			B073FKF9B5: {href: "https://amzn.to/3gWWXas",nameProduct: `Intex 18ft X 52in Ultra Frame Pool Set with Sand Filter Pump, Ladder, Ground Cloth & Pool Cover`,image: '',summary: ``,slug: ""},
+			B01FXC7JWQ: {href: "https://amzn.to/3di17Yy",nameProduct: `Furbo Dog Camera: Treat Tossing, Full HD Wifi Pet Camera and 2-Way Audio, Designed for Dogs, Compatible with Alexa (As Seen On Ellen)`,image: '',summary: ``,slug: ""},
+			B07BKQ314N: {href: "https://amzn.to/3x502ek",nameProduct: `REC TEC Grills | RT-340 | Bundle | WiFi Enabled | Portable Wood Pellet Grill | Built in Meat Probes | Stainless Steel | 20lb Hopper | 2 Year Warranty | Hotflash Ceramic Ignition System`,image: '',summary: ``,slug: ""},
+			B00FZM1PUM: {href: "https://amzn.to/3A2l4Mz",nameProduct: `Rowenta DG8520 Perfect Steam 1800-Watt Eco Energy Steam Iron Station Stainless Steel Soleplate, 400-Hole, Purple`,image: '',summary: ``,slug: ""},
+			B00T31O22Y: {href: "https://amzn.to/3qtmQlq",nameProduct: `Rug Doctor Portable Spot Cleaner Vacuum, Small, Red`,image: '',summary: ``,slug: ""},
+			B01M2CGHKM: {href: "https://amzn.to/3A2Mimh",nameProduct: `Drill / Driver, 1x P235 Impact Driver, 1x P118 Dual Chemistry Charger, 2x P102 18V Batteries, 1x Tool Bag)`,image: '',summary: ``,slug: ""},
+			B07RZ9LZW7: {href: "https://amzn.to/3qrxRns",nameProduct: `Samsung MS11K3000AS 1.1 cu. ft. Countertop Microwave Oven with Sensor and Ceramic Enamel Interior Silver Sand (Renewed)`,image: '',summary: ``,slug: ""},
+			B00YUPDUYE: {href: "https://amzn.to/2T9UVuE",nameProduct: `Schlage Sense Smart Deadbolt with Century Trim in Satin Nickel (BE479 CEN 619)`,image: '',summary: ``,slug: ""},
+			B07CSH453C: {href: "https://amzn.to/2U4abcK",nameProduct: `Sealy EASE 2.0 ADJ MECH Bed Mattress Conventional, Twin, white`,image: '',summary: ``,slug: ""},
+			B00GMCAM2G: {href: "https://amzn.to/3h4ZazA",nameProduct: `Duxtop 1800W Portable Induction Cooktop Countertop Burner, Black`,image: '',summary: ``,slug: ""},
+			B005KMDV9A: {href: "https://amzn.to/2TdaNfZ",nameProduct: `Shark Navigator Lift-Away Professional NV356E`,image: '',summary: ``,slug: ""},
+			B00FOUDF62: {href: "https://amzn.to/3diwL88",nameProduct: `Sleep Innovations Shiloh 12-inch Memory Foam Mattress, Bed in a Box, Quilted Cover, Made in The USA, 10-Year Warranty - Queen Size`,image: '',summary: ``,slug: ""},
+			B00AEMGGU2: {href: "https://amzn.to/2T8rJ7a",nameProduct: `Sonos - Playbar Soundbar Wireless Speaker - Black`,image: '',summary: ``,slug: ""},
+			B00FAW4O0A: {href: "https://amzn.to/3h9827o",nameProduct: `SoundAsleep Dream Series Air Mattress with ComfortCoil Technology & Internal High Capacity Pump - Queen Size`,image: '',summary: ``,slug: ""},
+			B009FT54CQ: {href: "https://amzn.to/3gYAl9N",nameProduct: `Sun Joe SWJ800E 8-Inch 6.5-Amp Telescoping Electric Pole Chain Saw with Automatic Chain Lubrication System`,image: '',summary: ``,slug: ""},
+			B07DD7P933: {href: "https://amzn.to/3qrUE2i",nameProduct: `Full Mattress, Sweetnight Full Size Mattress- 10 Inch Gel Memory Foam Mattresses with CertiPUR-US Certified for Back Pain Relief/Motion Isolation&Cool Sleep, Flippable Comfort from Soft to Medium Firm`,image: '',summary: ``,slug: ""},
+			B00UCIOWRM: {href: "https://amzn.to/3gYqoZN",nameProduct: `TOTO SW2034#01 C100 WASHLET Electronic Bidet Toilet Seat with PreMist, Elongated, Cotton White`,image: '',summary: ``,slug: ""},
+			B00UCIOX2Q: {href: "https://amzn.to/3hg7DAe",nameProduct: `TOTO SW2044#01 C200 WASHLET Electronic Bidet Toilet Seat with Premist and SoftClose Lid, Elongated, Cotton White`,image: '',summary: ``,slug: ""},
+			B00FOUDF62: {href: "https://amzn.to/3h8hlo0",nameProduct: `Toto MS992CUMFG#01 Neorest 1.0 GPF and 0.8 GPF 700H Dual Flush Toilet, Cotton White`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
