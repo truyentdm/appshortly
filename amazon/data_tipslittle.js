@@ -138,7 +138,12 @@ function getData(){
 			B07DD7P933: {href: "https://amzn.to/3qrUE2i",nameProduct: `Full Mattress, Sweetnight Full Size Mattress- 10 Inch Gel Memory Foam Mattresses with CertiPUR-US Certified for Back Pain Relief/Motion Isolation&Cool Sleep, Flippable Comfort from Soft to Medium Firm`,image: '',summary: ``,slug: ""},
 			B00UCIOWRM: {href: "https://amzn.to/3gYqoZN",nameProduct: `TOTO SW2034#01 C100 WASHLET Electronic Bidet Toilet Seat with PreMist, Elongated, Cotton White`,image: '',summary: ``,slug: ""},
 			B00UCIOX2Q: {href: "https://amzn.to/3hg7DAe",nameProduct: `TOTO SW2044#01 C200 WASHLET Electronic Bidet Toilet Seat with Premist and SoftClose Lid, Elongated, Cotton White`,image: '',summary: ``,slug: ""},
-			B00FOUDF62: {href: "https://amzn.to/3h8hlo0",nameProduct: `Toto MS992CUMFG#01 Neorest 1.0 GPF and 0.8 GPF 700H Dual Flush Toilet, Cotton White`,image: '',summary: ``,slug: ""}
+			B00FOUDF62: {href: "https://amzn.to/3h8hlo0",nameProduct: `Toto MS992CUMFG#01 Neorest 1.0 GPF and 0.8 GPF 700H Dual Flush Toilet, Cotton White`,image: '',summary: ``,slug: ""},
+			B07B8W5NYD: {href: "https://amzn.to/2SBPRPn",nameProduct: `LG LP1217GSR 115V Portable Air Conditioner with Remote Control in Graphite Gray for Rooms up to 300-Sq. Ft. (Renewed)`,image: '',summary: ``,slug: ""},
+			B07X9JW274: {href: "https://amzn.to/2SFETZk",nameProduct: `Shinco 10,000 BTU Portable Air Conditioners with Built-in Dehumidifier Function, Fan Mode, Quiet AC Unit Cools Rooms to 300 sq.ft, LED Display, Remote Control, Complete Window Mount Exhaust Kit`,image: '',summary: ``,slug: ""},
+			B08Z3GD7KN: {href: "https://amzn.to/2SAyazF",nameProduct: `COSTWAY Compact Twin Tub Washing Machine, 17.6 lbs Mini Washing Machine with Washing and Spinning, Portable Washer for Camping, Apartments, and Dorms, Blue`,image: '',summary: ``,slug: ""},
+			B01G7IKA1C: {href: "https://amzn.to/3hjlzt8",nameProduct: `Portable Washing Machine 17lbs Compact Twin Tub Washer and Dryer Combo for Apartments,Dorms,RV's,College Rooms,Camping`,image: '',summary: ``,slug: ""},
+			B076QR4JJ6: {href: "https://amzn.to/3jsYKFW",nameProduct: `Bestway 197030 Power Steel Pool`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
