@@ -143,7 +143,13 @@ function getData(){
 			B07X9JW274: {href: "https://amzn.to/2SFETZk",nameProduct: `Shinco 10,000 BTU Portable Air Conditioners with Built-in Dehumidifier Function, Fan Mode, Quiet AC Unit Cools Rooms to 300 sq.ft, LED Display, Remote Control, Complete Window Mount Exhaust Kit`,image: '',summary: ``,slug: ""},
 			B08Z3GD7KN: {href: "https://amzn.to/2SAyazF",nameProduct: `COSTWAY Compact Twin Tub Washing Machine, 17.6 lbs Mini Washing Machine with Washing and Spinning, Portable Washer for Camping, Apartments, and Dorms, Blue`,image: '',summary: ``,slug: ""},
 			B01G7IKA1C: {href: "https://amzn.to/3hjlzt8",nameProduct: `Portable Washing Machine 17lbs Compact Twin Tub Washer and Dryer Combo for Apartments,Dorms,RV's,College Rooms,Camping`,image: '',summary: ``,slug: ""},
-			B076QR4JJ6: {href: "https://amzn.to/3jsYKFW",nameProduct: `Bestway 197030 Power Steel Pool`,image: '',summary: ``,slug: ""}
+			B076QR4JJ6: {href: "https://amzn.to/3jsYKFW",nameProduct: `Bestway 197030 Power Steel Pool`,image: '',summary: ``,slug: ""},
+			B07MDS8Y1S: {href: "https://amzn.to/3dRKnHV",nameProduct: `ECOVACS DEEBOT N79S Robot Vacuum Cleaner with Max Power Suction, Alexa Connectivity, App Controls, Self-Charging for Hard Surface Floors & Thin Carpets (Renewed)`,image: '',summary: ``,slug: ""},
+			B081DG1BRW: {href: "https://amzn.to/3jI4RX1",nameProduct: `KUPPET Washing Machine, 16.5lbs Compact Twin Tub Wash&Spin Combo for Apartment, Dorms, RVs, Camping and More, White&Brown`,image: '',summary: ``,slug: ""},
+			B07CN38M23: {href: "https://amzn.to/3AyaPzE",nameProduct: `Masterbuilt MB20071117 Digital Electric Smoker, 30 inch, Black`,image: '',summary: ``,slug: ""},
+			B00KYB47JU: {href: "https://amzn.to/3AyxvQn",nameProduct: `American Spas AM-630LM 5-Person 30-Jet Lounger Spa with Backlit LED Waterfall, 5.5Kw Titanium Heater, Tuscany Sun and Mahogany`,image: '',summary: ``,slug: ""},
+			B07S2348R9: {href: "https://amzn.to/2V5Aek5",nameProduct: `SUPER DEAL 2IN1 Mini Compact Twin Tub Washing Machine 17.6lbs Washer + Spinner Combo, with Timer Control, Drain Hose, Inlet Water Hose and Extra Long Cord`,image: '',summary: ``,slug: ""},
+			B07HVSR8RF: {href: "https://amzn.to/3hiwapr",nameProduct: `SUPER DEAL Portable Compact Washing Machine, Mini Twin Tub Washing Machine w/Washer&Spinner, Gravity Drain Pump and Drain Hose`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
