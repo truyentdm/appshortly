@@ -145,7 +145,7 @@ function myCheckAsin(fn,dataAMZCK,tag="tag",local="us"){
 	}		
   }else{
   	document.getElementById("lblResult").innerHTML = `ASIN: ${inputTextOpen} value="${asin}" id="asinID" readonly ${inputTextEnd} <span class="tooltip"><button onclick="myCopyTexFunction('asinID','myTooltipAsin')" onmouseout="outFunc('myTooltipAsin')"><span class="tooltiptext" id="myTooltipAsin">Copy to clipboard</span>Copy</button></span><br/>
-		URL: ${inputTextOpen} value="${createUrl(asin,tag,local)}" id="urlID" readonly style="width:79.4%" ${inputTextEnd} <span class="tooltip"><button onclick="myCopyTexFunction('urlID','myTooltipUrl')" onmouseout="outFunc('myTooltipUrl')"><span class="tooltiptext" id="myTooltipUrl">Copy to clipboard</span>Copy</button></span><br/>
+		URL: ${inputTextOpen} value="${createUrl(asin,tag,local)}" id="urlID" readonly style="width:79.4%" ${inputTextEnd} <span class="tooltip"><button onclick="myCopyTexFunction('urlID','myTooltipUrl')" onmouseout="outFunc('myTooltipUrl')"><span class="tooltiptext" id="myTooltipUrl">Copy to clipboard</span>Copy text</button></span><br/>
 		${inputTextOpen} value="${radioDecriptionLocal} ${createLink(asin,local,wrapLink)}" style="width:85%" id="myInputCP" ${inputTextEnd} ${copyTextCP}<br/>
 	`
   }
