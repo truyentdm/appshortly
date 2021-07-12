@@ -98,7 +98,20 @@ function createLink(asin,local,wrapLink=""){
 	}
  	
 }
-function myCheckAsin(fn,dataAMZCK,local="us"){
+function createUrl(asin,tag,local="us"){
+	var url = "";
+	if(local=="us"){
+		url = "https://www.amazon.com/";
+	}else if(local=="ca"){
+		url = "https://www.amazon.ca/";	
+	}else if(local=="uk"){
+		url = "https://www.amazon.co.uk/";	
+	}else{
+		url = "https://www.amazon.com/";
+	}
+	return `${url}dp/${asin}?tag=${tag}`;
+}
+function myCheckAsin(fn,dataAMZCK,tag="tag",local="us"){
   var asin = fn.txtAsin.value;
       asin = asin.toUpperCase();
       asin = asin.trim();
@@ -132,7 +145,8 @@ function myCheckAsin(fn,dataAMZCK,local="us"){
 	}		
   }else{
   	document.getElementById("lblResult").innerHTML = `ASIN: ${inputTextOpen} value="${asin}" id="asinID" readonly ${inputTextEnd} <span class="tooltip"><button onclick="myCopyTexFunction('asinID','myTooltipAsin')" onmouseout="outFunc('myTooltipAsin')"><span class="tooltiptext" id="myTooltipAsin">Copy to clipboard</span>Copy</button></span><br/>
-		${inputTextOpen} value="${radioDecriptionLocal} ${createLink(asin,local,wrapLink)}" style="width:85%" id="myInputCP" ${inputTextEnd} ${copyTextCP}
+		${inputTextOpen} value="${radioDecriptionLocal} ${createLink(asin,local,wrapLink)}" style="width:85%" id="myInputCP" ${inputTextEnd} ${copyTextCP}<br/>
+		${inputTextOpen} value="${createUrl(asin,tag,local)}" id="urlID" ${inputTextEnd} <span class="tooltip"><button onclick="myCopyTexFunction('urlID','myTooltipUrl')" onmouseout="outFunc('myTooltipUrl')"><span class="tooltiptext" id="myTooltipUrl">Copy to clipboard</span>Copy</button></span>
 	`
   }
 
