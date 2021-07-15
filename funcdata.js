@@ -196,7 +196,7 @@ function myCheckAsin(fn,dataAMZCK,tag="tag",local="us"){
         
   }
 function compareReferrer(objRef){
-	var objExt = ["youtube","tipswalls"];
+	var objExt = ["youtube","tipswalls","tipslittle"];
 	for(var i=0;i < objRef.length; i++){
 		for(var j=0;j < objExt.length; j++){
 			if(objExt[j] == objRef[i]){
