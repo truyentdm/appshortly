@@ -452,7 +452,10 @@ function getData(){
 			B081DG1BRW: {href: "https://www.amazon.com/dp/B081DG1BRW?tag=groovy0a1-20",nameProduct: `KUPPET Washing Machine, 16.5lbs Compact Twin Tub Wash&Spin Combo for Apartment, Dorms, RVs, Camping and More, White&Brown`,slug: "",summary: ``,image: ''},
 			B00KYB47JU: {href: "https://www.amazon.com/dp/B00KYB47JU?tag=groovy0a1-20",nameProduct: `American Spas AM-630LM 5-Person 30-Jet Lounger Spa with Backlit LED Waterfall, 5.5Kw Titanium Heater, Tuscany Sun and Mahogany`,slug: "",summary: ``,image: ''},
 			B07S2348R9: {href: "https://www.amazon.com/dp/B07S2348R9?tag=groovy0a1-20",nameProduct: `SUPER DEAL 2IN1 Mini Compact Twin Tub Washing Machine 17.6lbs Washer + Spinner Combo, with Timer Control, Drain Hose, Inlet Water Hose and Extra Long Cord`,slug: "",summary: ``,image: ''},
-			B07HVSR8RF: {href: "https://www.amazon.com/dp/B07HVSR8RF?tag=groovy0a1-20",nameProduct: `SUPER DEAL Portable Compact Washing Machine, Mini Twin Tub Washing Machine w/Washer&Spinner, Gravity Drain Pump and Drain Hose`,slug: "",summary: ``,image: ''}
+			B07HVSR8RF: {href: "https://www.amazon.com/dp/B07HVSR8RF?tag=groovy0a1-20",nameProduct: `SUPER DEAL Portable Compact Washing Machine, Mini Twin Tub Washing Machine w/Washer&Spinner, Gravity Drain Pump and Drain Hose`,slug: "",summary: ``,image: ''},
+			B08B4L4CGG: {href: "https://www.amazon.com/dp/B08B4L4CGG?tag=groovy0a1-20",nameProduct: `COMFEE' Portable Washing Machine, 0.9 cu.ft Compact Washer With LED Display, 5 Wash Cycles, 2 Built-in Rollers, Space Saving Full-Automatic Washer, Ideal Laundry for RV, Dorm, Apartment, Magnetic Gray`,slug: "",summary: ``,image: ''},
+			B0762N3T85: {href: "https://www.amazon.com/dp/B0762N3T85?tag=groovy0a1-20",nameProduct: `Panda PAN60SF-01 Compact Portable Dryer 3.5cu.ft, White`,slug: "",summary: ``,image: ''},
+			B08TKD4TN9: {href: "https://www.amazon.com/dp/B08TKD4TN9?tag=groovy0a1-20",nameProduct: `Rosewill Portable Air Conditioner 7000 BTU, AC Fan & Dehumidifier 3-in-1 Cool/Fan/Dehumidify w/Remote Control, Quiet Energy Efficient Self Evaporation AC Unit for Single Room Use, RHPA-18001`,slug: "",summary: ``,image: ''}
 		}
 	}
 	return dataAMZ;
