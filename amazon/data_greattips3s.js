@@ -525,7 +525,7 @@ function getData(){
 			B00H2VOSP8: {href: "https://amzn.to/3dhD4Ye",nameProduct: `Corentium Home Radon Detector by Airthings 223 Portable, Lightweight, Easy-to-Use, (3) AAA Battery Operated, USA Version, pCi/L`,slug: "",summary: ``,image: ''},
 			B01DE8PN10: {href: "https://amzn.to/3diA4ea",nameProduct: `prodigy 2.0 New 2018 leggett & platt with 10inch Gel Mattresses (split king(2 twin xl matts))`,slug: "",summary: ``,image: ''},
 			B0100RBPTC: {href: "https://amzn.to/3djhin3",nameProduct: `Casio Privia PX-160BK 88-Key Full Size Digital Piano with Power Supply, Black`,slug: "",summary: ``,image: ''},
-			B07FJ6THDT: {href: "https://www.amazon.com/dp/TDM?tag=gt05e-20",nameProduct: `Mid Century Lounge Chair with Ottoman,Modern Classic Design, Genuine Natural Leather, Heavy Duty Base Support`,slug: "",summary: ``,image: B08T8F8SFT},
+			B07FJ6THDT: {href: "https://amzn.to/3oamRJY",nameProduct: `Mid Century Lounge Chair with Ottoman,Modern Classic Design, Genuine Natural Leather, Heavy Duty Base Support`,slug: "",summary: ``,image: ''},
 			B01JKDAN2M: {href: "https://amzn.to/3dkhxOE",nameProduct: `Pure Enrichment PureZone 3-in-1 True HEPA Air Purifier - 3 Speeds Plus UV-C Air Sanitizer - Eliminates Dust, Pollen, Smoke, Household Odors and More - with Whisper-Quiet Operation and Auto Off Timer`,slug: "",summary: ``,image: ''},
 			B072PZ4LVN: {href: "https://amzn.to/3dl5dhl",nameProduct: `Rivet Revolve Modern Sofa, 80"W, Grey Weave`,slug: "",summary: ``,image: ''},
 			B078MGY2CS: {href: "https://amzn.to/3dl8NYH",nameProduct: `Giantex Full-Automatic Washing Machine Portable Compact 1.6 Cu.ft Laundry Washer Spin with Drain Pump, 10 programs 8 Water Level Selections with LED Display 10 Lbs Capacity`,slug: "",summary: ``,image: ''},
