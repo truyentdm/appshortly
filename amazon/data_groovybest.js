@@ -149,7 +149,7 @@ function getData(){
 			B01N1I9D6E: {href: "https://amzn.to/3rpb3n6",nameProduct: `WoodBridge T-0001 One Piece Toilet, Rectangle Button and Soft Closing Seat - Dual Flush, Elongated, Comfort Height, Water Sense, High-Efficiency`,slug: "",summary: ``,image: ''},
 			B07RGM11L5: {href: "https://amzn.to/3u0xiBt",nameProduct: `Frigidaire 5,000 BTU 115V Window-Mounted Mini-Compact Air Conditioner with Mechanical Controls, White`,slug: "",summary: ``,image: ''},
 			B0128T2HQK: {href: "https://amzn.to/2PyLrqO",nameProduct: `SmartBidet SB-1000 Electric Bidet Seat for Elongated Toilets with Remote Control- Electronic Heated Toilet Seat with Warm Air Dryer and Temperature Controlled Wash Functions (White)`,slug: "",summary: ``,image: ''},
-			B08D3HW1MQ: {href: "https://amzn.to/3m0rlBR",nameProduct: `ECOTRIC Electric Powerful Bicycle 26“ Fat Tire Bike 500W 36V/12AH Battery EBike Moped Snow Beach Mountain Ebike Throttle & Pedal Assist`,slug: "",summary: ``,image: ''},
+			B08D3HW1MQ: {href: "https://www.amazon.com/dp/B08TQ6HDBK TDM?tag=groovy0a1-20",nameProduct: `ECOTRIC Electric Powerful Bicycle 26“ Fat Tire Bike 500W 36V/12AH Battery EBike Moped Snow Beach Mountain Ebike Throttle & Pedal Assist`,slug: "",summary: ``,image: ''},
 			B07J31T4NC: {href: "https://amzn.to/3lXJKPA",nameProduct: `Nod by Tuft & Needle, Adaptive Foam 8-Inch Mattress, Queen`,slug: "",summary: ``,image: ''},
 			B06W54K29J: {href: "https://amzn.to/3w7VPX1",nameProduct: `LEVOIT Air Purifier for Home Large Room,Smoke and Odor Eliminator, H13 True HEPA Filter for Bedroom, Auto Mode & 12h Timer, Cleaners for Allergies and Pets, Mold Pollen Dust, LV-PUR131, White`,slug: "",summary: ``,image: ''},
 			B076MK5MHY: {href: "https://amzn.to/3w8DskQ",nameProduct: `Seatcraft Anthem Home Theater Seating Leather Multimedia Power Recline Sofa with Fold-Down Table, Adjustable Powered Headrests, Storage, AC/USB and Wireless Charging and Cup Holders (Black)`,slug: "",summary: ``,image: ''},
@@ -465,7 +465,12 @@ function getData(){
 			B002R8CPRY: {href: "https://www.amazon.com/dp/B002R8CPRY?tag=groovy0a1-20",nameProduct: `Sunny Health & Fitness SF-E905 Elliptical Machine Cross Trainer with 8 Level Resistance and Digital Monitor`,slug: "",summary: ``,image: ''},
 			B01MRZ02TL: {href: "https://www.amazon.com/dp/B01MRZ02TL?tag=groovy0a1-20",nameProduct: `Homall Gaming Chair Office Chair High Back Computer Chair Leather Desk Chair Racing Executive Ergonomic Adjustable Swivel Task Chair with Headrest and Lumbar Support (White)`,slug: "",summary: ``,image: ''},
 			B01M0L0D90: {href: "https://www.amazon.com/dp/B01M0L0D90?tag=groovy0a1-20",nameProduct: `XTERRA Fitness TR150 Folding Treadmill Black`,slug: "",summary: ``,image: ''},
-			B01M73WPQ7: {href: "https://www.amazon.com/dp/B01M73WPQ7?tag=groovy0a1-20",nameProduct: `PuraFlame Alice 50 Inches Recessed Electric Fireplace, Flush Mounted for 2 X 6 Stud, Log Set & Crystal, 1500W Heater, Black`,slug: "",summary: ``,image: ''}
+			B01M73WPQ7: {href: "https://www.amazon.com/dp/B01M73WPQ7?tag=groovy0a1-20",nameProduct: `PuraFlame Alice 50 Inches Recessed Electric Fireplace, Flush Mounted for 2 X 6 Stud, Log Set & Crystal, 1500W Heater, Black`,slug: "",summary: ``,image: ''},
+			B00Z4TSRFW: {href: "https://www.amazon.com/dp/B00Z4TSRFW?tag=groovy0a1-20",nameProduct: `Jura 15068 IMPRESSA C65 Automatic Coffee Machine, Platinum`,slug: "",summary: ``,image: ''},
+			B00PKXWIPC: {href: "https://www.amazon.com/dp/B00PKXWIPC?tag=groovy0a1-20",nameProduct: `SAFAVIEH Hudson Shag Collection SGH281A Modern Diamond Trellis Non-Shedding Living Room Bedroom Dining Room Entryway Plush 2-inch Thick Area Rug, 8' x 10', Ivory / Grey`,slug: "",summary: ``,image: ''},
+			B08BYKCQJ6: {href: "https://www.amazon.com/dp/B08BYKCQJ6?tag=groovy0a1-20",nameProduct: `KUPPET Portable Washing Machine, Compact Twin Tub Washer and Spin Dryer Combo for Apartment, Dorms, RVs, Camping, 17lbs`,slug: "",summary: ``,image: ''},
+			B00HXGSBXC: {href: "https://www.amazon.com/dp/B00HXGSBXC?tag=groovy0a1-20",nameProduct: `RoyalBaby Kids Bike Boys Girls Freestyle Bicycle 12 14 16 Inch with Training Wheels, 16 18 20 with Kickstand Child's Bike, Blue Red White Pink Green Orange`,slug: "",summary: ``,image: ''},
+			B013LIN5W2: {href: "https://www.amazon.com/dp/B013LIN5W2?tag=groovy0a1-20",nameProduct: `Polk Audio T50 150 Watt Home Theater Floor Standing Tower Speaker (Single, Black) - Hi-Res Audio with Deep Bass Response | Dolby and DTS Surround`,slug: "",summary: ``,image: ''}
 		}
 	}
 	return dataAMZ;
