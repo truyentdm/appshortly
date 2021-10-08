@@ -149,7 +149,13 @@ function getData(){
 			B07CN38M23: {href: "https://www.amazon.com/dp/B07CN38M23?tag=tdg0af-20",nameProduct: `Masterbuilt MB20071117 Digital Electric Smoker, 30 inch, Black`,slug: "",summary: ``,image: ''},
 			B00KYB47JU: {href: "https://www.amazon.com/dp/B00KYB47JU?tag=tdg0af-20",nameProduct: `American Spas AM-630LM 5-Person 30-Jet Lounger Spa with Backlit LED Waterfall, 5.5Kw Titanium Heater, Tuscany Sun and Mahogany`,slug: "",summary: ``,image: ''},
 			B07S2348R9: {href: "https://www.amazon.com/dp/B07S2348R9?tag=tdg0af-20",nameProduct: `SUPER DEAL 2IN1 Mini Compact Twin Tub Washing Machine 17.6lbs Washer + Spinner Combo, with Timer Control, Drain Hose, Inlet Water Hose and Extra Long Cord`,slug: "",summary: ``,image: ''},
-			B07HVSR8RF: {href: "https://www.amazon.com/dp/B07HVSR8RF?tag=tdg0af-20",nameProduct: `SUPER DEAL Portable Compact Washing Machine, Mini Twin Tub Washing Machine w/Washer&Spinner, Gravity Drain Pump and Drain Hose`,slug: "",summary: ``,image: ''}
+			B07HVSR8RF: {href: "https://www.amazon.com/dp/B07HVSR8RF?tag=tdg0af-20",nameProduct: `SUPER DEAL Portable Compact Washing Machine, Mini Twin Tub Washing Machine w/Washer&Spinner, Gravity Drain Pump and Drain Hose`,slug: "",summary: ``,image: ''},
+			B06XFVQFP9: {href: "https://www.amazon.com/dp/B06XFVQFP9?tag=tdg0af-20",nameProduct: `LG 6,000 BTU 115V Window Air Conditioner with Remote Control, White`,slug: "",summary: ``,image: ''},
+			B0026SR0FW: {href: "https://www.amazon.com/dp/B0026SR0FW?tag=tdg0af-20",nameProduct: `Graco Magnum 262800 X5 Stand Airless Paint Sprayer`,slug: "",summary: ``,image: ''},
+			B08NSPS9NH: {href: "https://www.amazon.com/dp/B08NSPS9NH?tag=tdg0af-20",nameProduct: `Essential Hot Tubs 67-Jets 2021 Syracuse Hot Tub, Seats 5-6, Gray`,slug: "",summary: ``,image: ''},
+			B01C9RIACG: {href: "https://www.amazon.com/dp/B01C9RIACG?tag=tdg0af-20",nameProduct: `Coway Airmega 400 Smart Air Purifier with 1,560 sq. ft. Coverage`,slug: "",summary: ``,image: ''},
+			B00HQONFY6: {href: "https://www.amazon.com/dp/B00HQONFY6?tag=tdg0af-20",nameProduct: `WEN 4214 12-Inch Variable Speed Drill Press`,slug: "",summary: ``,image: ''},
+			B071ZLY1BR: {href: "https://www.amazon.com/dp/B071ZLY1BR?tag=tdg0af-20",nameProduct: `Amazon Brand – Rivet Revolve Modern Upholstered Sofa Couch`,slug: "",summary: ``,image: ''}
 		}
 	}
 	return dataAMZ;
