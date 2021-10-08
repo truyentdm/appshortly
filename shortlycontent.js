@@ -39,12 +39,12 @@ function shortlyContent(){
 	`},{title: `Oster Convection Countertop Toaster Oven`, content: `
 		<h2>Product highlights:</h2>
 		<ul>
-			<li>Convection technology</li>
-			<li>Easy-to-use dial controls</li>
-			<li>Large interior</li>
-			<li>Auto shutoff</li>
+			<li>- Convection technology</li>
+			<li>- Easy-to-use dial controls</li>
+			<li>- Large interior</li>
+			<li>- Auto shutoff</li>
 		</ul>
-		<div class="separator" style="clear: both;"><img alt="" border="0" width="600" data-original-height="715" data-original-width="1057" src="https://blogger.googleusercontent.com/img/a/AVvXsEj0Nodqf-dZlP_ZtKbUkySz_c50gpMqu6EUsqG-zkHLqjt7aeLyUV9yG639l_zMBR8tz-xq4npMn4egdRjjMNMbWNxKOyt5aWg7fLdTsymCh2UqdhVCBrEGWqYdv2a1rXnNMRLcK-UnBkOMyT1bv6DBFsztXnGmdfqzcRsJKcGY8nUrTKREAvkeVTVfDw=s600"/></div>
+		<div class="short-img"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgeshjVg3xwEXwBODubMw5S45meLXw5PiFMbifGttJYMbzK094B3icSf1oPvevhBxW7HVtouLX-H1ZynpDUsQ_o14tjCyZ_g0Pgcl7s2PXlDOY5ZPOobUX95ZLcjjc52wMkMvOMjLh8Dsb9fTjww5_1TNEbrbJOj_nIuV8twK7zrA5ld01undWVviDuTA=s1057"/></div>
 		<p>- The Oster Convection Countertop Toaster Oven is a great option for anyone who doesn't have the space or time to cook large meals. </p>
 		<p>- This oven can be used as an extra cooking surface in an apartment, or it can save you from heating up your entire kitchen when all you need is something small like toast. </p>
 		<p>- In addition, this oven has a convection setting which will allow you to bake and roast at lower temperatures while still getting excellent results. </p>
