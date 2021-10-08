@@ -36,6 +36,19 @@ function shortlyContent(){
 		- Less Power than an Oven<br/>
 		<b>+ Cons</b><br/>
 		- Slow to Cook<br/>
+	`},{title: `Oster Convection Countertop Toaster Oven`, content: `
+		<h2>Product highlights:</h2>
+		<ul>
+			<li>Convection technology</li>
+			<li>Easy-to-use dial controls</li>
+			<li>Large interior</li>
+			<li>Auto shutoff</li>
+		</ul>
+		<div class="separator" style="clear: both;"><img alt="" border="0" width="600" data-original-height="715" data-original-width="1057" src="https://blogger.googleusercontent.com/img/a/AVvXsEj0Nodqf-dZlP_ZtKbUkySz_c50gpMqu6EUsqG-zkHLqjt7aeLyUV9yG639l_zMBR8tz-xq4npMn4egdRjjMNMbWNxKOyt5aWg7fLdTsymCh2UqdhVCBrEGWqYdv2a1rXnNMRLcK-UnBkOMyT1bv6DBFsztXnGmdfqzcRsJKcGY8nUrTKREAvkeVTVfDw=s600"/></div>
+		<p>- The Oster Convection Countertop Toaster Oven is a great option for anyone who doesn't have the space or time to cook large meals. </p>
+		<p>- This oven can be used as an extra cooking surface in an apartment, or it can save you from heating up your entire kitchen when all you need is something small like toast. </p>
+		<p>- In addition, this oven has a convection setting which will allow you to bake and roast at lower temperatures while still getting excellent results. </p>
+		<p>- The Oster Convection Countertop Toaster Oven is perfect for any individual looking to save on their electric bill and get better quality food by using just one appliance instead of two! </p>
 	`}
 ]
   return data;
