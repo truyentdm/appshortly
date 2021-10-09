@@ -500,7 +500,11 @@ function getData(){
 			B07DDRGVW7: {href: "https://www.amazon.com/dp/B07DDRGVW7?tag=groovy0a1-20",nameProduct: `Technivorm Moccamaster KBT Coffee Brewer, 40 oz, Stone Grey`,slug: "",summary: ``,image: ''},
 			B07VRWZCDS: {href: "https://www.amazon.com/dp/B07VRWZCDS?tag=groovy0a1-20",nameProduct: `Sven & Son King Adjustable Bed Base Frame Platinum (Individual Head Tilt & Lumbar) USB Ports, Zero Gravity, Anti Snoring Interactive Dual Massage (Adjustable Base Only, King)`,slug: "",summary: ``,image: ''},
 			B07QYC1TFB: {href: "https://www.amazon.com/dp/B07QYC1TFB?tag=groovy0a1-20",nameProduct: `SOLAURA 7-Piece Outdoor Furniture Set, Gray Wicker Patio Furniture Modular Sectional Sofa Patio Conversation Set with Zipper &Coffee Table (Denim Blue)`,slug: "",summary: ``,image: ''},
-			B00005RHPD: {href: "https://www.amazon.com/dp/B00005RHPD?tag=groovy0a1-20",nameProduct: `Bosch 1617EVSPK Wood Router Tool Combo Kit - 2.25 Horsepower Plunge Router & Fixed Base Router Kit with a Variable Speed 12 Amp Motor`,slug: "",summary: ``,image: ''}
+			B00005RHPD: {href: "https://www.amazon.com/dp/B00005RHPD?tag=groovy0a1-20",nameProduct: `Bosch 1617EVSPK Wood Router Tool Combo Kit - 2.25 Horsepower Plunge Router & Fixed Base Router Kit with a Variable Speed 12 Amp Motor`,slug: "",summary: ``,image: ''},
+			B002QAYJPO: {href: "https://www.amazon.com/dp/B002QAYJPO?tag=groovy0a1-20",nameProduct: `Honeywell Germ Free Cool Mist Humidifier`,slug: "",summary: ``,image: ''},
+			B079K4L5BD: {href: "https://www.amazon.com/dp/B079K4L5BD?tag=groovy0a1-20",nameProduct: `ZINUS Ricardo Sofa Couch / Tufted Cushions / Easy, Tool-Free Assembly, Chestnut Brown`,slug: "",summary: ``,image: ''},
+			B07D528W98: {href: "https://www.amazon.com/dp/B07D528W98?tag=groovy0a1-20",nameProduct: `YOSUDA Indoor Cycling Bike Stationary - Cycle Bike with Ipad Mount ＆Comfortable Seat Cushion (Gray)`,slug: "",summary: ``,image: ''},
+			B0866Y33PL: {href: "https://www.amazon.com/dp/B0866Y33PL?tag=groovy0a1-20",nameProduct: `Midea U Inverter Window Air Conditioner 10,000BTU, U-Shaped AC with Open Window Flexibility, Robust Installation,Extreme Quiet, 35% Energy Saving, Smart Control, Alexa, Remote, Bracket Included`,slug: "",summary: ``,image: ''}
 		}
 	}
 	return dataAMZ;
