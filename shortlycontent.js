@@ -42,12 +42,26 @@ function shortlyContent(){
 		<p>- In addition, this oven has a convection setting which will allow you to bake and roast at lower temperatures while still getting excellent results. </p>
 		<p>- The Oster Convection Countertop Toaster Oven is perfect for any individual looking to save on their electric bill and get better quality food by using just one appliance instead of two! </p>
 		<div class="short-img"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgeshjVg3xwEXwBODubMw5S45meLXw5PiFMbifGttJYMbzK094B3icSf1oPvevhBxW7HVtouLX-H1ZynpDUsQ_o14tjCyZ_g0Pgcl7s2PXlDOY5ZPOobUX95ZLcjjc52wMkMvOMjLh8Dsb9fTjww5_1TNEbrbJOj_nIuV8twK7zrA5ld01undWVviDuTA=s1057"/></div>
-		<h2>Product highlights:</h2>
+		<h3>Product highlights:</h3>
 		<ul>
 			<li>- Convection technology</li>
 			<li>- Easy-to-use dial controls</li>
 			<li>- Large interior</li>
 			<li>- Auto shutoff</li>
+		</ul>
+	`},{title: `Zinus 8 Inch Gel-Infused Green Tea Memory Foam Mattress`, content: `
+		<p>- A new memory foam mattress can help you sleep more comfortably. Not only does the 8-inch Zinus Green Tea Memory Foam Mattress have a unique gel-infused green tea memory foam, but it also has an extra layer of cooling fabric to keep you cool during your slumber. </p>
+		<p>- With their 8-inch Gel Infused Green Tea Memory Foam Mattress, they provide the ultimate in comfort for an unbeatable price. The mattress is designed with gel memory foam which provides pressure point relief while keeping you cool throughout the night. </p>
+		<p>- This mattress is also infused with green tea extract which naturally promotes relaxation and helps maintain humidity levels in your bedroom during sleep; this all removes excess moisture from the air to help keep you more comfortable at night. </p>
+		<p>- If you're looking for an affordable memory foam mattress that offers the best sleep experience possible, this is it! </p>
+		<div class="short-img"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEivhFuqxRn_Fmyo_CoAcM8RXw3I3Wyt07ngAu1ft-VObDdCN5mqyPRMLNITAa590pmkeaOqPeYczQqr9XZB5OfWozoswl0sQ5o3P-Y491-B3d6AzAe9krWwN-dariQtRedMjKfvy9iaQ-_bInNvxLJLldb4kfj_hb9LM6THSGWo13Skdh0_IU_TQ5ayGA"/></div>
+		<h3>Product highlights:</h3>
+		<ul>
+			<li>- Soft Poly Jacquard Cover</li>
+			<li>- packed with cooling gel and green tea</li>
+			<li>- pressure-relieving foams</li>
+			<li>- Highest quality foam</li>
+			<li>- easily shipped and maneuvered</li>
 		</ul>
 	`}
 ]
