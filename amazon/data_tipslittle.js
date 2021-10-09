@@ -155,7 +155,13 @@ function getData(){
 			B08NSPS9NH: {href: "https://www.amazon.com/dp/B08NSPS9NH?tag=tdg0af-20",nameProduct: `Essential Hot Tubs 67-Jets 2021 Syracuse Hot Tub, Seats 5-6, Gray`,slug: "",summary: ``,image: ''},
 			B01C9RIACG: {href: "https://www.amazon.com/dp/B01C9RIACG?tag=tdg0af-20",nameProduct: `Coway Airmega 400 Smart Air Purifier with 1,560 sq. ft. Coverage`,slug: "",summary: ``,image: ''},
 			B00HQONFY6: {href: "https://www.amazon.com/dp/B00HQONFY6?tag=tdg0af-20",nameProduct: `WEN 4214 12-Inch Variable Speed Drill Press`,slug: "",summary: ``,image: ''},
-			B071ZLY1BR: {href: "https://www.amazon.com/dp/B071ZLY1BR?tag=tdg0af-20",nameProduct: `Amazon Brand – Rivet Revolve Modern Upholstered Sofa Couch`,slug: "",summary: ``,image: ''}
+			B071ZLY1BR: {href: "https://www.amazon.com/dp/B071ZLY1BR?tag=tdg0af-20",nameProduct: `Amazon Brand – Rivet Revolve Modern Upholstered Sofa Couch`,slug: "",summary: ``,image: ''},
+			B0859LC1SQ: {href: "https://www.amazon.com/dp/B0859LC1SQ?tag=tdg0af-20",nameProduct: `Avallon AWC241DBLSS 24 Inch Wide 46 Bottle Capacity Free Standing Wine Cooler with LED Lighting and Double Pane Glass`,slug: "",summary: ``,image: ''},
+			B07GL7PNPQ: {href: "https://www.amazon.com/dp/B07GL7PNPQ?tag=tdg0af-20",nameProduct: `Traeger Grills Pro Series 34 Electric Wood Pellet Grill and Smoker, Bronze`,slug: "",summary: ``,image: ''},
+			B01D8DAYBA: {href: "https://www.amazon.com/dp/B01D8DAYBA?tag=tdg0af-20",nameProduct: `Winix 5300-2 Air Purifier with True HEPA, PlasmaWave and Odor Reducing Carbon Filter,Gray`,slug: "",summary: ``,image: ''},
+			B07ZNJ6Q9X: {href: "https://www.amazon.com/dp/B07ZNJ6Q9X?tag=tdg0af-20",nameProduct: `Roborock S5 Robot Vacuum and Mop Cleaner, Self-Charging Robotic Vacuum, Lidar Navigation, Selective Room Cleaning, No-mop Zones, 2000Pa Powerful Suction, 180mins Runtime, Works with Alexa`,slug: "",summary: ``,image: ''},
+			B01DE8PN10: {href: "https://www.amazon.com/dp/B01DE8PN10?tag=tdg0af-20",nameProduct: `Leggett & Platt Prodigy 2.0 Adjustable Bed with 10" Gel Cool Mattresses (split king(2 twin xl matts))`,slug: "",summary: ``,image: ''},
+			B07GXZ49DY: {href: "https://www.amazon.com/dp/B07GXZ49DY?tag=tdg0af-20",nameProduct: `Kahuna Massage Chair LM-6800 Black`,slug: "",summary: ``,image: ''}
 		}
 	}
 	return dataAMZ;
