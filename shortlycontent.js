@@ -63,6 +63,21 @@ function shortlyContent(){
 			<li>- Highest quality foam</li>
 			<li>- easily shipped and maneuvered</li>
 		</ul>
+	`},{title: `JOROTO Belt Drive Indoor Cycling Bike`, content: `
+		<p>- Biking is a great way to stay healthy and get in some cardio. But it can be hard to find time, or motivation, for a long bike ride outside. It's also not very safe during the winter months when biking conditions are less than ideal. </p>
+		<p>- That's where an indoor cycling bike comes in! The JOROTO Belt Drive Indoor Cycling Bike gives you all the benefits of outdoor biking with none of the downsides! </p>
+		<p>- The JOROTO Belt Drive Indoor Cycling Bike allows you to cycle indoors at your convenience and without any worries about traffic or weather conditions. </p>
+		<p>- The JOROTO Belt Drive Indoor Cycling Bike utilizes a belt drive system which offers an increased level of durability compared to traditional chain drives, as well as less maintenance over time since there are no moving parts that can get dirty or damaged. </p>
+		<p>- It also has increased resistance levels with its flywheel design, making it perfect for anyone looking for an intense workout indoors. The bike also comes standard with both front and rear handbrakes so you can stop quickly if needed! </p>
+		<div class="short-img"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjOogGxuaksoEKs2cxCQEf8Fs9WQX4VyH-h-4ASGhSbmWAHL-CyJcdCab7qJ6UJypYk5C32nc1tEWS5kNUkve8CNPjTeydgxzeB7jREg0T0HphzJyxH6jes-JjSE-ccDePDyPRDCyWm602iBdC3Ly5RdPzDF0fpeqjIlXhCU8r7_jEQeARIN0RNfCYGeQ=s1500"/></div>
+		<h3>Product highlights:</h3>
+		<ul>
+			<li>- The AV type frame, 35lbs chromed flywheel</li>
+			<li>- unbelievably smooth and nearly silent ride</li>
+			<li>- The wide seat</li>
+			<li>- convenient adjustable knob</li>
+			<li>- Safe & Convenient </li>
+		</ul>
 	`}
 ]
   return data;
