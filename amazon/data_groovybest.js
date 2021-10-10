@@ -504,7 +504,8 @@ function getData(){
 			B002QAYJPO: {href: "https://www.amazon.com/dp/B002QAYJPO?tag=groovy0a1-20",nameProduct: `Honeywell Germ Free Cool Mist Humidifier`,slug: "",summary: ``,image: ''},
 			B079K4L5BD: {href: "https://www.amazon.com/dp/B079K4L5BD?tag=groovy0a1-20",nameProduct: `ZINUS Ricardo Sofa Couch / Tufted Cushions / Easy, Tool-Free Assembly, Chestnut Brown`,slug: "",summary: ``,image: ''},
 			B07D528W98: {href: "https://www.amazon.com/dp/B07D528W98?tag=groovy0a1-20",nameProduct: `YOSUDA Indoor Cycling Bike Stationary - Cycle Bike with Ipad Mount ＆Comfortable Seat Cushion (Gray)`,slug: "",summary: ``,image: ''},
-			B0866Y33PL: {href: "https://www.amazon.com/dp/B0866Y33PL?tag=groovy0a1-20",nameProduct: `Midea U Inverter Window Air Conditioner 10,000BTU, U-Shaped AC with Open Window Flexibility, Robust Installation,Extreme Quiet, 35% Energy Saving, Smart Control, Alexa, Remote, Bracket Included`,slug: "",summary: ``,image: ''}
+			B0866Y33PL: {href: "https://www.amazon.com/dp/B0866Y33PL?tag=groovy0a1-20",nameProduct: `Midea U Inverter Window Air Conditioner 10,000BTU, U-Shaped AC with Open Window Flexibility, Robust Installation,Extreme Quiet, 35% Energy Saving, Smart Control, Alexa, Remote, Bracket Included`,slug: "",summary: ``,image: ''},
+			B07TC3659T: {href: "https://www.amazon.com/dp/B07TC3659T?tag=groovy0a1-20",nameProduct: `KUPPET Portable Washing Machine, Compact Twin Tub Washer and Spin Dryer Combo for Apartment, Dorms, RVs, Camping, 17lbs`,slug: "",summary: ``,image: ''}
 		}
 	}
 	return dataAMZ;
