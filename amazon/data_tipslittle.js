@@ -161,7 +161,12 @@ function getData(){
 			B01D8DAYBA: {href: "https://www.amazon.com/dp/B01D8DAYBA?tag=tdg0af-20",nameProduct: `Winix 5300-2 Air Purifier with True HEPA, PlasmaWave and Odor Reducing Carbon Filter,Gray`,slug: "",summary: ``,image: ''},
 			B07ZNJ6Q9X: {href: "https://www.amazon.com/dp/B07ZNJ6Q9X?tag=tdg0af-20",nameProduct: `Roborock S5 Robot Vacuum and Mop Cleaner, Self-Charging Robotic Vacuum, Lidar Navigation, Selective Room Cleaning, No-mop Zones, 2000Pa Powerful Suction, 180mins Runtime, Works with Alexa`,slug: "",summary: ``,image: ''},
 			B01DE8PN10: {href: "https://www.amazon.com/dp/B01DE8PN10?tag=tdg0af-20",nameProduct: `Leggett & Platt Prodigy 2.0 Adjustable Bed with 10" Gel Cool Mattresses (split king(2 twin xl matts))`,slug: "",summary: ``,image: ''},
-			B07GXZ49DY: {href: "https://www.amazon.com/dp/B07GXZ49DY?tag=tdg0af-20",nameProduct: `Kahuna Massage Chair LM-6800 Black`,slug: "",summary: ``,image: ''}
+			B07GXZ49DY: {href: "https://www.amazon.com/dp/B07GXZ49DY?tag=tdg0af-20",nameProduct: `Kahuna Massage Chair LM-6800 Black`,slug: "",summary: ``,image: ''},
+			B07F3DP48S: {href: "https://www.amazon.com/dp/B07F3DP48S?tag=tdg0af-20",nameProduct: `Intex 26329EH Intex-18' X 52" Ultra XTR Frame Set Pool, 18ft X 52in, dark grey`,slug: "",summary: ``,image: ''},
+			B00LIAP2ZY: {href: "https://www.amazon.com/dp/B00LIAP2ZY?tag=tdg0af-20",nameProduct: `LG WM3997HWA Ventless 4.3 Cu. Ft. Capacity Steam Washer/Dryer Combination with TurboWash, TrueBalance Anti-Vibration System, NeveRust Stainless Steel Drum, Allergiene Cycle in White`,slug: "",summary: ``,image: ''},
+			B01DLPUWL2: {href: "https://www.amazon.com/dp/B01DLPUWL2?tag=tdg0af-20",nameProduct: `BLACK+DECKER BPACT08WT Portable Air Conditioner with Remote Control, 5,000 BTU DOE (8,000 BTU ASHRAE), Cools Up to 150 Square Feet, White`,slug: "",summary: ``,image: ''},
+			B0923RYP6Y: {href: "https://www.amazon.com/dp/B0923RYP6Y?tag=tdg0af-20",nameProduct: `WOODBRIDGE T-0001-CH Toilet, with Chrome Button`,slug: "",summary: ``,image: ''},
+			B07RGM11L5: {href: "https://www.amazon.com/dp/B07RGM11L5?tag=tdg0af-20",nameProduct: `FRIGIDAIRE 5,000 BTU 115V Window-Mounted Mini-Compact Air Conditioner with Mechanical Controls, White`,slug: "",summary: ``,image: ''}
 		}
 	}
 	return dataAMZ;
