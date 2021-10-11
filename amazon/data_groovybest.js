@@ -505,7 +505,11 @@ function getData(){
 			B079K4L5BD: {href: "https://www.amazon.com/dp/B079K4L5BD?tag=groovy0a1-20",nameProduct: `ZINUS Ricardo Sofa Couch / Tufted Cushions / Easy, Tool-Free Assembly, Chestnut Brown`,slug: "",summary: ``,image: ''},
 			B07D528W98: {href: "https://www.amazon.com/dp/B07D528W98?tag=groovy0a1-20",nameProduct: `YOSUDA Indoor Cycling Bike Stationary - Cycle Bike with Ipad Mount ＆Comfortable Seat Cushion (Gray)`,slug: "",summary: ``,image: ''},
 			B0866Y33PL: {href: "https://www.amazon.com/dp/B0866Y33PL?tag=groovy0a1-20",nameProduct: `Midea U Inverter Window Air Conditioner 10,000BTU, U-Shaped AC with Open Window Flexibility, Robust Installation,Extreme Quiet, 35% Energy Saving, Smart Control, Alexa, Remote, Bracket Included`,slug: "",summary: ``,image: ''},
-			B07TC3659T: {href: "https://www.amazon.com/dp/B07TC3659T?tag=groovy0a1-20",nameProduct: `KUPPET Portable Washing Machine, Compact Twin Tub Washer and Spin Dryer Combo for Apartment, Dorms, RVs, Camping, 17lbs`,slug: "",summary: ``,image: ''}
+			B07TC3659T: {href: "https://www.amazon.com/dp/B07TC3659T?tag=groovy0a1-20",nameProduct: `KUPPET Portable Washing Machine, Compact Twin Tub Washer and Spin Dryer Combo for Apartment, Dorms, RVs, Camping, 17lbs`,slug: "",summary: ``,image: ''},
+			B074R7GK8V: {href: "https://www.amazon.com/dp/B074R7GK8V?tag=groovy0a1-20",nameProduct: `COSTWAY Mini Washing Machine with Spin Dryer, Washing Capacity 5.5lbs, Electric Compact Laundry Machines Portable Durable Design Washer Energy Saving, Rotary Controller`,slug: "",summary: ``,image: ''},
+			B07BN3B3YT: {href: "https://www.amazon.com/dp/B07BN3B3YT?tag=groovy0a1-20",nameProduct: `Avanti STW20D2P Portable Top Load Washer`,slug: "",summary: ``,image: ''},
+			B07F618LKC: {href: "https://www.amazon.com/dp/B07F618LKC?tag=groovy0a1-20",nameProduct: `COSTWAY Compact Laundry Dryer, 110V Electric Portable Clothes Dryer with Stainless Steel Tub, Control Panel Downside Easy Control for 4 Automatic Drying Mode, White`,slug: "",summary: ``,image: ''},
+			B00280MUZ8: {href: "https://www.amazon.com/dp/B00280MUZ8?tag=groovy0a1-20",nameProduct: `Husqvarna 125BVx, 28cc 2-Cycle Gas 425 CFM 170 MPH Handheld Leaf Blower/Vacuum - 952711902`,slug: "",summary: ``,image: ''}
 		}
 	}
 	return dataAMZ;
