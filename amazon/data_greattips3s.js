@@ -630,7 +630,7 @@ function getData(){
 			B07GXZ49DY: {href: "https://amzn.to/3jMG7u1",nameProduct: `Space-Saving Zero Gravity Full-Body Kahuna Massage Chair Recliner LM6800 with Yoga & Heating Therapy (Black)`,slug: "",summary: ``,image: ''},
 			B00IOEFBKS: {href: "https://amzn.to/3jmwXU0",nameProduct: `BLACK+DECKER 20V MAX Handheld Vacuum, Cordless, Grey (BDH2000PL)`,slug: "",summary: ``,image: ''},
 			B07FP186CN: {href: "https://amzn.to/3jmxipK",nameProduct: `TOTO MS900CUMFG#01 Neorest NX1 Electronic Dual Flush Toilet - Cotton White`,slug: "",summary: ``,image: ''},
-			B00W2KG92Y: {href: "https://amzn.to/3jP0o1Z",nameProduct: `Frigidaire FFRA0511R1E 5, 000 BTU 115V Window-Mounted Mini-Compact Air Conditioner with Mechanical Controls`,slug: "",summary: ``,image: ''},
+			B00W2KG92Y: {href: "https://www.amazon.com/dp/B07RGM11L5?tag=gt05e-20",nameProduct: `Frigidaire FFRA0511R1E 5, 000 BTU 115V Window-Mounted Mini-Compact Air Conditioner with Mechanical Controls`,slug: "",summary: ``,image: ''},
 			B002HRET3S: {href: "https://amzn.to/3jph5jz",nameProduct: `Zodiac Baracuda G3 W03000 Advanced Suction Side Automatic Pool Cleaner`,slug: "",summary: ``,image: ''},
 			B00D3KJN3O: {href: "https://amzn.to/3jqeCoZ",nameProduct: `Greenworks 10-Inch 8 Amp Corded Tiller 27072`,slug: "",summary: ``,image: ''},
 			B007QCXU5M: {href: "https://amzn.to/3jqgsq8",nameProduct: `STX International STX-DEH-1200W-XLS Dehydra Commercial Grade Stainless Steel Digital Food Dehydrator - 10 Trays - 1200 Watts - 165 Degree Fahrenheit - Jerky Safe with 15 Hour Timer`,slug: "",summary: ``,image: ''},
