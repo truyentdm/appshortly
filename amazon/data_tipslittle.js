@@ -166,7 +166,12 @@ function getData(){
 			B00LIAP2ZY: {href: "https://www.amazon.com/dp/B00LIAP2ZY?tag=tdg0af-20",nameProduct: `LG WM3997HWA Ventless 4.3 Cu. Ft. Capacity Steam Washer/Dryer Combination with TurboWash, TrueBalance Anti-Vibration System, NeveRust Stainless Steel Drum, Allergiene Cycle in White`,slug: "",summary: ``,image: ''},
 			B01DLPUWL2: {href: "https://www.amazon.com/dp/B01DLPUWL2?tag=tdg0af-20",nameProduct: `BLACK+DECKER BPACT08WT Portable Air Conditioner with Remote Control, 5,000 BTU DOE (8,000 BTU ASHRAE), Cools Up to 150 Square Feet, White`,slug: "",summary: ``,image: ''},
 			B0923RYP6Y: {href: "https://www.amazon.com/dp/B0923RYP6Y?tag=tdg0af-20",nameProduct: `WOODBRIDGE T-0001-CH Toilet, with Chrome Button`,slug: "",summary: ``,image: ''},
-			B07RGM11L5: {href: "https://www.amazon.com/dp/B07RGM11L5?tag=tdg0af-20",nameProduct: `FRIGIDAIRE 5,000 BTU 115V Window-Mounted Mini-Compact Air Conditioner with Mechanical Controls, White`,slug: "",summary: ``,image: ''}
+			B07RGM11L5: {href: "https://www.amazon.com/dp/B07RGM11L5?tag=tdg0af-20",nameProduct: `FRIGIDAIRE 5,000 BTU 115V Window-Mounted Mini-Compact Air Conditioner with Mechanical Controls, White`,slug: "",summary: ``,image: ''},
+			B0128T2HQK: {href: "https://www.amazon.com/dp/B0128T2HQK?tag=tdg0af-20",nameProduct: `SmartBidet SB-1000 Electric Bidet Seat for Elongated Toilets with Remote Control- Electronic Heated Toilet Seat with Warm Air Dryer and Temperature Controlled Wash Functions (White)`,slug: "",summary: ``,image: ''},
+			B08TQ6HDBK: {href: "https://www.amazon.com/dp/B08TQ6HDBK?tag=tdg0af-20",nameProduct: `ECOTRIC Electric Powerful Bicycle 26“ Fat Tire Bike 500W 36V/12AH Battery EBike Moped Snow Beach Mountain Ebike Throttle & Pedal Assist`,slug: "",summary: ``,image: ''},
+			B07J31T4NC: {href: "https://www.amazon.com/dp/B07J31T4NC?tag=tdg0af-20",nameProduct: `Nod by Tuft & Needle, Adaptive Foam 8-Inch Mattress, Queen`,slug: "",summary: ``,image: ''},
+			B06W54K29J: {href: "https://www.amazon.com/dp/B06W54K29J?tag=tdg0af-20",nameProduct: `LEVOIT Air Purifier for Home Large Room,Smoke and Odor Eliminator, H13 True HEPA Filter for Bedroom, Auto Mode & 12h Timer, Cleaners for Allergies and Pets, Mold Pollen Dust, LV-PUR131, White`,slug: "",summary: ``,image: ''},
+			B0028AYQDC: {href: "https://www.amazon.com/dp/B0028AYQDC?tag=tdg0af-20",nameProduct: `Whynter ARC-14S 14,000 BTU Dual Hose Portable Air Conditioner, Dehumidifier, Fan with Activated Carbon Filter Plus Storage Bag for Rooms up to 500 sq ft, Platinum and Black`,slug: "",summary: ``,image: ''}
 		}
 	}
 	return dataAMZ;
