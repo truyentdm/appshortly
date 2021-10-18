@@ -509,7 +509,13 @@ function getData(){
 			B074R7GK8V: {href: "https://www.amazon.com/dp/B074R7GK8V?tag=groovy0a1-20",nameProduct: `COSTWAY Mini Washing Machine with Spin Dryer, Washing Capacity 5.5lbs, Electric Compact Laundry Machines Portable Durable Design Washer Energy Saving, Rotary Controller`,slug: "",summary: ``,image: ''},
 			B07BN3B3YT: {href: "https://www.amazon.com/dp/B07BN3B3YT?tag=groovy0a1-20",nameProduct: `Avanti STW20D2P Portable Top Load Washer`,slug: "",summary: ``,image: ''},
 			B07F618LKC: {href: "https://www.amazon.com/dp/B07F618LKC?tag=groovy0a1-20",nameProduct: `COSTWAY Compact Laundry Dryer, 110V Electric Portable Clothes Dryer with Stainless Steel Tub, Control Panel Downside Easy Control for 4 Automatic Drying Mode, White`,slug: "",summary: ``,image: ''},
-			B00280MUZ8: {href: "https://www.amazon.com/dp/B00280MUZ8?tag=groovy0a1-20",nameProduct: `Husqvarna 125BVx, 28cc 2-Cycle Gas 425 CFM 170 MPH Handheld Leaf Blower/Vacuum - 952711902`,slug: "",summary: ``,image: ''}
+			B00280MUZ8: {href: "https://www.amazon.com/dp/B00280MUZ8?tag=groovy0a1-20",nameProduct: `Husqvarna 125BVx, 28cc 2-Cycle Gas 425 CFM 170 MPH Handheld Leaf Blower/Vacuum - 952711902`,slug: "",summary: ``,image: ''},
+			B0052OX876: {href: "https://www.amazon.com/dp/B0052OX876?tag=groovy0a1-20",nameProduct: `LOTOS LTP5000D 50Amp Non-Touch Pilot Arc Plasma Cutter, Dual Voltage 110V/220V, 1/2 Inch Clean Cut, Brown`,slug: "",summary: ``,image: ''},
+			B07983G4D4: {href: "https://www.amazon.com/dp/B07983G4D4?tag=groovy0a1-20",nameProduct: `DynastyMattress DM9000s Split King Adjustable Bed Base Frame, Top of The Line Quality, (Independent Head Tilt & Lumbar Support) Quad Massage, Bluetooth, Audio Music (Split King-Without Setup)`,slug: "",summary: ``,image: ''},
+			B0995PHG42: {href: "https://www.amazon.com/dp/B0995PHG42?tag=groovy0a1-20",nameProduct: `Comfier Shiatsu Neck & Back Massager Heating Pad – 2D/3D Kneading Full Back Massager with Heat & Adjustable Compression, Massage Chair Pad for Shoulder Neck and Back Waist Hips,Full Body`,slug: "",summary: ``,image: ''},
+			B00UWP07LK: {href: "https://www.amazon.com/dp/B00UWP07LK?tag=groovy0a1-20",nameProduct: `Frigidaire 70-Pint Dehumidifier, Gray & White`,slug: "",summary: ``,image: ''},
+			B07H79M8M6: {href: "https://www.amazon.com/dp/B07H79M8M6?tag=groovy0a1-20",nameProduct: `WOODBRIDGE Pure White, Dual Flush Elongated One Piece Toilet with Soft Closing Seat, Comfort Height, Water Sense, High-Efficiency, Rectangle Button, T-0001`,slug: "",summary: ``,image: ''},
+			B00EPNDJ24: {href: "https://www.amazon.com/dp/B00EPNDJ24?tag=groovy0a1-20",nameProduct: `Manitowoc CNF-0201A-L Ice Maker and Water Dispenser, Nugget Style, 315 Pound/24Hours`,slug: "",summary: ``,image: ''}
 		}
 	}
 	return dataAMZ;
