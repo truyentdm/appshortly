@@ -515,7 +515,12 @@ function getData(){
 			B0995PHG42: {href: "https://www.amazon.com/dp/B0995PHG42?tag=groovy0a1-20",nameProduct: `Comfier Shiatsu Neck & Back Massager Heating Pad – 2D/3D Kneading Full Back Massager with Heat & Adjustable Compression, Massage Chair Pad for Shoulder Neck and Back Waist Hips,Full Body`,slug: "",summary: ``,image: ''},
 			B00UWP07LK: {href: "https://www.amazon.com/dp/B00UWP07LK?tag=groovy0a1-20",nameProduct: `Frigidaire 70-Pint Dehumidifier, Gray & White`,slug: "",summary: ``,image: ''},
 			B07H79M8M6: {href: "https://www.amazon.com/dp/B07H79M8M6?tag=groovy0a1-20",nameProduct: `WOODBRIDGE Pure White, Dual Flush Elongated One Piece Toilet with Soft Closing Seat, Comfort Height, Water Sense, High-Efficiency, Rectangle Button, T-0001`,slug: "",summary: ``,image: ''},
-			B00EPNDJ24: {href: "https://www.amazon.com/dp/B00EPNDJ24?tag=groovy0a1-20",nameProduct: `Manitowoc CNF-0201A-L Ice Maker and Water Dispenser, Nugget Style, 315 Pound/24Hours`,slug: "",summary: ``,image: ''}
+			B00EPNDJ24: {href: "https://www.amazon.com/dp/B00EPNDJ24?tag=groovy0a1-20",nameProduct: `Manitowoc CNF-0201A-L Ice Maker and Water Dispenser, Nugget Style, 315 Pound/24Hours`,slug: "",summary: ``,image: ''},
+			B0899K884D: {href: "https://www.amazon.com/dp/B0899K884D?tag=groovy0a1-20",nameProduct: `ARLIME Portable Washing Machine Twin Tub 18lbs Capacity Washer and Dryer Combo Compact Mini Washer (11lbs) & Spin Dryer (7lbs) Sets for Apartments,Dorms,Bathroom or RV Camping`,slug: "",summary: ``,image: ''},
+			B08LKP2J69: {href: "https://www.amazon.com/dp/B08LKP2J69?tag=groovy0a1-20",nameProduct: `ROVSUN Full-Automatic Washing Machine, Compact 13lbs Portable Washer w/ 10 Programs 8 Water Levels, Perfect for Apartments, RVs and Dorm`,slug: "",summary: ``,image: ''},
+			B0863K8SNW: {href: "https://www.amazon.com/dp/B0863K8SNW?tag=groovy0a1-20",nameProduct: `SAFEPLUS Portable Clothes Washing Machines,Automatic Small Washer and Spin Dryer 7.7 lbs Load Capacity Compact Laundry Washer with Built in Barrel Light for Apartments RVs and Small Space Living`,slug: "",summary: ``,image: ''},
+			B08MVXH9WQ: {href: "https://www.amazon.com/dp/B08MVXH9WQ?tag=groovy0a1-20",nameProduct: `Portable Mini Folding Washing Machine, Magic Foldable Small Clothes Washing Machine Washer Laundry Tub Wash Machine for Travelling Apartment Dorm The Third Generation Double Blue Light Design(Pink)`,slug: "",summary: ``,image: ''},
+			B00OFBIP0C: {href: "https://www.amazon.com/dp/B00OFBIP0C?tag=groovy0a1-20",nameProduct: `RCA RPW210 WASHER, 2.1 cu ft, White`,slug: "",summary: ``,image: ''}
 		}
 	}
 	return dataAMZ;
