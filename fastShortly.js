@@ -1,4 +1,8 @@
-var dataFAST = getData();
+var namespace = String(location.host).split(".")[1];
+    namespace = namespace.charAt(0).toUpperCase() + namespace.slice(1);
+
+const ClassName = eval(`new ${namespace}()`);
+var dataFAST = ClassName.getData();
 var pathURL1 = location.pathname;
 	pathURL1 = pathURL1.replace("%E2%80%8B","")
 var pathURL = pathURL1.toUpperCase()
