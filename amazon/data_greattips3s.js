@@ -1,9 +1,16 @@
-function getData(){
-	const keysw = "www.greattips3s.com";
-	var keyAPI = (typeof keyhost != 'undefined') ? keyhost : document.location.host;
-	var dataAMZ = {};
-	if(keysw == keyAPI){
-		dataAMZ = {
+class Greattips3s{
+	constructor(){
+		this.tagws = "gt05e-20";
+		this.local = "us";
+		this.keyws = "www.greattips3s.com";
+		this.localws = "https://www.amazon.com/";
+	}
+	getData(){
+		const keysw = "www.greattips3s.com";
+		var keyAPI = (typeof keyhost != 'undefined') ? keyhost : document.location.host;
+		var dataAMZ = {};
+		if(keysw == keyAPI){
+			dataAMZ = {
 			B00MYWQL96: {href: "https://amzn.to/2FkKZaK",nameProduct: `Hessaire MC37M portable Evaporative Air Cooler for 750 sq. ft.`,slug: "",summary: ``,image: ''},
 			B002KV1MJU: {href: "https://amzn.to/2FkoUZS",nameProduct: `Marcy Recumbent Exercise Bike with Resistance ME-709.`,slug: "",summary: ``,image: ''},
 			B013OLI792: {href: "https://amzn.to/2FpRyc6",nameProduct: `PureGuardian H4810AR Ultrasonic Warm and Cool Mist Humidifier for Bedrooms, Quiet, Filter-Free, 120 Hr, 2 Gal Treated Tank Surface Resists Mold, Pure Guardian Humidifier with Essential Oil Tray`,slug: "",summary: ``,image: ''},
@@ -935,7 +942,8 @@ function getData(){
 			B07PQW4KJ4: {href: "https://amzn.to/3cWgENF",nameProduct: `Intex 26373EH 32ft x 16ft x 52in Ultra XTR Frame Above Ground Rectangular Swimming Pool Set with Sand Filter Pump, Ladder, Cover, & Maintenance Kit`,slug: "",summary: ``,image: ''},
 			B07GYWW355: {href: "https://amzn.to/31R6JCX",nameProduct: `Intex 26339EH Pool Set, 24ft X 52in, Gray`,slug: "",summary: ``,image: ''},
 			B07YZ8QJ4P: {href: "https://amzn.to/3cSzJQR",nameProduct: `Okaysou AirMic4S H13 HEPA Air Purifiers for Home Pets Hair Smokers with Washable Pre-filter, Timer, Night Light, Eliminates Smoke, Dust, Pollen, Pet Dander, VOCs, 300 Sq Ft, 100% Ozone Free`,slug: "",summary: ``,image: ''}
+			}
 		}
+		return dataAMZ;
 	}
-	return dataAMZ;
 }
