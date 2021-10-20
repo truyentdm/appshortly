@@ -1,3 +1,4 @@
+const tagws = "groovy0a1-20",local = "us",keyws = "www.groovybest.com", localws = "https://www.amazon.com/";
 function getData(){
 	const keysw = "www.groovybest.com";
 	var keyAPI = (typeof keyhost != 'undefined') ? keyhost : document.location.host;
