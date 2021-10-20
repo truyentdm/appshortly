@@ -1,10 +1,16 @@
-const tagws = "groovy0a1-20",local = "us",keyws = "www.groovybest.com", localws = "https://www.amazon.com/";
-function getData(){
-	const keysw = "www.groovybest.com";
-	var keyAPI = (typeof keyhost != 'undefined') ? keyhost : document.location.host;
-	var dataAMZ = {};
-	if(keysw == keyAPI){
-		dataAMZ = {
+class Groovybest{
+	constructor(){
+		this.tagws = "groovy0a1-20";
+		this.local = "us";
+		this.keyws = "www.groovybest.com";
+		this.localws = "https://www.amazon.com/";
+	}
+	getData(){
+		const keysw = "www.groovybest.com";
+		var keyAPI = (typeof keyhost != 'undefined') ? keyhost : document.location.host;
+		var dataAMZ = {};
+		if(keysw == keyAPI){
+			dataAMZ = {
 			B01ALBMIEI: {href: "https://amzn.to/39p1f6i",nameProduct: `Giantex Portable Mini Compact Twin Tub Washing Machine 17.6lbs Washer Spain Spinner, Blue+ White`,slug: "",summary: ``,image: ''},
 			B01KIMOEW4: {href: "https://amzn.to/2Phvc1g",nameProduct: `Hoover Spotless Portable Carpet & Upholstery Spot Cleaner, FH11300PC`,slug: "",summary: ``,image: ''},
 			B07NHVFWCQ: {href: "https://amzn.to/3crv34m",nameProduct: `Panda Full-Automatic Portable Machine, 1.34 Cu.ft,10lbs Capacity, Light Gray, PAN56MGP3, 10 Wash Programs, Compact Top Load Cloth Washer`,slug: "",summary: ``,image: ''},
@@ -522,7 +528,8 @@ function getData(){
 			B0863K8SNW: {href: "https://www.amazon.com/dp/B0863K8SNW?tag=groovy0a1-20",nameProduct: `SAFEPLUS Portable Clothes Washing Machines,Automatic Small Washer and Spin Dryer 7.7 lbs Load Capacity Compact Laundry Washer with Built in Barrel Light for Apartments RVs and Small Space Living`,slug: "",summary: ``,image: ''},
 			B08MVXH9WQ: {href: "https://www.amazon.com/dp/B08MVXH9WQ?tag=groovy0a1-20",nameProduct: `Portable Mini Folding Washing Machine, Magic Foldable Small Clothes Washing Machine Washer Laundry Tub Wash Machine for Travelling Apartment Dorm The Third Generation Double Blue Light Design(Pink)`,slug: "",summary: ``,image: ''},
 			B00OFBIP0C: {href: "https://www.amazon.com/dp/B00OFBIP0C?tag=groovy0a1-20",nameProduct: `RCA RPW210 WASHER, 2.1 cu ft, White`,slug: "",summary: ``,image: ''}
+			}
 		}
+		return dataAMZ;
 	}
-	return dataAMZ;
 }
