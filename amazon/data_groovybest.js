@@ -5,9 +5,9 @@ class Groovybest{
 		this.keyws = "www.groovybest.com";
 		this.localws = "https://www.amazon.com/";
 	}
-	getData(){
+	getData(keyhost=""){
 		const keysw = "www.groovybest.com";
-		var keyAPI = (typeof keyhost != 'undefined') ? keyhost : document.location.host;
+		var keyAPI = (typeof keyhost != 'undefined' || keyhost != "") ? keyhost : document.location.host;
 		var dataAMZ = {};
 		console.log("keyhost",keyhost);
 		console.log("keyAPI",keyAPI);
