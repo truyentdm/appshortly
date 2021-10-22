@@ -7,7 +7,7 @@ class Groovybest{
 	}
 	getData(keyhost=""){
 		const keysw = "www.groovybest.com";
-		var keyAPI = (typeof keyhost != 'undefined' || keyhost != "") ? keyhost : document.location.host;
+		var keyAPI = (typeof keyhost != 'undefined' && keyhost != "") ? keyhost : document.location.host;
 		var dataAMZ = {};
 		console.log("keyhost",keyhost);
 		console.log("keyAPI",keyAPI);
