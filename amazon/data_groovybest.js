@@ -9,6 +9,8 @@ class Groovybest{
 		const keysw = "www.groovybest.com";
 		var keyAPI = (typeof keyhost != 'undefined') ? keyhost : document.location.host;
 		var dataAMZ = {};
+		console.log("keyhost",keyhost);
+		console.log("keyAPI",keyAPI);
 		if(keysw == keyAPI){
 			dataAMZ = {
 			B01ALBMIEI: {href: "https://amzn.to/39p1f6i",nameProduct: `Giantex Portable Mini Compact Twin Tub Washing Machine 17.6lbs Washer Spain Spinner, Blue+ White`,slug: "",summary: ``,image: ''},
