@@ -5,9 +5,9 @@ class Tipslittle{
 		this.keyws = "www.tipslittle.com";
 		this.localws = "https://www.amazon.com/";
 	}
-	getData(){
+	getData(keyhost=''){
 		const keysw = "www.tipslittle.com";
-		var keyAPI = (typeof keyhost != 'undefined') ? keyhost : document.location.host;
+		var keyAPI = (typeof keyhost != 'undefined' && keyhost != '') ? keyhost : document.location.host;
 		var dataAMZ = {};
 		if(keysw == keyAPI){
 			dataAMZ = {
