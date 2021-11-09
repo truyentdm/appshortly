@@ -178,7 +178,13 @@ class Tipslittle{
 				B08TQ6HDBK: {href: "https://www.amazon.com/dp/B08TQ6HDBK?tag=tdg0af-20",nameProduct: `ECOTRIC Electric Powerful Bicycle 26“ Fat Tire Bike 500W 36V/12AH Battery EBike Moped Snow Beach Mountain Ebike Throttle & Pedal Assist`,slug: "",summary: ``,image: ''},
 				B07J31T4NC: {href: "https://www.amazon.com/dp/B07J31T4NC?tag=tdg0af-20",nameProduct: `Nod by Tuft & Needle, Adaptive Foam 8-Inch Mattress, Queen`,slug: "",summary: ``,image: ''},
 				B06W54K29J: {href: "https://www.amazon.com/dp/B06W54K29J?tag=tdg0af-20",nameProduct: `LEVOIT Air Purifier for Home Large Room,Smoke and Odor Eliminator, H13 True HEPA Filter for Bedroom, Auto Mode & 12h Timer, Cleaners for Allergies and Pets, Mold Pollen Dust, LV-PUR131, White`,slug: "",summary: ``,image: ''},
-				B0028AYQDC: {href: "https://www.amazon.com/dp/B0028AYQDC?tag=tdg0af-20",nameProduct: `Whynter ARC-14S 14,000 BTU Dual Hose Portable Air Conditioner, Dehumidifier, Fan with Activated Carbon Filter Plus Storage Bag for Rooms up to 500 sq ft, Platinum and Black`,slug: "",summary: ``,image: ''}
+				B0028AYQDC: {href: "https://www.amazon.com/dp/B0028AYQDC?tag=tdg0af-20",nameProduct: `Whynter ARC-14S 14,000 BTU Dual Hose Portable Air Conditioner, Dehumidifier, Fan with Activated Carbon Filter Plus Storage Bag for Rooms up to 500 sq ft, Platinum and Black`,slug: "",summary: ``,image: ''},
+				B06XMY9D5K: {href: "https://www.amazon.com/dp/B06XMY9D5K?tag=tdg0af-20",nameProduct: `Zinus Paul Metal and Wood Platform Bed with Wood Slat Support, Queen`,slug: "",summary: ``,image: ''},
+				B07BQL8L1K: {href: "https://www.amazon.com/dp/B07BQL8L1K?tag=tdg0af-20",nameProduct: `ZINUS Benton Sofa Couch / Grid Tufted Cushions / Easy, Tool-Free Assembly, Stone Grey`,slug: "",summary: ``,image: ''},
+				B07HDSMPDZ: {href: "https://www.amazon.com/dp/B07HDSMPDZ?tag=tdg0af-20",nameProduct: `WOODBRIDGE 59" Acrylic Freestanding Bathtub Contemporary Soaking Tub with Brushed Nickel Overflow and Drain, BTA1516, 67" B-0011`,slug: "",summary: ``,image: ''},
+				B074NDQ143: {href: "https://www.amazon.com/dp/B074NDQ143?tag=tdg0af-20",nameProduct: `Vibe Gel Memory Foam 12-Inch Mattress | CertiPUR-US Certified | Bed-in-a-Box, Queen`,slug: "",summary: ``,image: ''},
+				B005Q3VXDY: {href: "https://www.amazon.com/dp/B005Q3VXDY?tag=tdg0af-20",nameProduct: `simplehuman Steel Frame Kitchen Dish Drying Rack With Swivel Spout, Fingerprint-Proof Stainless Steel Frame, Grey Plastic, 2020 Model`,slug: "",summary: ``,image: ''},
+				B016J0EITS: {href: "https://www.amazon.com/dp/B016J0EITS?tag=tdg0af-20",nameProduct: `SureFire X300 Ultra Series LED WeaponLights with TIR Lens`,slug: "",summary: ``,image: ''}
 			}
 		}
 		return dataAMZ;
