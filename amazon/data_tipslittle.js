@@ -184,7 +184,13 @@ class Tipslittle{
 				B07HDSMPDZ: {href: "https://www.amazon.com/dp/B07HDSMPDZ?tag=tdg0af-20",nameProduct: `WOODBRIDGE 59" Acrylic Freestanding Bathtub Contemporary Soaking Tub with Brushed Nickel Overflow and Drain, BTA1516, 67" B-0011`,slug: "",summary: ``,image: ''},
 				B074NDQ143: {href: "https://www.amazon.com/dp/B074NDQ143?tag=tdg0af-20",nameProduct: `Vibe Gel Memory Foam 12-Inch Mattress | CertiPUR-US Certified | Bed-in-a-Box, Queen`,slug: "",summary: ``,image: ''},
 				B005Q3VXDY: {href: "https://www.amazon.com/dp/B005Q3VXDY?tag=tdg0af-20",nameProduct: `simplehuman Steel Frame Kitchen Dish Drying Rack With Swivel Spout, Fingerprint-Proof Stainless Steel Frame, Grey Plastic, 2020 Model`,slug: "",summary: ``,image: ''},
-				B016J0EITS: {href: "https://www.amazon.com/dp/B016J0EITS?tag=tdg0af-20",nameProduct: `SureFire X300 Ultra Series LED WeaponLights with TIR Lens`,slug: "",summary: ``,image: ''}
+				B016J0EITS: {href: "https://www.amazon.com/dp/B016J0EITS?tag=tdg0af-20",nameProduct: `SureFire X300 Ultra Series LED WeaponLights with TIR Lens`,slug: "",summary: ``,image: ''},
+				B078WNSQS1: {href: "https://www.amazon.com/dp/B078WNSQS1?tag=tdg0af-20",nameProduct: `Queen Mattress, Sweetnight Breeze 12 Inch Queen Size Mattress Medium Firm, Ventilated Memory Foam Mattress for a Deep Sleep, Supportive & Pressure Relief`,slug: "",summary: ``,image: ''},
+				B07GGF5RFF: {href: "https://www.amazon.com/dp/B07GGF5RFF?tag=tdg0af-20",nameProduct: `ZINUS Josh Sofa Couch / Easy, Tool-Free Assembly, Beige`,slug: "",summary: ``,image: ''},
+				B01DD6C4TC: {href: "https://www.amazon.com/dp/B01DD6C4TC?tag=tdg0af-20",nameProduct: `Mr. Heater F274830 MH18BRV Big Buddy Grey Indoor-Safe Portable RV Propane Heater (4,000 , 9,000 and 18,000 BTU)`,slug: "",summary: ``,image: ''},
+				B07F2MDFB2: {href: "https://www.amazon.com/dp/B07F2MDFB2?tag=tdg0af-20",nameProduct: `Phiestina Wine and Beverage Refrigerator | 24 Inch Built-In Dual Zone Wine Beer Cooler Refrigerator | Free Standing French Door Drink Fridge with Digital Memory Temperature Control`,slug: "",summary: ``,image: ''},
+				B0787BVSTH: {href: "https://www.amazon.com/dp/B0787BVSTH?tag=tdg0af-20",nameProduct: `Luna Adult Weighted Blanket - Individual Use - 15 Lbs - 60x80 - Queen Size Bed - 100% Oeko-Tex Cooling Cotton & Glass Beads - USA Designed - Heavy Cool Weight - Blue & White Striped`,slug: "",summary: ``,image: ''},
+				B00BRUNPXQ: {href: "https://www.amazon.com/dp/B00BRUNPXQ?tag=tdg0af-20",nameProduct: `Sauder August Hill L-Shaped Desk, Dover Oak finish`,slug: "",summary: ``,image: ''}
 			}
 		}
 		return dataAMZ;
