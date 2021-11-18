@@ -196,7 +196,8 @@ class Tipslittle{
 				B0815X9RSG: {href: "https://www.amazon.com/dp/B0815X9RSG?tag=tdg0af-20",nameProduct: `simplehuman 45 Liter / 12 Gallon Liter Rectangular Hands-Free Kitchen Step Trash Can with Soft-Close Lid, Brushed Stainless Steel with Plastic Lid`,slug: "",summary: ``,image: ''},
 				B01EAG9X84: {href: "https://www.amazon.com/dp/B01EAG9X84?tag=tdg0af-20",nameProduct: `Sleep Innovations Shiloh 12-inch Memory Foam Mattress, Bed in a Box, Quilted Cover, Made in The USA, 10-Year Warranty - Full Size`,slug: "",summary: ``,image: ''},
 				B01H006HXQ: {href: "https://www.amazon.com/dp/B01H006HXQ?tag=tdg0af-20",nameProduct: `Human Touch Novo Full Body Coverage Zero-Gravity L-Track Massage Chair, Black`,slug: "",summary: ``,image: ''},
-				B016WJWC44: {href: "https://www.amazon.com/dp/B016WJWC44?tag=tdg0af-20",nameProduct: `Olee Sleep Aquarius 10-Inch Memory Foam Mattress in Blue, Twin`,slug: "",summary: ``,image: ''}
+				B016WJWC44: {href: "https://www.amazon.com/dp/B016WJWC44?tag=tdg0af-20",nameProduct: `Olee Sleep Aquarius 10-Inch Memory Foam Mattress in Blue, Twin`,slug: "",summary: ``,image: ''},
+				B08DG6VFWS: {href: "https://www.amazon.com/dp/B08DG6VFWS?tag=tdg0af-20",nameProduct: `simplehuman Kitchen Dish Drying Rack With Swivel Spout, Fingerprint-Proof Stainless Steel Frame, Grey Plastic, 2021 Model`,slug: "",summary: ``,image: ''}
 			}
 		}
 		return dataAMZ;
