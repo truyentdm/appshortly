@@ -538,7 +538,12 @@ class Groovybest{
 				B00T4RH8E6: {href: "https://www.amazon.com/dp/B00T4RH8E6?tag=groovy0a1-20",nameProduct: `Hamilton Beach (76606ZA) Smooth Touch Electric Automatic Can Opener with Easy Push Down Lever, Opens All Standard-Size and Pop-Top Cans, Extra Tall, Black and Chrome`,slug: "",summary: ``,image: ''},
 				B000EJVYTS: {href: "https://www.amazon.com/dp/B000EJVYTS?tag=groovy0a1-20",nameProduct: `iTouchless 13 Gallon Automatic Trash Can with Odor-Absorbing Filter and Lid Lock, Power by Batteries (not included) or Optional AC Adapter (sold separately), Black/Stainless Steel`,slug: "",summary: ``,image: ''},
 				B00CPGMUXW: {href: "https://www.amazon.com/dp/B00CPGMUXW?tag=groovy0a1-20",nameProduct: `Sun Joe SPX3000 2030 Max PSI 1.76 GPM 14.5-Amp Electric High Pressure Washer, Cleans Cars/Fences/Patios`,slug: "",summary: ``,image: ''},
-				B00CBFAE6W: {href: "https://www.amazon.com/dp/B00CBFAE6W?tag=groovy0a1-20",nameProduct: `THERMOS FUNTAINER 10 Ounce Stainless Steel Vacuum Insulated Kids Food Jar, Blue`,slug: "",summary: ``,image: ''}
+				B00CBFAE6W: {href: "https://www.amazon.com/dp/B00CBFAE6W?tag=groovy0a1-20",nameProduct: `THERMOS FUNTAINER 10 Ounce Stainless Steel Vacuum Insulated Kids Food Jar, Blue`,slug: "",summary: ``,image: ''},
+				B00C66C950: {href: "https://www.amazon.com/dp/B00C66C950?tag=groovy0a1-20",nameProduct: `Nikon 7576 Monarch 5 8x42 Binocular (Black)`,slug: "",summary: ``,image: ''},
+				B00F74RX40: {href: "https://www.amazon.com/dp/B00F74RX40?tag=groovy0a1-20",nameProduct: `ASSAULTFITNESS Assault AirBike Classic, Black`,slug: "",summary: ``,image: ''},
+				B012PE6COQ: {href: "https://www.amazon.com/dp/B012PE6COQ?tag=groovy0a1-20",nameProduct: `ElliptiGO 8C Long Stride Outdoor Elliptical Bike and Best Hybrid Indoor Exercise Trainer`,slug: "",summary: ``,image: ''},
+				B01KAGX6XQ: {href: "https://www.amazon.com/dp/B01KAGX6XQ?tag=groovy0a1-20",nameProduct: `Schwinn Fitness 430 Elliptical`,slug: "",summary: ``,image: ''},
+				B01MY88ZZ0: {href: "https://www.amazon.com/dp/B01MY88ZZ0?tag=groovy0a1-20",nameProduct: `Schwinn Fitness 470 Elliptical`,slug: "",summary: ``,image: ''}
 			}
 		}
 		return dataAMZ;
