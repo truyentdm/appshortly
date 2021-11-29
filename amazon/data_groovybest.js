@@ -543,7 +543,12 @@ class Groovybest{
 				B00F74RX40: {href: "https://www.amazon.com/dp/B00F74RX40?tag=groovy0a1-20",nameProduct: `ASSAULTFITNESS Assault AirBike Classic, Black`,slug: "",summary: ``,image: ''},
 				B012PE6COQ: {href: "https://www.amazon.com/dp/B012PE6COQ?tag=groovy0a1-20",nameProduct: `ElliptiGO 8C Long Stride Outdoor Elliptical Bike and Best Hybrid Indoor Exercise Trainer`,slug: "",summary: ``,image: ''},
 				B01KAGX6XQ: {href: "https://www.amazon.com/dp/B01KAGX6XQ?tag=groovy0a1-20",nameProduct: `Schwinn Fitness 430 Elliptical`,slug: "",summary: ``,image: ''},
-				B01MY88ZZ0: {href: "https://www.amazon.com/dp/B01MY88ZZ0?tag=groovy0a1-20",nameProduct: `Schwinn Fitness 470 Elliptical`,slug: "",summary: ``,image: ''}
+				B01MY88ZZ0: {href: "https://www.amazon.com/dp/B01MY88ZZ0?tag=groovy0a1-20",nameProduct: `Schwinn Fitness 470 Elliptical`,slug: "",summary: ``,image: ''},
+				B074F1S194: {href: "https://www.amazon.com/dp/B074F1S194?tag=groovy0a1-20",nameProduct: `Cubii JR1 Seated Under Desk Elliptical Machine for Home Workout, Mini Elliptical, Desk Bike Pedal Exerciser, Whisper Quiet, Under Desk Pedal Exerciser w/Adjustable Resistance & LCD Display`,slug: "",summary: ``,image: ''},
+				B083XBY2T8: {href: "https://www.amazon.com/dp/B083XBY2T8?tag=groovy0a1-20",nameProduct: `Life Fitness Discover SE 95X Elevation Elliptical (Renewed)`,slug: "",summary: ``,image: ''},
+				B00PCCBY7Y: {href: "https://www.amazon.com/dp/B00PCCBY7Y?tag=groovy0a1-20",nameProduct: `Life Fitness E1 Go Cross-Trainer, Titanium`,slug: "",summary: ``,image: ''},
+				B00BDMH10Q: {href: "https://www.amazon.com/dp/B00BDMH10Q?tag=groovy0a1-20",nameProduct: `Stamina InMotion Compact Strider with Cords`,slug: "",summary: ``,image: ''},
+				B009N9PW1Q: {href: "https://www.amazon.com/dp/B009N9PW1Q?tag=groovy0a1-20",nameProduct: `Stamina 55-1602 Inmotion Elliptical`,slug: "",summary: ``,image: ''}
 			}
 		}
 		return dataAMZ;
