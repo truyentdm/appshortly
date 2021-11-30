@@ -548,7 +548,12 @@ class Groovybest{
 				B083XBY2T8: {href: "https://www.amazon.com/dp/B083XBY2T8?tag=groovy0a1-20",nameProduct: `Life Fitness Discover SE 95X Elevation Elliptical (Renewed)`,slug: "",summary: ``,image: ''},
 				B00PCCBY7Y: {href: "https://www.amazon.com/dp/B00PCCBY7Y?tag=groovy0a1-20",nameProduct: `Life Fitness E1 Go Cross-Trainer, Titanium`,slug: "",summary: ``,image: ''},
 				B00BDMH10Q: {href: "https://www.amazon.com/dp/B00BDMH10Q?tag=groovy0a1-20",nameProduct: `Stamina InMotion Compact Strider with Cords`,slug: "",summary: ``,image: ''},
-				B009N9PW1Q: {href: "https://www.amazon.com/dp/B009N9PW1Q?tag=groovy0a1-20",nameProduct: `Stamina 55-1602 Inmotion Elliptical`,slug: "",summary: ``,image: ''}
+				B009N9PW1Q: {href: "https://www.amazon.com/dp/B009N9PW1Q?tag=groovy0a1-20",nameProduct: `Stamina 55-1602 Inmotion Elliptical`,slug: "",summary: ``,image: ''},
+				B07G4LY55F: {href: "https://www.amazon.com/dp/B07G4LY55F?tag=groovy0a1-20",nameProduct: `CYBEX 750AT Total Body Arc Trainer (Renewed)`,slug: "",summary: ``,image: ''},
+				B01M0MTK24: {href: "https://www.amazon.com/dp/B01M0MTK24?tag=groovy0a1-20",nameProduct: `Firman H08051 Extended Run Time Generator Electric Start`,slug: "",summary: ``,image: ''},
+				B078WHZ564: {href: "https://www.amazon.com/dp/B078WHZ564?tag=groovy0a1-20",nameProduct: `JEGS Plasma Cutter | 110V AC | 220V AC | 60% @ 30A`,slug: "",summary: ``,image: ''},
+				B0001Q2VPU: {href: "https://www.amazon.com/dp/B0001Q2VPU?tag=groovy0a1-20",nameProduct: `Makita MAC5200 3.0 HP Big Bore Air Compressor`,slug: "",summary: ``,image: ''},
+				B07GTHT6QP: {href: "https://www.amazon.com/dp/B07GTHT6QP?tag=groovy0a1-20",nameProduct: `Certified Refurbished Ring Video Doorbell 2`,slug: "",summary: ``,image: ''}
 			}
 		}
 		return dataAMZ;
