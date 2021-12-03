@@ -553,7 +553,12 @@ class Groovybest{
 				B01M0MTK24: {href: "https://www.amazon.com/dp/B01M0MTK24?tag=groovy0a1-20",nameProduct: `Firman H08051 Extended Run Time Generator Electric Start`,slug: "",summary: ``,image: ''},
 				B078WHZ564: {href: "https://www.amazon.com/dp/B078WHZ564?tag=groovy0a1-20",nameProduct: `JEGS Plasma Cutter | 110V AC | 220V AC | 60% @ 30A`,slug: "",summary: ``,image: ''},
 				B0001Q2VPU: {href: "https://www.amazon.com/dp/B0001Q2VPU?tag=groovy0a1-20",nameProduct: `Makita MAC5200 3.0 HP Big Bore Air Compressor`,slug: "",summary: ``,image: ''},
-				B07GTHT6QP: {href: "https://www.amazon.com/dp/B07GTHT6QP?tag=groovy0a1-20",nameProduct: `Certified Refurbished Ring Video Doorbell 2`,slug: "",summary: ``,image: ''}
+				B07GTHT6QP: {href: "https://www.amazon.com/dp/B07GTHT6QP?tag=groovy0a1-20",nameProduct: `Certified Refurbished Ring Video Doorbell 2`,slug: "",summary: ``,image: ''},
+				B00MVWGQX0: {href: "https://www.amazon.com/dp/B00MVWGQX0?tag=groovy0a1-20",nameProduct: `Cuisinart DCC-3200P1 Perfectemp Coffee Maker, 14 Cup Progammable with Glass Carafe, Stainless Steel`,slug: "",summary: ``,image: ''},
+				B07RLYTG5X: {href: "https://www.amazon.com/dp/B07RLYTG5X?tag=groovy0a1-20",nameProduct: `Bowflex Max Trainer Series`,slug: "",summary: ``,image: ''},
+				B00RT9RQXY: {href: "https://www.amazon.com/dp/B00RT9RQXY?tag=groovy0a1-20",nameProduct: `Masimo MightySat Fingertip Pulse Oximeter | Monitor Blood Oxygen & Heart Rate | Hospital Grade Technology`,slug: "",summary: ``,image: ''},
+				B00542NV32: {href: "https://www.amazon.com/dp/B00542NV32?tag=groovy0a1-20",nameProduct: `Garmin eTrex 10 Worldwide Handheld GPS Navigator`,slug: "",summary: ``,image: ''},
+				B01F2EXIFM: {href: "https://www.amazon.com/dp/B01F2EXIFM?tag=groovy0a1-20",nameProduct: `Fluance RT81 Elite High Fidelity Vinyl Turntable Record Player with Audio Technica AT95E Cartridge, Belt Drive, Built-in Preamp, Adjustable Counterweight, Solid Wood Plinth - Walnut`,slug: "",summary: ``,image: ''}
 			}
 		}
 		return dataAMZ;
