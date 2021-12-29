@@ -371,6 +371,28 @@ function addHtml(isSource,glink,nameProduct,numPost =5,idWeb="Blog1"){
 		window.location.href = glink;
 	}
 }
+function addHtmlCa(isSource,glink,nameProduct,numPost =5,tagazm="",idWeb="Blog1"){
+	let dataContent = shortlyContent();
+	let dataRedirect = [{title: nameProduct,href: glink}]
+	let keysData = Object.keys(dataAMZ);
+	let ksLength = keysData.length;
+	let ks = 0;
+	let keyItem = "";
+	for(let i=0;i<numPost;i++){
+		let urlCa = dataAMZ[keyItem].origin+"?tag="+tagazm
+		urlCa = urlCa.replace(".com",".ca");
+		ks = getRandomInt(0,ksLength);
+		keyItem = keysData[ks];
+		dataRedirect.push({title: dataAMZ[keyItem].nameProduct,href: urlCa})
+	}
+	console.log(dataRedirect);
+	//document.getElementById(idWeb).innerHTML = htmlShortly(dataContent,dataRedirect);
+	document.getElementById(idWeb).innerHTML = htmlWrapShortly(objURL[objURL.length-1].toUpperCase(),dataContent,dataRedirect);
+	if(isSource){
+		//Transfer
+		window.location.href = glink;
+	}
+}
 function joinHTML(isSource,glink,dataText={title: "You will be redirected to the purchase page",contentText: "Services LLC Associates Program"},idWeb="Blog1"){
 	document.getElementById(idWeb).innerHTML = textRedirect404(glink,dataText);
 	if(isSource){
