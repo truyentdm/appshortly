@@ -379,10 +379,10 @@ function addHtmlCa(isSource,glink,nameProduct,numPost =5,tagazm="",idWeb="Blog1"
 	let ks = 0;
 	let keyItem = "";
 	for(let i=0;i<numPost;i++){
-		let urlCa = dataAMZ[keyItem].origin+"?tag="+tagazm
-		urlCa = urlCa.replace(".com",".ca");
 		ks = getRandomInt(0,ksLength);
 		keyItem = keysData[ks];
+		let urlCa = dataAMZ[keyItem].origin+"?tag="+tagazm
+		urlCa = urlCa.replace(".com",".ca");
 		dataRedirect.push({title: dataAMZ[keyItem].nameProduct,href: urlCa})
 	}
 	console.log(dataRedirect);
